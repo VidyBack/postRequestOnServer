@@ -1,0 +1,19 @@
+{
+  "name": "postrequestonserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VidyBack/postRequestOnServer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VidyBack/postRequestOnServer/issues"
+  },
+  "homepage": "https://github.com/VidyBack/postRequestOnServer#readme"
+}
