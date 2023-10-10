@@ -9,7 +9,7 @@ const adapter = new FileSync('db.json');
 const db = low(adapter);
 
 
-server.use(middlewares);++
+server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
 server.post('/your-endpoint', (req, res) => {
@@ -18,7 +18,6 @@ server.post('/your-endpoint', (req, res) => {
   const newData = req.body;
  // Add a new post
 db.get('posts').push(newData).write();
-
 
 console.log('Added new post:', newData);
 
