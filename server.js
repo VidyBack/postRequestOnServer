@@ -18,6 +18,9 @@ server.post('/your-endpoint', (req, res) => {
   const newData = req.body;
  // Add a new post
 db.get('posts').push(newData).write();
+db.data.posts.push({ id: 1, title: 'lowdb is awesome' });
+db.write()
+
 
 console.log('Added new post:', newData);
 
