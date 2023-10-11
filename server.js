@@ -13,6 +13,7 @@ server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
 server.post('/your-endpoint', (req, res) => {
+
   // Process the request body and add/update data in db.json using lowdb
   // For example:
   const newData = req.body;
@@ -20,13 +21,10 @@ server.post('/your-endpoint', (req, res) => {
 db.get('posts').push(newData).write();
 db.data.posts.push({ id: 1, title: 'lowdb is awesome' });
 db.write()
-
-
 console.log('Added new post:', newData);
-
-
-  res.status(200).json(newData);
+res.status(200).json(newData);
 });
+
 
 server.use(router);
 
