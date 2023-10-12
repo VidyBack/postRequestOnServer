@@ -1,16 +1,16 @@
 {
-  "TEMPLATES_DEV":[
+  "TEMPLATES_DEV": [
     {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
-          ""
+        ""
       ],
       "fontUrl": [
-          ""
+        ""
       ],
       "bgImageUrl": [
-          ""
+        ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XCsOe_1666164921547_mixkit-easy-times-20.mp3",
       "fillEnabled": true,
@@ -18,33 +18,33 @@
       "pro": false,
       "createdOn": "2023-09-25T11:42:30.194Z",
       "extraComps": [
-          {
-              "index": 7,
-              "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-          }
+        {
+          "index": 7,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
       ],
       "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CI4iL_1695641736241_08-multiproduct-updated-portrait.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_CI4iL_1695641736241_08-multiproduct-updated-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
       ],
       "type": "Post 4:5",
       "name": "08-multiproduct-updated-portrait",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-          "p_ps"
+        "p_ps"
       ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EnJF1_1695641736245_08-multiproduct-updated-portrait.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0T5ow_1695641736243_08-multiproduct-updated-portrait.jpg",
@@ -62,83 +62,83 @@
       "volume": 0.3,
       "isMultipleTemplate": true,
       "previews": [
-          {
-              "Accessories": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LtRxE_1695642138822_08-multiproduct-updated-portrait-Accessories.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TaShA_1695642143037_08-multiproduct-updated-portrait-Accessories.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Toys": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFa0y_1695642138823_08-multiproduct-updated-portrait-Toys.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qllPX_1695642143040_08-multiproduct-updated-portrait-Toys.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HealthFitness": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yvTXk_1695642138824_08-multiproduct-updated-portrait-HealthFitness.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aciB__1695642143041_08-multiproduct-updated-portrait-HealthFitness.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Perfumes": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_m5omp_1695642138825_08-multiproduct-updated-portrait-Perfumes.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2X8nF_1695642143043_08-multiproduct-updated-portrait-Perfumes.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "BagPurse": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VqCrV_1695642138827_08-multiproduct-updated-portrait-BagPurse.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4fg67_1695642143045_08-multiproduct-updated-portrait-BagPurse.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HealthBeauty": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ymmqa_1695642138828_08-multiproduct-updated-portrait-HealthBeauty.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fuOdN_1695642143047_08-multiproduct-updated-portrait-HealthBeauty.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "MobileElec": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wrkNx_1695642138829_08-multiproduct-updated-portrait-MobileElec.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IMEiV_1695642143049_08-multiproduct-updated-portrait-MobileElec.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Clothings": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0_qNV_1695642138830_08-multiproduct-updated-portrait-Clothings.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__1-He_1695642143051_08-multiproduct-updated-portrait-Clothings.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Footwear": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JvOoO_1695642138831_08-multiproduct-updated-portrait-Footwear.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J5KI9_1695642143053_08-multiproduct-updated-portrait-Footwear.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Wearables": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OJsJe_1695642138841_08-multiproduct-updated-portrait-Wearables.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TfbB8_1695642143054_08-multiproduct-updated-portrait-Wearables.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Jewellery": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8IZGd_1695642138842_08-multiproduct-updated-portrait-Jewellery.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lNOb2_1695642143056_08-multiproduct-updated-portrait-Jewellery.mp4",
-                  "promoHeading": ""
-              }
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LtRxE_1695642138822_08-multiproduct-updated-portrait-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TaShA_1695642143037_08-multiproduct-updated-portrait-Accessories.mp4",
+            "promoHeading": ""
           }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFa0y_1695642138823_08-multiproduct-updated-portrait-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qllPX_1695642143040_08-multiproduct-updated-portrait-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yvTXk_1695642138824_08-multiproduct-updated-portrait-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aciB__1695642143041_08-multiproduct-updated-portrait-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_m5omp_1695642138825_08-multiproduct-updated-portrait-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2X8nF_1695642143043_08-multiproduct-updated-portrait-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VqCrV_1695642138827_08-multiproduct-updated-portrait-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4fg67_1695642143045_08-multiproduct-updated-portrait-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ymmqa_1695642138828_08-multiproduct-updated-portrait-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fuOdN_1695642143047_08-multiproduct-updated-portrait-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wrkNx_1695642138829_08-multiproduct-updated-portrait-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IMEiV_1695642143049_08-multiproduct-updated-portrait-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0_qNV_1695642138830_08-multiproduct-updated-portrait-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__1-He_1695642143051_08-multiproduct-updated-portrait-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JvOoO_1695642138831_08-multiproduct-updated-portrait-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J5KI9_1695642143053_08-multiproduct-updated-portrait-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OJsJe_1695642138841_08-multiproduct-updated-portrait-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TfbB8_1695642143054_08-multiproduct-updated-portrait-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8IZGd_1695642138842_08-multiproduct-updated-portrait-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lNOb2_1695642143056_08-multiproduct-updated-portrait-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        }
       ],
       "id": "DpPY0Pf64_1MnbDwe2",
       "templateId": "DpPY0Pf64_1MnbDwe2"
@@ -147,13 +147,13 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
-          ""
+        ""
       ],
       "fontUrl": [
-          ""
+        ""
       ],
       "bgImageUrl": [
-          ""
+        ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2NGJK_1666165233823_mixkit-one-night-gamble-1152.mp3",
       "fillEnabled": true,
@@ -161,33 +161,33 @@
       "pro": false,
       "createdOn": "2023-09-23T12:44:55.651Z",
       "extraComps": [
-          {
-              "index": 7,
-              "compId": "1666868629167_18-BrandOutro-Story"
-          }
+        {
+          "index": 7,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
       ],
       "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_jUTJJ_1695472729015_01-discount-in-prices-story.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_jUTJJ_1695472729015_01-discount-in-prices-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
       ],
       "type": "Instagram Stories",
       "name": "01-discount-in-prices-story",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-          "p_dPr"
+        "p_dPr"
       ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1jDKO_1695472729019_01-discount-in-prices-story.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Z4_tI_1695472729017_01-discount-in-prices-story.jpg",
@@ -205,204 +205,204 @@
       "volume": 0.3,
       "isMultipleTemplate": false,
       "previews": [
-          {
-              "Toys": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qPN31_1695473086587_01-discount-in-prices-story-Toys.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IvJKo_1695473090327_01-discount-in-prices-story-Toys.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HealthFitness": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S1XDt_1695473086589_01-discount-in-prices-story-HealthFitness.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_emltg_1695473090329_01-discount-in-prices-story-HealthFitness.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Perfumes": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n_BJ0_1695473086590_01-discount-in-prices-story-Perfumes.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k1CDE_1695473090331_01-discount-in-prices-story-Perfumes.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "BagPurse": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NuFbi_1695473086592_01-discount-in-prices-story-BagPurse.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_C3jOg_1695473090333_01-discount-in-prices-story-BagPurse.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "HealthBeauty": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z_FQk_1695473086593_01-discount-in-prices-story-HealthBeauty.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WOF2n_1695473090335_01-discount-in-prices-story-HealthBeauty.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "MobileElec": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VyvXX_1695473086594_01-discount-in-prices-story-MobileElec.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sOdCj_1695473090336_01-discount-in-prices-story-MobileElec.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Footwear": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_90FDp_1695473086596_01-discount-in-prices-story-Footwear.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qrtKM_1695473090338_01-discount-in-prices-story-Footwear.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Jewellery": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GJVEN_1695473086597_01-discount-in-prices-story-Jewellery.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_43qBx_1695473090340_01-discount-in-prices-story-Jewellery.mp4",
-                  "promoHeading": ""
-              }
-          },
-          {
-              "Wearables": {
-                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__MPSq_1695473086598_01-discount-in-prices-story-Wearables.jpg",
-                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MwfjW_1695473090342_01-discount-in-prices-story-Wearables.mp4",
-                  "promoHeading": ""
-              }
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qPN31_1695473086587_01-discount-in-prices-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IvJKo_1695473090327_01-discount-in-prices-story-Toys.mp4",
+            "promoHeading": ""
           }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S1XDt_1695473086589_01-discount-in-prices-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_emltg_1695473090329_01-discount-in-prices-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n_BJ0_1695473086590_01-discount-in-prices-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k1CDE_1695473090331_01-discount-in-prices-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NuFbi_1695473086592_01-discount-in-prices-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_C3jOg_1695473090333_01-discount-in-prices-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z_FQk_1695473086593_01-discount-in-prices-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WOF2n_1695473090335_01-discount-in-prices-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VyvXX_1695473086594_01-discount-in-prices-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sOdCj_1695473090336_01-discount-in-prices-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_90FDp_1695473086596_01-discount-in-prices-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qrtKM_1695473090338_01-discount-in-prices-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GJVEN_1695473086597_01-discount-in-prices-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_43qBx_1695473090340_01-discount-in-prices-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__MPSq_1695473086598_01-discount-in-prices-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MwfjW_1695473090342_01-discount-in-prices-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
       ],
       "id": "1_DpPf64_1MnbDwe2",
       "templateId": "1_DpPf64_1MnbDwe2"
     },
     {
-    "version": 1,
-    "gifUrl": "",
-    "bgVideoUrl": [
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
-    ],
-    "fontUrl": [
+      ],
+      "fontUrl": [
         ""
-    ],
-    "bgImageUrl": [
+      ],
+      "bgImageUrl": [
         ""
-    ],
-    "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
-    "fillEnabled": true,
-    "forWebsites": [],
-    "pro": false,
-    "createdOn": "2023-09-23T13:23:24.701Z",
-    "extraComps": [
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-23T13:23:24.701Z",
+      "extraComps": [
         {
-            "index": 7,
-            "compId": "1666868607828_17-BrandOutro-Story"
+          "index": 7,
+          "compId": "1666868607828_17-BrandOutro-Story"
         }
-    ],
-    "widgetsDefinition": [
+      ],
+      "widgetsDefinition": [
         {
-            "mappingKeyMandatory": false,
-            "Height": "100%",
-            "Width": "100%",
-            "StartTime": 0,
-            "EndTime": -1,
-            "URLS": [],
-            "mappingKeyValue": "",
-            "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_KsUM7_1695474992868_03-discount-in-price-stroy.json",
-            "X": "0.0%",
-            "Y": "0.0%",
-            "type": "SVG_SINGLE",
-            "duration": 10
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_KsUM7_1695474992868_03-discount-in-price-stroy.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
         }
-    ],
-    "type": "Instagram Stories",
-    "name": "03-discount-in-price-stroy",
-    "brandEnabled": false,
-    "brandType": "X1",
-    "category": [
+      ],
+      "type": "Instagram Stories",
+      "name": "03-discount-in-price-stroy",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
         "p_dPr"
-    ],
-    "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_74Vfs_1695474992872_03-discount-in-price-stroy.mp4",
-    "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QSILe_1695474992870_03-discount-in-price-stroy.jpg",
-    "imageType": "Instagram Stories",
-    "outroType": null,
-    "introType": null,
-    "Height": 1920,
-    "Width": 1080,
-    "height": 1920,
-    "width": 1080,
-    "introId": null,
-    "outroId": null,
-    "isTransparent": false,
-    "AddId": "",
-    "volume": 0.3,
-    "isMultipleTemplate": false,
-    "previews": [
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_74Vfs_1695474992872_03-discount-in-price-stroy.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QSILe_1695474992870_03-discount-in-price-stroy.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
         {
-            "Toys": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d6zxd_1695475390397_03-discount-in-price-stroy-Toys.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lX2I7_1695475394589_03-discount-in-price-stroy-Toys.mp4",
-                "promoHeading": ""
-            }
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d6zxd_1695475390397_03-discount-in-price-stroy-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lX2I7_1695475394589_03-discount-in-price-stroy-Toys.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "HealthFitness": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8qHvk_1695475390399_03-discount-in-price-stroy-HealthFitness.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kyT7k_1695475394590_03-discount-in-price-stroy-HealthFitness.mp4",
-                "promoHeading": ""
-            }
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8qHvk_1695475390399_03-discount-in-price-stroy-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kyT7k_1695475394590_03-discount-in-price-stroy-HealthFitness.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "Perfumes": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8txIT_1695475390402_03-discount-in-price-stroy-Perfumes.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qNpF0_1695475394593_03-discount-in-price-stroy-Perfumes.mp4",
-                "promoHeading": ""
-            }
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8txIT_1695475390402_03-discount-in-price-stroy-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qNpF0_1695475394593_03-discount-in-price-stroy-Perfumes.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "BagPurse": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UlR8u_1695475390403_03-discount-in-price-stroy-BagPurse.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r6Iki_1695475394595_03-discount-in-price-stroy-BagPurse.mp4",
-                "promoHeading": ""
-            }
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UlR8u_1695475390403_03-discount-in-price-stroy-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r6Iki_1695475394595_03-discount-in-price-stroy-BagPurse.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "HealthBeauty": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GB2Rv_1695475390404_03-discount-in-price-stroy-HealthBeauty.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DEp4k_1695475394597_03-discount-in-price-stroy-HealthBeauty.mp4",
-                "promoHeading": ""
-            }
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GB2Rv_1695475390404_03-discount-in-price-stroy-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DEp4k_1695475394597_03-discount-in-price-stroy-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "MobileElec": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FCdGM_1695475390405_03-discount-in-price-stroy-MobileElec.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B6vd5_1695475394599_03-discount-in-price-stroy-MobileElec.mp4",
-                "promoHeading": ""
-            }
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FCdGM_1695475390405_03-discount-in-price-stroy-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B6vd5_1695475394599_03-discount-in-price-stroy-MobileElec.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "Footwear": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Gv1fZ_1695475390407_03-discount-in-price-stroy-Footwear.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4BVHJ_1695475394601_03-discount-in-price-stroy-Footwear.mp4",
-                "promoHeading": ""
-            }
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Gv1fZ_1695475390407_03-discount-in-price-stroy-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4BVHJ_1695475394601_03-discount-in-price-stroy-Footwear.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "Jewellery": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NhEsf_1695475390408_03-discount-in-price-stroy-Jewellery.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FsXsQ_1695475394603_03-discount-in-price-stroy-Jewellery.mp4",
-                "promoHeading": ""
-            }
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NhEsf_1695475390408_03-discount-in-price-stroy-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FsXsQ_1695475394603_03-discount-in-price-stroy-Jewellery.mp4",
+            "promoHeading": ""
+          }
         },
         {
-            "Wearables": {
-                "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wGMil_1695475390410_03-discount-in-price-stroy-Wearables.jpg",
-                "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ucvdj_1695475394605_03-discount-in-price-stroy-Wearables.mp4",
-                "promoHeading": ""
-            }
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wGMil_1695475390410_03-discount-in-price-stroy-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ucvdj_1695475394605_03-discount-in-price-stroy-Wearables.mp4",
+            "promoHeading": ""
+          }
         }
-    ],
-    "id": "2_DpPf64_1MnbDwe2",
-    "templateId": "2_DpPf64_1MnbDwe2"
+      ],
+      "id": "2_DpPf64_1MnbDwe2",
+      "templateId": "2_DpPf64_1MnbDwe2"
+    },
+    {
+      "id": "abc"
     }
-    ]
-                                        
-                                       
-  
+  ]
 }

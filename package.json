@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/VidyBack/postRequestOnServer#readme",
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^0.17.4",
+    "lowdb": "^1.0.0"
   }
 }
