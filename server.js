@@ -12,7 +12,7 @@ const db = low(adapter);
 const customHeadersMiddleware = (req, res, next) => {
   // Set custom headers
   res.setHeader('Cache-Control', 'public, max-age=3600');
-  res.setHeader('Cf-Cache-Status:', 'max-age=3600');
+  res.setHeader('Cf-Cache-Control:', 'max-age=3600');
   res.setHeader('X-Frame-Options', 'DENY');
   res.setHeader('Referrer-Policy', 'same-origin');
   res.setHeader('abc', 'XYZ123');
