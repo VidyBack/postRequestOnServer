@@ -11,7 +11,7 @@ const db = low(adapter);
 
 const customHeadersMiddleware = (req, res, next) => {
   // Set custom headers
-  res.setHeader('Cache-Control', 'public, max-age=86400');
+  res.setHeader('Cache-Control', 'max-age=3600');
   res.setHeader('abc', 'XYZ123');
   // Add more headers as needed
 
