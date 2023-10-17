@@ -15,7 +15,6 @@ const customHeadersMiddleware = (req, res, next) => {
   res.setHeader('X-Frame-Options', 'DENY');
   res.setHeader('Referrer-Policy', 'same-origin');
   res.setHeader('abc', 'XYZ123');
-  // Add more headers as needed
 
   // Continue with the next middleware or route handler
   next();
@@ -33,7 +32,7 @@ server.post('/your-endpoint', (req, res) => {
 db.get('posts').push(newData).write();
 db.write()
 console.log('Added new post:', newData);
-res.status(200).setHeader({'Cache-Control': 'public, max-age=86400', 'abc': 'XYZ123'}).json(newData);
+res.status(200).json(newData);
 });
 
 
