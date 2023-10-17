@@ -9,7 +9,16 @@ const FileSync = require('lowdb/adapters/FileSync');
 const adapter = new FileSync('db.json');
 const db = low(adapter);
 
+const customHeadersMiddleware = (req, res, next) => {
+  // Set custom headers
+  res.setHeader('cache-control', 'public, max-age=86400');
+  res.setHeader('abc', 'XYZ123');
+  // Add more headers as needed
 
+  // Continue with the next middleware or route handler
+  next();
+};
+server.use(customHeadersMiddleware);
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
