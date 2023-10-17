@@ -11,7 +11,7 @@ const db = low(adapter);
 
 const customHeadersMiddleware = (req, res, next) => {
   // Set custom headers
-  res.setHeader('cache-control', 'public, max-age=86400');
+  res.setHeader('Cache-Control', 'public, max-age=86400');
   res.setHeader('abc', 'XYZ123');
   // Add more headers as needed
 
@@ -31,7 +31,7 @@ server.post('/your-endpoint', (req, res) => {
 db.get('posts').push(newData).write();
 db.write()
 console.log('Added new post:', newData);
-res.status(200).setHeader({'cache-control': 'public, max-age=86400', 'abc': 'XYZ123'}).json(newData);
+res.status(200).setHeader({'Cache-Control': 'public, max-age=86400', 'abc': 'XYZ123'}).json(newData);
 });
 
 
