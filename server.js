@@ -23,13 +23,13 @@ server.use(customHeadersMiddleware);
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
 
-server.post('/your-endpoint', (req, res) => {
+server.post('/:purpose', (req, res) => {
 
   // Process the request body and add/update data in db.json using lowdb
   // For example:
   const newData = req.body;
  // Add a new post
-db.get('posts').push(newData).write();
+db.get(req.params.purpose).push(newData).write();
 db.write()
 console.log('Added new post:', newData);
 res.status(200).json(newData);
