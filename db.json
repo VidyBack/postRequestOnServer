@@ -58267,6 +58267,71 @@
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-18T10:26:27.559Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1688557660289_15-youtube-1920x1080"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lwM8T_1697624778262_01-youtube-real-estate-property-detail.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Youtube Videos",
+      "name": "01-youtube-real-estate-property-detail",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_pd"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_o-Ugh_1697624778270_01-youtube-real-estate-property-detail.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__RDs2_1697624778267_01-youtube-real-estate-property-detail.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "lzDXrrUX_H6i_yw3sq7w",
+      "templateId": "lzDXrrUX_H6i_yw3sq7w"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
         ""
       ],
       "fontUrl": [
