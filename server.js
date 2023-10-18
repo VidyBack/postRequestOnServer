@@ -17,9 +17,9 @@ const customHeadersMiddleware = (req, res, next) => {
   // Continue with the next middleware or route handler
   next();
 };
-server.use(customHeadersMiddleware);
 server.use(middlewares);
 server.use(jsonServer.bodyParser);
+server.use(customHeadersMiddleware);
 
 server.post('/:purpose', (req, res) => {
 
