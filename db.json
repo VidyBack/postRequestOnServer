@@ -10278,6 +10278,142 @@
     {
       "version": 1,
       "gifUrl": "",
+      "bgVideoUrl": [
+          ""
+      ],
+      "fontUrl": [
+          ""
+      ],
+      "bgImageUrl": [
+          ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f_ZA-_1696839215520_mixkit-city-of-sins-986.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-19T13:41:09.999Z",
+      "extraComps": [
+          {
+              "index": 4,
+              "compId": "1666868563760_15-BrandOutro-Story"
+          }
+      ],
+      "widgetsDefinition": [
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_vNYAG_1697722157846_09-discount-in-pricee-full-screen-story-v2.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
+      ],
+      "type": "Instagram Stories",
+      "name": "09-discount-in-pricee-full-screen-story-v2",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+          "p_dPr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5uKhk_1697722157850_09-discount-in-pricee-full-screen-story-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bt0Ac_1697722157848_09-discount-in-pricee-full-screen-story-v2.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+          {
+              "Accessories": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IGUt1_1697722860674_09-discount-in-pricee-full-screen-story-v2-Accessories.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LVWbS_1697722865100_09-discount-in-pricee-full-screen-story-v2-Accessories.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Toys": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yjLWr_1697722860675_09-discount-in-pricee-full-screen-story-v2-Toys.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_H6Iu3_1697722865102_09-discount-in-pricee-full-screen-story-v2-Toys.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthFitness": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OJTT2_1697722860676_09-discount-in-pricee-full-screen-story-v2-HealthFitness.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k7hyF_1697722865104_09-discount-in-pricee-full-screen-story-v2-HealthFitness.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "BagPurse": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EKluN_1697722860678_09-discount-in-pricee-full-screen-story-v2-BagPurse.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vEZkR_1697722865105_09-discount-in-pricee-full-screen-story-v2-BagPurse.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "HealthBeauty": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oywI__1697722860679_09-discount-in-pricee-full-screen-story-v2-HealthBeauty.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QuFjT_1697722865106_09-discount-in-pricee-full-screen-story-v2-HealthBeauty.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "MobileElec": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lMn7z_1697722860680_09-discount-in-pricee-full-screen-story-v2-MobileElec.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jgtFR_1697722865108_09-discount-in-pricee-full-screen-story-v2-MobileElec.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Clothings": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5wsA9_1697722860681_09-discount-in-pricee-full-screen-story-v2-Clothings.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OFpUN_1697722865110_09-discount-in-pricee-full-screen-story-v2-Clothings.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Footwear": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tITIk_1697722860682_09-discount-in-pricee-full-screen-story-v2-Footwear.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CyLP-_1697722865112_09-discount-in-pricee-full-screen-story-v2-Footwear.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Jewellery": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iAEyX_1697722860684_09-discount-in-pricee-full-screen-story-v2-Jewellery.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_H_McO_1697722865113_09-discount-in-pricee-full-screen-story-v2-Jewellery.mp4",
+                  "promoHeading": ""
+              }
+          },
+          {
+              "Wearables": {
+                  "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Rh2LY_1697722860685_09-discount-in-pricee-full-screen-story-v2-Wearables.jpg",
+                  "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_okqze_1697722865115_09-discount-in-pricee-full-screen-story-v2-Wearables.mp4",
+                  "promoHeading": ""
+              }
+          }
+      ],
+      "id": "LwrJOKE_Wjjbp",
+      "templateId": "LwrJOKE_Wjjbp"
+  },
+    {
+      "version": 1,
+      "gifUrl": "",
       "bgVideoUrl": [""],
       "fontUrl": [""],
       "bgImageUrl": [""],
