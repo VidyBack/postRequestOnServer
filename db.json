@@ -25026,6 +25026,142 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-31T07:07:43.128Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_KlLhx_1698735601164_06-Most-Popular.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "06-Most-Popular",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_laVVK_1698735601169_06-Most-Popular.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jp1Si_1698735601167_06-Most-Popular.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2vlCv_1698736053375_06-Most-Popular-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zw8WT_1698736058183_06-Most-Popular-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hjxCQ_1698736053377_06-Most-Popular-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YzhyE_1698736058184_06-Most-Popular-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TvSdS_1698736053379_06-Most-Popular-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pRrfW_1698736058186_06-Most-Popular-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vLSAd_1698736053380_06-Most-Popular-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_d_wUu_1698736058187_06-Most-Popular-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kj4yg_1698736053382_06-Most-Popular-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vUOoc_1698736058189_06-Most-Popular-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CquM5_1698736053384_06-Most-Popular-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZpNq2_1698736058197_06-Most-Popular-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h_q2b_1698736053385_06-Most-Popular-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_61gFK_1698736058199_06-Most-Popular-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HnMkz_1698736053387_06-Most-Popular-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bZsTd_1698736058201_06-Most-Popular-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NfDaQ_1698736053388_06-Most-Popular-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yEJXH_1698736058202_06-Most-Popular-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5Lb3l_1698736053389_06-Most-Popular-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_T7qmv_1698736058204_06-Most-Popular-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "lW_XfXrF_A17_XyZ2",
+      "templateId": "lW_XfXrF_A17_XyZ2"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2q21Q_1696999904998_mixkit-africa-218.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -31405,91 +31541,6 @@
           "Perfumes": {
             "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/perfume/02-perfume-story.jpg",
             "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/perfume/02-perfume-story.mp4"
-          }
-        }
-      ],
-      "brandDisabled": true,
-      "isMultipleTemplate": false
-    },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2022-11-02T11:31:11.990Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243411737_14-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aejkp_1667388667669_06-most-popular-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "06-Most Popular",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_mp"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lI7C-_1667388667672_06-Most-Popular_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_s0Key_1667388667671_06-Most-Popular.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "A4_TTEptcPUoS3Pr02KvV",
-      "templateId": "A4_TTEptcPUoS3Pr02KvV",
-      "version": 1,
-      "classes": [
-        "Clothings"
-      ],
-      "previews": [
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/most-popular/04-health-beauty.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/most-popular/04-health-beauty.mp4"
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/most-popular/mobile-electronics3.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/most-popular/mobile-electronics3.mp4"
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/story/clothing/clothing-3.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/story/clothing/clothing-3.mp4"
           }
         }
       ],
