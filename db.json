@@ -24338,7 +24338,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EBxaw_1663652339012_mixkit-techno-fest-vibes-124.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-08-23T07:32:46.294Z",
       "extraComps": [
         {
@@ -24474,7 +24474,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QEJxx_1663651767171_mixkit-minimal-emotion-160.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-08-23T05:19:25.697Z",
       "extraComps": [
         {
@@ -52077,7 +52077,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-27T06:16:23.120Z",
       "extraComps": [
         {
