@@ -4421,7 +4421,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kmzFt_1663651172439_mixkit-crazy-daze-1134.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-02-04T05:21:31.969Z",
       "extraComps": [
         {
@@ -4909,7 +4909,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QEJxx_1663651767171_mixkit-minimal-emotion-160.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-01-05T06:33:30.312Z",
       "extraComps": [
         {
@@ -5152,7 +5152,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-01-03T05:48:18.499Z",
       "extraComps": [
         {
@@ -7377,7 +7377,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-02-10T10:06:23.647Z",
       "extraComps": [
         {
@@ -8192,7 +8192,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-01-04T13:45:18.770Z",
       "extraComps": [
         {
@@ -8273,7 +8273,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-01-04T13:03:31.760Z",
       "extraComps": [
         {
@@ -8747,7 +8747,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IMQIR_1663664027810_Showcase Me.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2022-10-18T08:52:20.933Z",
       "extraComps": [],
       "widgetsDefinition": [
@@ -38486,7 +38486,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-09-09T10:25:59.836Z",
       "extraComps": [
         {
@@ -44084,7 +44084,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-02-13T07:25:37.541Z",
       "extraComps": [
         {
