@@ -50978,7 +50978,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ad20O_1662719561318_Just Kidding.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-27T07:45:15.420Z",
       "extraComps": [
         {
@@ -52341,7 +52341,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2022-09-20T16:25:32.256Z",
       "extraComps": [],
       "widgetsDefinition": [
