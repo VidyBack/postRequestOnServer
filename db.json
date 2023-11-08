@@ -12,6 +12,201 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-08T12:26:50.054Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868522840_13-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JHx-l_1699446405871_35-happy-diwali-day-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "35-happy-diwali-day-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gY-dn_1699446405875_35-happy-diwali-day-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZSy0W_1699446405873_35-happy-diwali-day-updated.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "aMT0EM_3_OzKuWLQ",
+      "templateId": "aMT0EM_3_OzKuWLQ"
+    },
+    {
+      "id": "aMT0EM_2_OzKuWLQ",
+      "templateId": "aMT0EM_2_OzKuWLQ",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-08T09:45:15.850Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Caabu_1699436711978_37-black-friday-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "37-black-friday-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8iMTT_1699436711980_37-black-friday-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fhs3o_1699436711979_37-black-friday-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_EWlw5_1682746536772_mixkit-recline-and-chill-25.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-08T06:39:15.261Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868629167_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Y4Ra8_1699425551313_34-thanksgiving-day.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "34-thanksgiving-day",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_j2UTZ_1699425551317_34-thanksgiving-day.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UbYrO_1699425551315_34-thanksgiving-day.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "aMT0EM_1_OzKuWLQ",
+      "templateId": "aMT0EM_1_OzKuWLQ"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -764,192 +959,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-22T05:37:49.295Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666243385096_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ilXO2_1677044264154_31-world-consumer-day-22-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "31-world-consumer-day-22-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UrYhZ_1677044264233_31-world-consumer-day-22-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tfrHv_1677044264221_31-world-consumer-day-22-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "5ocyNH41enVfzJcZQAD4q",
-      "templateId": "5ocyNH41enVfzJcZQAD4q",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-22T05:26:24.288Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666244855005_15-BrandOutro-post-square"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ePjJs_1677043579420_09-world-consumer-day-22-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "09-world-consumer-day-22-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Y5vXX_1677043579743_09-world-consumer-day-22-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Ys_Rg_1677043579697_09-world-consumer-day-22-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "D9_cVbofQ2p1-2Ug6rUEP",
-      "templateId": "D9_cVbofQ2p1-2Ug6rUEP",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-02-22T05:09:47.459Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666247107987_15-BrandOutro-post-4-5"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZrOvA_1677042583054_06-world-consumer-day-21-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "06-world-consumer-day-21-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3ZUY8_1677042583073_06-world-consumer-day-21-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LlPCC_1677042583066_06-world-consumer-day-21-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "lBrzX7_iQIxkJjYgZ2wpg",
-      "templateId": "lBrzX7_iQIxkJjYgZ2wpg",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -1123,132 +1132,6 @@
       "previews": [],
       "id": "XuXh6xg2_LvQJuMorSasO",
       "templateId": "XuXh6xg2_LvQJuMorSasO",
-      "priorityNumber": false,
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-17T10:15:53.456Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1668514571072_17-BrandOutro-4-5-version-1"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6IxHC_1676628948961_02-wolrd-books-day-14-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "02-wolrd-books-day-14-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aLIB__1676628949006_02-wolrd-books-day-14-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-mWg9_1676628949000_02-wolrd-books-day-14-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "5Xz1xsUvQdT3NvO-Sxduz",
-      "templateId": "5Xz1xsUvQdT3NvO-Sxduz",
-      "priorityNumber": false,
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-17T10:10:10.653Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666245014480_17-BrandOutro-post-square"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_2Igj__1676628604973_05-wolrd-books-day-14-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "05-wolrd-books-day-14-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nYLr0_1676628605108_05-wolrd-books-day-14-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZlP6M_1676628605106_05-wolrd-books-day-14-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "Se7Gl070Dsj3yDVcM9TH8",
-      "templateId": "Se7Gl070Dsj3yDVcM9TH8",
       "priorityNumber": false,
       "isMultipleTemplate": false
     },
@@ -1767,68 +1650,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-09T13:37:46.433Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243176902_18-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Nps75_1670593061820_23-xmas-09-12-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "23-xmas-09-12-22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AW8Vu_1670593061828_23-xmas_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PIlLQ_1670593061824_23-xmas.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "W-Q-_DeUI8YlWahPRgUes",
-      "templateId": "W-Q-_DeUI8YlWahPRgUes",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -1876,67 +1697,6 @@
       "isTransparent": false,
       "id": "qGaqBZUjqx6daauINooqr",
       "templateId": "qGaqBZUjqx6daauINooqr",
-      "isMultipleTemplate": false
-    },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2NGJK_1666165233823_mixkit-one-night-gamble-1152.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-11-24T06:57:14.277Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243176902_18-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zurMu_1669273030066_21_black_friday_15_11_2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "21_black_friday_15_11_2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_L0JlH_1669273030072_21 - Black Friday_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pOnFl_1669273030071_21 - Black Friday.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "PLoA1F6lHep3jhKd9Q30p",
-      "templateId": "PLoA1F6lHep3jhKd9Q30p",
-      "version": 1,
       "isMultipleTemplate": false
     },
     {
@@ -35467,6 +35227,280 @@
     }
   ],
   "p_ps": [
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QI10c_1685443290537_mixkit-vastness-184.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-08T12:10:58.758Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HEe6f_1699445155511_15-display-ads-story-blackfriday.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "15-display-ads-story-blackfriday",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2Wo1J_1699445155561_15-display-ads-story-blackfriday.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VtGbZ_1699445155540_15-display-ads-story-blackfriday.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ch6MG_1699445446546_15-display-ads-story-blackfriday-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6lhhV_1699445450892_15-display-ads-story-blackfriday-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_07ZB__1699445446567_15-display-ads-story-blackfriday-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6WVeI_1699445450915_15-display-ads-story-blackfriday-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LzBPJ_1699445446571_15-display-ads-story-blackfriday-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qr07D_1699445450918_15-display-ads-story-blackfriday-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_VV8qP_1699445446573_15-display-ads-story-blackfriday-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_bpqJ8_1699445450921_15-display-ads-story-blackfriday-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_118w2_1699445446596_15-display-ads-story-blackfriday-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ABu4W_1699445450923_15-display-ads-story-blackfriday-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SZmRo_1699445446597_15-display-ads-story-blackfriday-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5V2jV_1699445450925_15-display-ads-story-blackfriday-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6z6Vq_1699445446599_15-display-ads-story-blackfriday-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J48Wa_1699445450927_15-display-ads-story-blackfriday-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8-mfY_1699445446600_15-display-ads-story-blackfriday-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ta96s_1699445450929_15-display-ads-story-blackfriday-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FFVvB_1699445446601_15-display-ads-story-blackfriday-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cSMn7_1699445450931_15-display-ads-story-blackfriday-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IxYqF_1699445446622_15-display-ads-story-blackfriday-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KhgEk_1699445450933_15-display-ads-story-blackfriday-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "gihkPw9_4_k6yI2",
+      "templateId": "gihkPw9_4_k6yI2"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-06T12:12:01.291Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "14-display-ads-story-thanksgiving",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IIWLl_1699272337933_14-display-ads-story-thanksgiving.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SXGhg_1699272337910_14-display-ads-story-thanksgiving.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Pm2cX_1699272709875_14-display-ads-story-thanksgiving-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YKSyp_1699272714463_14-display-ads-story-thanksgiving-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aA0A2_1699272709877_14-display-ads-story-thanksgiving-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SY70l_1699272714465_14-display-ads-story-thanksgiving-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d9dXX_1699272709879_14-display-ads-story-thanksgiving-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xY8qW_1699272714467_14-display-ads-story-thanksgiving-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uzi_d_1699272709880_14-display-ads-story-thanksgiving-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yWFSj_1699272714468_14-display-ads-story-thanksgiving-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uTcO4_1699272709973_14-display-ads-story-thanksgiving-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lvjDV_1699272714470_14-display-ads-story-thanksgiving-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qyJGS_1699272709974_14-display-ads-story-thanksgiving-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wbgJa_1699272714473_14-display-ads-story-thanksgiving-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FP3n4_1699272709975_14-display-ads-story-thanksgiving-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wR8G8_1699272714475_14-display-ads-story-thanksgiving-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jgsZi_1699272709976_14-display-ads-story-thanksgiving-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZQkii_1699272714477_14-display-ads-story-thanksgiving-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aT-ev_1699272709977_14-display-ads-story-thanksgiving-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PdnGF_1699272714478_14-display-ads-story-thanksgiving-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zahKt_1699272710148_14-display-ads-story-thanksgiving-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_g9H8z_1699272714480_14-display-ads-story-thanksgiving-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UG8Ow_1699272710150_14-display-ads-story-thanksgiving-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hDF_x_1699272714482_14-display-ads-story-thanksgiving-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "gihkPw9_3_k6yI2",
+      "templateId": "gihkPw9_3_k6yI2"
+    },
     {
       "version": 1,
       "gifUrl": "",
