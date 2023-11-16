@@ -39653,128 +39653,6 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 0.5,
-      "isMultipleTemplate": true,
-      "previews": [
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3E0q3_1698386758579_06-display-products-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QDt44_1698386762020_06-display-products-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d3i3T_1698386758581_06-display-products-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uMqbx_1698386762028_06-display-products-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YWl2v_1698386758584_06-display-products-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2rtVG_1698386762030_06-display-products-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_piTr4_1698386758585_06-display-products-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0PbA2_1698386762032_06-display-products-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dKFaa_1698386758587_06-display-products-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LCgAK_1698386762033_06-display-products-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pl-4p_1698386758589_06-display-products-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k7I3I_1698386762035_06-display-products-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mOdCg_1698386758591_06-display-products-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AzNLR_1698386762037_06-display-products-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__-YAH_1698386758594_06-display-products-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2CfXy_1698386762039_06-display-products-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "2SO2ogihkPw9_0_Y43Dk6yI21",
-      "templateId": "2SO2ogihkPw9_0_Y43Dk6yI21"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-10-27T06:06:06.978Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_j8YZr_1698386393742_06-display-products.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "06-display-products",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_ps"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2loUA_1698386393750_06-display-products.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U26AY_1698386393748_06-display-products.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -49251,6 +49129,128 @@
       "id": "4Cqp_zycsmnUG-PRN-I7x",
       "templateId": "4Cqp_zycsmnUG-PRN-I7x",
       "isMultipleTemplate": false
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-10-27T06:06:06.978Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_j8YZr_1698386393742_06-display-products.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "06-display-products",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_ps"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2loUA_1698386393750_06-display-products.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U26AY_1698386393748_06-display-products.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3E0q3_1698386758579_06-display-products-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QDt44_1698386762020_06-display-products-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d3i3T_1698386758581_06-display-products-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uMqbx_1698386762028_06-display-products-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YWl2v_1698386758584_06-display-products-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2rtVG_1698386762030_06-display-products-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_piTr4_1698386758585_06-display-products-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0PbA2_1698386762032_06-display-products-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dKFaa_1698386758587_06-display-products-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LCgAK_1698386762033_06-display-products-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pl-4p_1698386758589_06-display-products-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_k7I3I_1698386762035_06-display-products-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mOdCg_1698386758591_06-display-products-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AzNLR_1698386762037_06-display-products-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__-YAH_1698386758594_06-display-products-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2CfXy_1698386762039_06-display-products-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "2SO2ogihkPw9_0_Y43Dk6yI21",
+      "templateId": "2SO2ogihkPw9_0_Y43Dk6yI21"
     },
     {
       "version": 1,
