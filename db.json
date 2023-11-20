@@ -1,6 +1,149 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_7_cftyr",
+      "templateId": "mlpn_7_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Anpkn_1663650688833_mixkit-angry-bolero-1126.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-20T11:14:38.535Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0_QVa_1700478575717_03-festive-offers-square-black-friday-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-festive-offers-square-black-friday-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-CtBr_1700478575728_03-festive-offers-square-black-friday-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2vf2J_1700478575724_03-festive-offers-square-black-friday-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hqR4B_1700478866056_03-festive-offers-square-black-friday-template-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Xs74i_1700478871349_03-festive-offers-square-black-friday-template-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_X1K0G_1700478866059_03-festive-offers-square-black-friday-template-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kBXV4_1700478871351_03-festive-offers-square-black-friday-template-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Evalm_1700478866061_03-festive-offers-square-black-friday-template-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Gct1f_1700478871355_03-festive-offers-square-black-friday-template-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bh75r_1700478866063_03-festive-offers-square-black-friday-template-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4rw2l_1700478871356_03-festive-offers-square-black-friday-template-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vckzt_1700478866064_03-festive-offers-square-black-friday-template-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ik22T_1700478871359_03-festive-offers-square-black-friday-template-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ueYUZ_1700478866066_03-festive-offers-square-black-friday-template-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_f0apl_1700478871361_03-festive-offers-square-black-friday-template-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D4X9J_1700478866067_03-festive-offers-square-black-friday-template-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Mefar_1700478871363_03-festive-offers-square-black-friday-template-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NPeLW_1700478866069_03-festive-offers-square-black-friday-template-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xwaEq_1700478871365_03-festive-offers-square-black-friday-template-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oSAQy_1700478866070_03-festive-offers-square-black-friday-template-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-QoqM_1700478871368_03-festive-offers-square-black-friday-template-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_x3nUG_1700478866072_03-festive-offers-square-black-friday-template-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MBidr_1700478871369_03-festive-offers-square-black-friday-template-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_9UA-y_1700478866074_03-festive-offers-square-black-friday-template-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__IXcs_1700478871372_03-festive-offers-square-black-friday-template-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_6_cftyr",
       "templateId": "mlpn_6_cftyr",
       "version": 1,
