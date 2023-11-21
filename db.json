@@ -77426,5 +77426,137 @@
       "templateId": "Y3Udx2s7ZLILuERDSUdFu"
     }
   ],
-  "p_jobs_ps": []
+  "p_jobs_ps": [],
+  "p_au_pc" : [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2NGJK_1666165233823_mixkit-one-night-gamble-1152.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-29T09:12:06.568Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mN56I_1693300322926_06-podcast-post-spotify-approval.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "06-podcast-post-spotify-approval",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AkvRt_1693300322928_06-podcast-post-spotify-approval.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wAoZM_1693300322927_06-podcast-post-spotify-approval.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "Dw7vs-ll7OlN8ql5hKzqL",
+      "templateId": "Dw7vs-ll7OlN8ql5hKzqL"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0H24H_1669792004100_tides-turning.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-08-29T09:06:16.771Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yHWep_1693299971561_04-podcast-story-spotify-approval.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-podcast-story-spotify-approval",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_au_pc"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PiSQi_1693299971564_04-podcast-story-spotify-approval.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__R81r_1693299971563_04-podcast-story-spotify-approval.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.2,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "9JDGChpjZyaktkat5VBLi",
+      "templateId": "9JDGChpjZyaktkat5VBLi"
+    }
+  ]
 }
