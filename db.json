@@ -1,6 +1,142 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_13_cftyr",
+      "templateId": "mlpn_13_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T13:17:20.311Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_awFRv_1700572394095_03-festive-offers-black-friday-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-festive-offers-black-friday-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WPoBE_1700572394127_03-festive-offers-black-friday-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Puaql_1700572394121_03-festive-offers-black-friday-story.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6eXe-_1700572629470_03-festive-offers-black-friday-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uUdfB_1700572633661_03-festive-offers-black-friday-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__p2M4_1700572629471_03-festive-offers-black-friday-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3xWht_1700572633663_03-festive-offers-black-friday-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RFva1_1700572629472_03-festive-offers-black-friday-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__JQfP_1700572633664_03-festive-offers-black-friday-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OdiZd_1700572629473_03-festive-offers-black-friday-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PBPj8_1700572633665_03-festive-offers-black-friday-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SK_9s_1700572629474_03-festive-offers-black-friday-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WfLQA_1700572633667_03-festive-offers-black-friday-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_duZQb_1700572629475_03-festive-offers-black-friday-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v_yX0_1700572633669_03-festive-offers-black-friday-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8L498_1700572629479_03-festive-offers-black-friday-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8iOk6_1700572633670_03-festive-offers-black-friday-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TQtQF_1700572629480_03-festive-offers-black-friday-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GjTZR_1700572633672_03-festive-offers-black-friday-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XkCQw_1700572629481_03-festive-offers-black-friday-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vmhPq_1700572633674_03-festive-offers-black-friday-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oBRKD_1700572629482_03-festive-offers-black-friday-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ymwfC_1700572633675_03-festive-offers-black-friday-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "id": "mlpn_12_cftyr",
       "templateId": "mlpn_12_cftyr",
       "version": 1,
@@ -1433,142 +1569,6 @@
       "id": "mlpn_2_cftyr",
       "templateId": "mlpn_2_cftyr",
       "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-11-10T10:35:12.080Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zEquc_1699612247515_13-discount-in-percentage-cyber-monday-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "13-discount-in-percentage-cyber-monday-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_occasional"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YCkl-_1699612247518_13-discount-in-percentage-cyber-monday-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_mzuRl_1699612247517_13-discount-in-percentage-cyber-monday-story.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Fln0u_1699612502128_13-discount-in-percentage-cyber-monday-story-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gaYsN_1699612506838_13-discount-in-percentage-cyber-monday-story-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4g3nk_1699612502132_13-discount-in-percentage-cyber-monday-story-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vDQAG_1699612506839_13-discount-in-percentage-cyber-monday-story-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3v920_1699612502134_13-discount-in-percentage-cyber-monday-story-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sBu3C_1699612506841_13-discount-in-percentage-cyber-monday-story-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SbWOG_1699612502136_13-discount-in-percentage-cyber-monday-story-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IK46d_1699612506843_13-discount-in-percentage-cyber-monday-story-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OTfml_1699612502137_13-discount-in-percentage-cyber-monday-story-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_F5Xz9_1699612506845_13-discount-in-percentage-cyber-monday-story-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3uWRf_1699612502139_13-discount-in-percentage-cyber-monday-story-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tHmLl_1699612506848_13-discount-in-percentage-cyber-monday-story-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e5_3H_1699612502141_13-discount-in-percentage-cyber-monday-story-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4pzah_1699612506851_13-discount-in-percentage-cyber-monday-story-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_k4aST_1699612502143_13-discount-in-percentage-cyber-monday-story-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UB63M_1699612506853_13-discount-in-percentage-cyber-monday-story-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JUhFw_1699612502144_13-discount-in-percentage-cyber-monday-story-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HD6eK_1699612506855_13-discount-in-percentage-cyber-monday-story-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fSe7C_1699612502145_13-discount-in-percentage-cyber-monday-story-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UPIUP_1699612506857_13-discount-in-percentage-cyber-monday-story-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "mlpn_0_cftyr",
-      "templateId": "mlpn_0_cftyr"
     },
     {
       "version": 1,
@@ -17746,142 +17746,6 @@
       "templateId": "EXVOES241"
     },
     {
-      "id": "EXVOES24",
-      "templateId": "EXVOES24",
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-11-17T12:33:58.422Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sZkRP_1700224148119_07-Discount-In-percentage-20-03-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "07-Discount-In-percentage-20-03-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1F64k_1700224148122_07-Discount-In-percentage-20-03-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_c9Xoz_1700224148121_07-Discount-In-percentage-20-03-23.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iujki_1700224428250_07-Discount-In-percentage-20-03-23-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ehbon_1700224431874_07-Discount-In-percentage-20-03-23-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_N5LI-_1700224428251_07-Discount-In-percentage-20-03-23-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HcTxJ_1700224431899_07-Discount-In-percentage-20-03-23-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FQPaI_1700224428253_07-Discount-In-percentage-20-03-23-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aOyLx_1700224431905_07-Discount-In-percentage-20-03-23-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YUTwx_1700224428256_07-Discount-In-percentage-20-03-23-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0zyHm_1700224431907_07-Discount-In-percentage-20-03-23-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6g_pP_1700224428257_07-Discount-In-percentage-20-03-23-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9zj-o_1700224431909_07-Discount-In-percentage-20-03-23-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RowVv_1700224428259_07-Discount-In-percentage-20-03-23-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hynzr_1700224431911_07-Discount-In-percentage-20-03-23-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_m7eWV_1700224428260_07-Discount-In-percentage-20-03-23-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8utaE_1700224431913_07-Discount-In-percentage-20-03-23-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aijQ1_1700224428262_07-Discount-In-percentage-20-03-23-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ymAwf_1700224431915_07-Discount-In-percentage-20-03-23-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QBc9G_1700224428263_07-Discount-In-percentage-20-03-23-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nAQTT_1700224431916_07-Discount-In-percentage-20-03-23-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_09z2Y_1700224428264_07-Discount-In-percentage-20-03-23-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WB3ie_1700224431927_07-Discount-In-percentage-20-03-23-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ]
-    },
-    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -20902,271 +20766,6 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-11-10T11:28:51.859Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEGMY_1699615453355_13-discount-in-percentage-cyber-monday-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "13-discount-in-percentage-cyber-monday-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_inyRH_1699615453357_13-discount-in-percentage-cyber-monday-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1THvh_1699615453356_13-discount-in-percentage-cyber-monday-story.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_404JV_1699615721597_13-discount-in-percentage-cyber-monday-story-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dQMpj_1699615726762_13-discount-in-percentage-cyber-monday-story-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wCVmg_1699615721599_13-discount-in-percentage-cyber-monday-story-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lBVLg_1699615726765_13-discount-in-percentage-cyber-monday-story-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G2EBh_1699615721601_13-discount-in-percentage-cyber-monday-story-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5vwXI_1699615726766_13-discount-in-percentage-cyber-monday-story-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bZqRj_1699615721602_13-discount-in-percentage-cyber-monday-story-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_J4iR__1699615726769_13-discount-in-percentage-cyber-monday-story-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1ctIF_1699615721604_13-discount-in-percentage-cyber-monday-story-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vuoZo_1699615726771_13-discount-in-percentage-cyber-monday-story-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7cJc-_1699615721605_13-discount-in-percentage-cyber-monday-story-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_u1XqI_1699615726773_13-discount-in-percentage-cyber-monday-story-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AYJ5t_1699615721606_13-discount-in-percentage-cyber-monday-story-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZRnVk_1699615726776_13-discount-in-percentage-cyber-monday-story-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_O7weA_1699615721608_13-discount-in-percentage-cyber-monday-story-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nq12v_1699615726840_13-discount-in-percentage-cyber-monday-story-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__vr5E_1699615721609_13-discount-in-percentage-cyber-monday-story-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tIjFB_1699615726842_13-discount-in-percentage-cyber-monday-story-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WT2az_1699615721610_13-discount-in-percentage-cyber-monday-story-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5tO3l_1699615726844_13-discount-in-percentage-cyber-monday-story-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "EXVOES6",
-      "templateId": "EXVOES6"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-11-03T07:31:28.280Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lYruH_1698996269191_01-discount-in-percentage-black-friday-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-discount-in-percentage-black-friday-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8tyU5_1698996269195_01-discount-in-percentage-black-friday-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CKETj_1698996269193_01-discount-in-percentage-black-friday-updated.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YsYm2_1698996677835_01-discount-in-percentage-black-friday-updated-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FVgDM_1698996681947_01-discount-in-percentage-black-friday-updated-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iVc5z_1698996677836_01-discount-in-percentage-black-friday-updated-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Akqqc_1698996681950_01-discount-in-percentage-black-friday-updated-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XwTrb_1698996677838_01-discount-in-percentage-black-friday-updated-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OCfZO_1698996681953_01-discount-in-percentage-black-friday-updated-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WxMDz_1698996677840_01-discount-in-percentage-black-friday-updated-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jf0KC_1698996681955_01-discount-in-percentage-black-friday-updated-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_V7xm7_1698996677842_01-discount-in-percentage-black-friday-updated-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qrB2B_1698996681958_01-discount-in-percentage-black-friday-updated-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hqY95_1698996677843_01-discount-in-percentage-black-friday-updated-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mGshe_1698996681960_01-discount-in-percentage-black-friday-updated-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dvnaz_1698996677845_01-discount-in-percentage-black-friday-updated-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SM6B-_1698996681962_01-discount-in-percentage-black-friday-updated-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OWrK-_1698996677847_01-discount-in-percentage-black-friday-updated-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bb2uH_1698996681963_01-discount-in-percentage-black-friday-updated-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BWw5X_1698996677848_01-discount-in-percentage-black-friday-updated-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EhTBL_1698996681966_01-discount-in-percentage-black-friday-updated-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "EXVOES5",
-      "templateId": "EXVOES5"
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -23521,87 +23120,6 @@
       ],
       "id": "2A5rkgbP4wE0tkrzFZk-z",
       "templateId": "2A5rkgbP4wE0tkrzFZk-z",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-12T12:10:26.887Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243385096_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FyHQ0_1670847008827_04-Discount in percentage x mas-11-12-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "04-Discount in percentage x mas-11-12-22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Q6QBy_1670847008830_04-Discount in percentage x mas-original.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SskiB_1670847008828_04-Discount in percentage x mas-original.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1mcGx_1670847013839_04-Discount in percentage x mas-foot.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZYE6_1670847015729_04-Discount in percentage x mas-foot.mp4"
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wfQGU_1670847013841_04-Discount in percentage x mas-perfume.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RHAn2_1670847015730_04-Discount in percentage x mas-perfume.mp4"
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MDLLT_1670847013842_04-Discount in percentage x mas.png",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_h5WWw_1670847015731_04-Discount in percentage x mas.mp4"
-          }
-        }
-      ],
-      "id": "OX2qTN2cNv-jSb_F2JGiK",
-      "templateId": "OX2qTN2cNv-jSb_F2JGiK",
       "isMultipleTemplate": false
     },
     {
