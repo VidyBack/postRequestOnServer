@@ -17101,6 +17101,794 @@
   ],
   "p_dpercentage": [
     {
+      "id": "EXVOES34",
+      "templateId": "EXVOES34",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-22T05:45:50.319Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ZW_0T_1700631426308_07-discount-in-perentage-portrait-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "07-discount-in-perentage-portrait-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_HPjFi_1700631426325_07-discount-in-perentage-portrait-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NNyIl_1700631426318_07-discount-in-perentage-portrait-multi.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fmL5f_1700631938432_07-discount-in-perentage-portrait-multi-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_M1URs_1700631942186_07-discount-in-perentage-portrait-multi-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wlpAg_1700631938434_07-discount-in-perentage-portrait-multi-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PfG5v_1700631942188_07-discount-in-perentage-portrait-multi-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5xUus_1700631938437_07-discount-in-perentage-portrait-multi-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5c6S5_1700631942190_07-discount-in-perentage-portrait-multi-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Rikx5_1700631938439_07-discount-in-perentage-portrait-multi-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__3bSH_1700631942192_07-discount-in-perentage-portrait-multi-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K4OUn_1700631938441_07-discount-in-perentage-portrait-multi-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qy4qm_1700631942197_07-discount-in-perentage-portrait-multi-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c-9qy_1700631938443_07-discount-in-perentage-portrait-multi-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dt6AY_1700631942199_07-discount-in-perentage-portrait-multi-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ANHph_1700631938451_07-discount-in-perentage-portrait-multi-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yohX3_1700631942201_07-discount-in-perentage-portrait-multi-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Fkxq3_1700631938453_07-discount-in-perentage-portrait-multi-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EM6Wx_1700631942204_07-discount-in-perentage-portrait-multi-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_oStLI_1700631938455_07-discount-in-perentage-portrait-multi-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-8khU_1700631942206_07-discount-in-perentage-portrait-multi-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "id": "EXVOES33",
+      "templateId": "EXVOES33",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T11:53:57.023Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NTyI2_1700566822036_05-discount-in-perentage-portrait-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "05-discount-in-perentage-portrait-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_knTTJ_1700566822045_05-discount-in-perentage-portrait-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yFXt8_1700566822043_05-discount-in-perentage-portrait-multi.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fPxRn_1700567624769_05-discount-in-perentage-portrait-multi-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LVi5a_1700567631216_05-discount-in-perentage-portrait-multi-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yUb8a_1700567624789_05-discount-in-perentage-portrait-multi-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JoDiC_1700567631218_05-discount-in-perentage-portrait-multi-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WXcLI_1700567624825_05-discount-in-perentage-portrait-multi-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WK27P_1700567631220_05-discount-in-perentage-portrait-multi-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_W8ZFO_1700567624830_05-discount-in-perentage-portrait-multi-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XIrzn_1700567631222_05-discount-in-perentage-portrait-multi-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QVB46_1700567624839_05-discount-in-perentage-portrait-multi-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Y8EqS_1700567631224_05-discount-in-perentage-portrait-multi-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qDsQS_1700567624847_05-discount-in-perentage-portrait-multi-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oFxcS_1700567631226_05-discount-in-perentage-portrait-multi-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2K4aU_1700567624871_05-discount-in-perentage-portrait-multi-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GrV4j_1700567631229_05-discount-in-perentage-portrait-multi-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_spsK4_1700567624877_05-discount-in-perentage-portrait-multi-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9jOIl_1700567631231_05-discount-in-perentage-portrait-multi-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PUai__1700567624881_05-discount-in-perentage-portrait-multi-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mbOe8_1700567631233_05-discount-in-perentage-portrait-multi-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KqD3Y_1697692800473_mixkit-marcus-850.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T11:30:36.466Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_tBvzq_1700565830377_03-discount-percentage-portrait-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "03-discount-percentage-portrait-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wQo3U_1700565830387_03-discount-percentage-portrait-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4KvTq_1700565830386_03-discount-percentage-portrait-multi.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_l0kDj_1700566224382_03-discount-percentage-portrait-multi-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JLogV_1700566231125_03-discount-percentage-portrait-multi-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fxHTA_1700566224386_03-discount-percentage-portrait-multi-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cvFbn_1700566231127_03-discount-percentage-portrait-multi-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LESJ5_1700566224388_03-discount-percentage-portrait-multi-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4vhg4_1700566231130_03-discount-percentage-portrait-multi-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_g5Bf1_1700566224390_03-discount-percentage-portrait-multi-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3Wyr__1700566231132_03-discount-percentage-portrait-multi-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_g4as1_1700566224392_03-discount-percentage-portrait-multi-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zlQhN_1700566231134_03-discount-percentage-portrait-multi-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CFpZz_1700566224394_03-discount-percentage-portrait-multi-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LUZip_1700566231135_03-discount-percentage-portrait-multi-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ivnYD_1700566224398_03-discount-percentage-portrait-multi-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BUOhf_1700566231138_03-discount-percentage-portrait-multi-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u-YMG_1700566224400_03-discount-percentage-portrait-multi-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4RmvH_1700566231140_03-discount-percentage-portrait-multi-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SyiKg_1700566224404_03-discount-percentage-portrait-multi-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Fy-2i_1700566231142_03-discount-percentage-portrait-multi-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_63UWK_1700566224406_03-discount-percentage-portrait-multi-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LSgLq_1700566231144_03-discount-percentage-portrait-multi-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "EXVOES32",
+      "templateId": "EXVOES32"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T08:29:16.231Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rNbnl_1700554708561_08-discount-in-perentage-upto-multi-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "08-discount-in-perentage-upto-multi-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qp13K_1700554708574_08-discount-in-perentage-upto-multi-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Nb1PO_1700554708572_08-discount-in-perentage-upto-multi-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.9,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wVsQX_1700555341960_08-discount-in-perentage-upto-multi-portrait-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_D_6ud_1700555349964_08-discount-in-perentage-upto-multi-portrait-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KJatI_1700555341962_08-discount-in-perentage-upto-multi-portrait-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DNHhV_1700555349966_08-discount-in-perentage-upto-multi-portrait-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ls-Eq_1700555341964_08-discount-in-perentage-upto-multi-portrait-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WBKCp_1700555349968_08-discount-in-perentage-upto-multi-portrait-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5f8kJ_1700555341966_08-discount-in-perentage-upto-multi-portrait-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QAe-H_1700555349970_08-discount-in-perentage-upto-multi-portrait-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5wZbo_1700555341968_08-discount-in-perentage-upto-multi-portrait-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ex6Qv_1700555349971_08-discount-in-perentage-upto-multi-portrait-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NokRt_1700555341969_08-discount-in-perentage-upto-multi-portrait-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B6e6D_1700555349973_08-discount-in-perentage-upto-multi-portrait-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_950sG_1700555341971_08-discount-in-perentage-upto-multi-portrait-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vYjCq_1700555349975_08-discount-in-perentage-upto-multi-portrait-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HQ4kP_1700555341972_08-discount-in-perentage-upto-multi-portrait-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UGLes_1700555349976_08-discount-in-perentage-upto-multi-portrait-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_w21KI_1700555341974_08-discount-in-perentage-upto-multi-portrait-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cON13_1700555349978_08-discount-in-perentage-upto-multi-portrait-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-BrnM_1700555341975_08-discount-in-perentage-upto-multi-portrait-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B_8TA_1700555349980_08-discount-in-perentage-upto-multi-portrait-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "EXVOES31",
+      "templateId": "EXVOES31"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vpq8j_1666165302989_mixkit-rising-forest-471.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-21T07:06:14.664Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JW5k0_1700549737739_01-discount-in-percentage-black-friday-upto.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-discount-in-percentage-black-friday-upto",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p4M92_1700549737756_01-discount-in-percentage-black-friday-upto.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0Uw2q_1700549737751_01-discount-in-percentage-black-friday-upto.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WSByd_1700550365296_01-discount-in-percentage-black-friday-upto-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fN5Xl_1700550369171_01-discount-in-percentage-black-friday-upto-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PskTU_1700550365298_01-discount-in-percentage-black-friday-upto-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Fg-ae_1700550369174_01-discount-in-percentage-black-friday-upto-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3rlyQ_1700550365301_01-discount-in-percentage-black-friday-upto-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PnbrM_1700550369178_01-discount-in-percentage-black-friday-upto-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lJSXs_1700550365303_01-discount-in-percentage-black-friday-upto-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TIErc_1700550369181_01-discount-in-percentage-black-friday-upto-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ft3Rq_1700550365309_01-discount-in-percentage-black-friday-upto-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CoVid_1700550369185_01-discount-in-percentage-black-friday-upto-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tO4u__1700550365312_01-discount-in-percentage-black-friday-upto-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CJLoJ_1700550369189_01-discount-in-percentage-black-friday-upto-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MdQqv_1700550365315_01-discount-in-percentage-black-friday-upto-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2EXG1_1700550369193_01-discount-in-percentage-black-friday-upto-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fd9yW_1700550365317_01-discount-in-percentage-black-friday-upto-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-3Z4L_1700550369196_01-discount-in-percentage-black-friday-upto-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ag3JI_1700550365320_01-discount-in-percentage-black-friday-upto-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_l49tf_1700550369199_01-discount-in-percentage-black-friday-upto-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "EXVOES30",
+      "templateId": "EXVOES30"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-11-20T12:24:13.775Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_3YDN1_1700482642988_19-discount-percentage-story-multi.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "19-discount-percentage-story-multi",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_dpercentage"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_aUC73_1700482642996_19-discount-percentage-story-multi.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7iTCD_1700482642994_19-discount-percentage-story-multi.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": true,
+      "id": "EXVOES29",
+      "templateId": "EXVOES29",
+      "previews": [
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hEFHB_1700482998276_19-discount-percentage-story-multi-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_msoc1_1700483007374_19-discount-percentage-story-multi-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UFf5h_1700482998278_19-discount-percentage-story-multi-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_36xH6_1700483007375_19-discount-percentage-story-multi-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_w0fFw_1700482998279_19-discount-percentage-story-multi-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_owm06_1700483007377_19-discount-percentage-story-multi-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_exuiF_1700482998281_19-discount-percentage-story-multi-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_o4_5Y_1700483007379_19-discount-percentage-story-multi-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6ABF0_1700482998283_19-discount-percentage-story-multi-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dC6Qd_1700483007381_19-discount-percentage-story-multi-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aeumD_1700482998285_19-discount-percentage-story-multi-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dyOSD_1700483007384_19-discount-percentage-story-multi-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NJLZr_1700482998286_19-discount-percentage-story-multi-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eYSlF_1700483007386_19-discount-percentage-story-multi-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__waOm_1700482998287_19-discount-percentage-story-multi-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UZDUe_1700483007387_19-discount-percentage-story-multi-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0xEDv_1700482998289_19-discount-percentage-story-multi-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aQjGU_1700483007389_19-discount-percentage-story-multi-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
