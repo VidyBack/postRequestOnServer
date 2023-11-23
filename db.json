@@ -1105,7 +1105,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_p9bZn_1666165060558_mixkit-francisco-798.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-11-21T07:25:22.670Z",
       "extraComps": [
         {
@@ -2797,7 +2797,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-11-20T13:57:44.126Z",
       "extraComps": [
         {
@@ -3195,7 +3195,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-11-08T09:45:15.850Z",
       "extraComps": [
         {
@@ -3511,7 +3511,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-04-17T11:45:57.256Z",
       "extraComps": [
         {
@@ -3574,7 +3574,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_GvoFq_1663651063449_mixkit-be-happy-942.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-04-17T09:51:07.413Z",
       "extraComps": [
         {
@@ -3700,7 +3700,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3safL_1666165205619_mixkit-my-little-prince-815.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-03-31T12:42:41.558Z",
       "extraComps": [
         {
@@ -3763,7 +3763,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3safL_1666165205619_mixkit-my-little-prince-815.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-03-31T12:29:48.930Z",
       "extraComps": [
         {
