@@ -72347,69 +72347,6 @@
       "previews": [],
       "id": "k46dGrJ6T9OwL06WAOdZa",
       "templateId": "k46dGrJ6T9OwL06WAOdZa"
-    },
-    {
-      "version": 1,
-      "isMultipleTemplate": false,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RfE2E_1666165360262_mixkit-tears-of-joy-839.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-17T13:04:35.909Z",
-      "extraComps": [
-        {
-          "index": 8,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_toh7k_1676639072918_finance-base-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "finance-base-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_stkdata"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wGGHL_1676639072922_finance-base-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YAAMJ_1676639072920_finance-base-template.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "k7qOL1iRA4J1KcVuWzB2T",
-      "templateId": "k7qOL1iRA4J1KcVuWzB2T"
     }
   ],
   "p_features": [
