@@ -71849,6 +71849,190 @@
       "previews": [],
       "id": "DpPY0Pf64__212",
       "templateId": "DpPY0Pf64__212"
+    },
+    {
+      "id": "DpPY0Pf64_1MnbDdXa12",
+      "templateId": "DpPY0Pf64_1MnbDdXa12",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-15T05:40:45.384Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_LnM46_1694756442878_01-finance-stock-post-final-dynamic-final.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-stock-post-final-dynamic-final",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_H9bWk_1694756442883_01-finance-stock-post-final-dynamic-final.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PyVRi_1694756442881_01-finance-stock-post-final-dynamic-final.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pqNdX_1685442983199_mixkit-new-bass-01-720.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-09-13T12:45:59.264Z",
+      "extraComps": [],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_HnHfm_1694609156795_01-finance-stock-post-final-dynamic-final.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-finance-stock-post-final-dynamic-final",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0SDC__1694609156798_01-finance-stock-post-final-dynamic-final.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2LEDH_1694609156797_01-finance-stock-post-final-dynamic-final.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "isToggleTemplate": true,
+      "id": "DpPY0Pf64_QMnbDBfdX123",
+      "templateId": "DpPY0Pf64_QMnbDBfdX123"
+    },
+    {
+      "version": 1,
+      "isMultipleTemplate": false,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RfE2E_1666165360262_mixkit-tears-of-joy-839.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-02-17T13:04:35.909Z",
+      "extraComps": [
+        {
+          "index": 8,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_toh7k_1676639072918_finance-base-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "finance-base-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_stkdata"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wGGHL_1676639072922_finance-base-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YAAMJ_1676639072920_finance-base-template.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [],
+      "id": "k7qOL1iRA4J1KcVuWzB2T",
+      "templateId": "k7qOL1iRA4J1KcVuWzB2T"
     }
   ],
   "p_features": [
