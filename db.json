@@ -53486,6 +53486,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xfBnp_1690446100177_03-display-ads-portrait-template-Bunglow.mp4",
             "promoHeading": "New Property"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__wW9M_1702462626225_03-display-ads-portrait-template-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GtNz7_1702462627468_03-display-ads-portrait-template-Pharma.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "id": "Am0oIg9fNmMSxCfT5_PfZ",
@@ -81334,6 +81341,71 @@
     }
   ],
   "p_cryptCurr": [
+    {
+      "id": "z40Pf64_QM_1_D123",
+      "templateId": "z40Pf64_QM_1_D123",
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-13T11:52:46.911Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_6obEc_1702468364625_05-crypto-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "05-crypto-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_cryptCurr"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Z_ZSZ_1702468364628_05-crypto-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T4Pp5_1702468364626_05-crypto-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.9,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     {
       "id": "z40Pf64_QM_0_D123",
       "templateId": "z40Pf64_QM_0_D123",
