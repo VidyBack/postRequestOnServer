@@ -54046,6 +54046,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_q-Jag_1690462141807_03-display-ads-square-template-Healthcare.mp4",
             "promoHeading": "Health & Wellness"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Mcv0L_1702456930445_03-display-ads-square-template-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2KZcR_1702456931633_03-display-ads-square-template-Pharma.mp4",
+            "promoHeading": ""
+          }
         }
       ],
       "isMultipleTemplate": false
