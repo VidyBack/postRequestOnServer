@@ -73634,7 +73634,15 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "previews": [],
+      "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__Xfpc_1702558240824_01-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-6oiF_1702558242620_01-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Crypto News"
+          }
+        }
+      ],
       "isMultipleTemplate": false
     },
     {
