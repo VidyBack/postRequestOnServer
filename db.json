@@ -73074,6 +73074,13 @@
       "volume": 0.4,
       "previews": [
         {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SyniE_1702557360581_03-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_R8fkB_1702557361793_03-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Market Updates"
+          }
+        },
+        {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kFBru_1690542938570_03-news-summary-template-story-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2AHOu_1690542941107_03-news-summary-template-story-Automobile.mp4",
@@ -73182,6 +73189,13 @@
       "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DQr6X_1702557733308_06-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dk6DH_1702557734578_06-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Market Updates"
+          }
+        },
         {
           "Bunglow": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ONcbq_1690542183069_06-news-summary-template-story-Bunglow.jpg",
