@@ -74551,6 +74551,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MG4N1_1690779699985_02-breaking-news-square-Bunglow.mp4",
             "promoHeading": "Rental Insights"
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_O163z_1702554256288_02-breaking-news-square-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OfYH8_1702554257522_02-breaking-news-square-Finance.mp4",
+            "promoHeading": "Investment News"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -74910,9 +74917,9 @@
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GiKxm_1690880121804_01-breaking-news-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vCUbb_1690880125384_01-breaking-news-story-Finance.mp4",
-            "promoHeading": "Crypto News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BlpzF_1702553420519_01-breaking-news-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nTrhc_1702553422062_01-breaking-news-story-Finance.mp4",
+            "promoHeading": "Tax Updates"
           }
         },
         {
