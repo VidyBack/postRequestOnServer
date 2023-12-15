@@ -73191,9 +73191,9 @@
       "previews": [
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DQr6X_1702557733308_06-news-summary-template-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dk6DH_1702557734578_06-news-summary-template-story-Finance.mp4",
-            "promoHeading": "Market Updates"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Pt0aW_1702559017623_06-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9rVly_1702559018814_06-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Tax Updates"
           }
         },
         {
@@ -73749,6 +73749,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nDWHd_1690546582691_02-news-summary-template-story-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N0HXM_1690546585139_02-news-summary-template-story-Automobile.mp4",
             "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QMcv6_1702559272289_02-news-summary-template-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ltf_E_1702559273729_02-news-summary-template-story-Finance.mp4",
+            "promoHeading": "Crypto News"
           }
         }
       ]
