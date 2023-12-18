@@ -72311,9 +72311,9 @@
         },
         {
           "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7583t_1690968479252_04-news-summary-template-story-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wQcjH_1690968482910_04-news-summary-template-story-Healthcare.mp4",
-            "promoHeading": "Disease Updates"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_emIh__1702634473900_04-news-summary-template-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tHKU1_1702634475314_04-news-summary-template-story-Healthcare.mp4",
+            "promoHeading": "Health Tech"
           }
         },
         {
@@ -72342,6 +72342,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1Okm7_1702554813677_04-news-summary-template-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_84-gd_1702554814925_04-news-summary-template-story-Finance.mp4",
             "promoHeading": "Wealth Insights"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4Fkds_1702627677535_04-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gdCoa_1702627678929_04-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Updates"
           }
         }
       ]
@@ -72477,6 +72484,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4ev52_1690971937219_01-news-summary-portrait-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jRO06_1690971940837_01-news-summary-portrait-Finance.mp4",
             "promoHeading": "Investment News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_glISt_1702462216429_01-news-summary-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gt-8b_1702462217889_01-news-summary-portrait-Pharma.mp4",
+            "promoHeading": "Healthcare News"
           }
         }
       ],
@@ -72614,6 +72628,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8LTCn_1690888096090_02-news-summary-portrait-updated-Finance.mp4",
             "promoHeading": "Market Updates"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SJp4A_1702619863080_02-news-summary-portrait-updated-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_z4NUI_1702619864359_02-news-summary-portrait-updated-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -72749,6 +72770,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZYxeI_1690882653709_05-news-summary-template-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8nCaJ_1690882657362_05-news-summary-template-story-Finance.mp4",
             "promoHeading": "Crypto News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ctN0c_1702624530863_05-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aOt-6_1702624532240_05-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Healthcare News"
           }
         }
       ],
@@ -72886,6 +72914,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uJriD_1690782539314_07-news-summary-template-story-Finance.mp4",
             "promoHeading": "Tax Updates"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FyVV2_1702625321980_07-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_64uTU_1702625323213_07-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Treatment News"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -73008,6 +73043,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IyrK5_1702556478701_04-news-summary-portrait-Finance.mp4",
             "promoHeading": "Wealth Insights"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DvZF9_1702620442287_04-news-summary-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ISkt0_1702620443501_04-news-summary-portrait-Pharma.mp4",
+            "promoHeading": "Treatment News"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -73121,6 +73163,20 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_849l6_1690542941115_03-news-summary-template-story-Bunglow.mp4",
             "promoHeading": "Market Updates"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6GuOV_1702622927451_03-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1jFOu_1702622928684_03-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vRObv_1702629917250_03-news-summary-template-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3INBO_1702629918492_03-news-summary-template-story-Healthcare.mp4",
+            "promoHeading": "Disease Updates"
+          }
         }
       ],
       "id": "tbmDqBxR9Dfz462qmDQDO",
@@ -73190,6 +73246,13 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LPrT2_1702626812776_06-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NJvtb_1702626814020_06-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
+          }
+        },
+        {
           "Finance": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Pt0aW_1702559017623_06-news-summary-template-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9rVly_1702559018814_06-news-summary-template-story-Finance.mp4",
@@ -73205,9 +73268,9 @@
         },
         {
           "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XNLlK_1690542183072_06-news-summary-template-story-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2ycsO_1690542186584_06-news-summary-template-story-Healthcare.mp4",
-            "promoHeading": "Research News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wTsZX_1702640977389_06-news-summary-template-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nyaHJ_1702640978860_06-news-summary-template-story-Healthcare.mp4",
+            "promoHeading": "Health Updates"
           }
         },
         {
@@ -73352,6 +73415,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rEEWP_1690544517656_01-news-summary-template-square-Healthcare.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9lrGF_1690544519903_01-news-summary-template-square-Healthcare.mp4",
             "promoHeading": "Vaccine News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mXzO__1702462793505_01-news-summary-template-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_skP5w_1702462794731_01-news-summary-template-square-Pharma.mp4",
+            "promoHeading": "Health Advances"
           }
         }
       ],
@@ -73641,6 +73711,20 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-6oiF_1702558242620_01-news-summary-template-story-Finance.mp4",
             "promoHeading": "Crypto News"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d4M4C_1702621827131_01-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Q6vpX_1702621828356_01-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IwwNx_1702628749271_01-news-summary-template-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fHZoG_1702628750707_01-news-summary-template-story-Healthcare.mp4",
+            "promoHeading": "Public Health"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -73718,9 +73802,9 @@
         },
         {
           "Healthcare": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3YnAP_1690546582684_02-news-summary-template-story-Healthcare.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_x6Lw4_1690546585126_02-news-summary-template-story-Healthcare.mp4",
-            "promoHeading": ""
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uKACf_1702629367189_02-news-summary-template-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RWVEX_1702629368608_02-news-summary-template-story-Healthcare.mp4",
+            "promoHeading": "Public Health"
           }
         },
         {
@@ -73756,6 +73840,13 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QMcv6_1702559272289_02-news-summary-template-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ltf_E_1702559273729_02-news-summary-template-story-Finance.mp4",
             "promoHeading": "Crypto News"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0dbw3_1702461883710_02-news-summary-template-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Qv0u6_1702461885161_02-news-summary-template-story-Pharma.mp4",
+            "promoHeading": "Drug Updates"
           }
         }
       ]
@@ -73825,6 +73916,13 @@
       "AddId": "",
       "volume": 0.4,
       "previews": [
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0I2nc_1702638692587_01-breaking-news-portrait-updated-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Y4yN6_1702638693924_01-breaking-news-portrait-updated-Healthcare.mp4",
+            "promoHeading": "Public Health"
+          }
+        },
         {
           "Pharma": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7Phhw_1702458127178_01-breaking-news-portrait-updated-Pharma.jpg",
@@ -74601,6 +74699,13 @@
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_OfYH8_1702554257522_02-breaking-news-square-Finance.mp4",
             "promoHeading": "Investment News"
           }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zZCYo_1702617781794_02-breaking-news-square-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_m3J9i_1702617783448_02-breaking-news-square-Pharma.mp4",
+            "promoHeading": "Health Advances"
+          }
         }
       ],
       "isMultipleTemplate": false
@@ -74740,9 +74845,9 @@
         },
         {
           "Pharma": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z0IPk_1702533860557_04-breaking-news-portrait-Pharma.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HicQs_1702533861816_04-breaking-news-portrait-Pharma.mp4",
-            "promoHeading": "Research News"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_j-kev_1702618202078_04-breaking-news-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Xi7xi_1702618203674_04-breaking-news-portrait-Pharma.mp4",
+            "promoHeading": "Drug Approvals"
           }
         }
       ],
@@ -75127,6 +75232,20 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__91BQ_1702552996192_04-breaking-news-story-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_13p6D_1702552997649_04-breaking-news-story-Finance.mp4",
             "promoHeading": "Wealth Insights"
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TmgAz_1702618700600_04-breaking-news-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KJf_x_1702618701872_04-breaking-news-story-Pharma.mp4",
+            "promoHeading": "Research News"
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_W-kox_1702636391986_04-breaking-news-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7gZ2z_1702636393613_04-breaking-news-story-Healthcare.mp4",
+            "promoHeading": "Research News"
           }
         }
       ],
