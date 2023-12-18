@@ -81685,7 +81685,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 1,
-      "isMultipleTemplate": true,
+      "isMultipleTemplate": false,
       "previews": []
     },
     {
