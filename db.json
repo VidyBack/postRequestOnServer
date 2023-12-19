@@ -3249,6 +3249,67 @@
       "previews": []
     },
     {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-12-06T13:18:24.285Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666243176902_18-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_M1b7D_1670332699236_23-xmas - 06-12-2022.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "23-xmas - 06-12-2022",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h8BHz_1670332699239_23-xmas - Copy_small.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_01vEF_1670332699237_23-xmas - Copy.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "id": "qGaqBZUjqx6daauINooqr",
+      "templateId": "qGaqBZUjqx6daauINooqr",
+      "isMultipleTemplate": false
+    },
+    {
       "id": "mlpn_16_cftyr",
       "templateId": "mlpn_16_cftyr",
       "version": 1,
@@ -5081,67 +5142,6 @@
       "previews": [],
       "id": "GRrNgw6yXNBq-o_KfQaSD",
       "templateId": "GRrNgw6yXNBq-o_KfQaSD",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-06T13:18:24.285Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243176902_18-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_M1b7D_1670332699236_23-xmas - 06-12-2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "23-xmas - 06-12-2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_h8BHz_1670332699239_23-xmas - Copy_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_01vEF_1670332699237_23-xmas - Copy.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "qGaqBZUjqx6daauINooqr",
-      "templateId": "qGaqBZUjqx6daauINooqr",
       "isMultipleTemplate": false
     },
     {
