@@ -5083,68 +5083,6 @@
       "isMultipleTemplate": false
     },
     {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nEP9A_1672216976264_mixkit-welcome-to-the-games-54.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-28T08:57:54.376Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243176902_18-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bWTZe_1672217869048_26-happy-New-Year-28-12-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "26-happy-New-Year-28-12-22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zVh9b_1672217869053_26 - New Year_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TREkL_1672217869051_26 - New Year.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "GRrNgw6yXNBq-o_KfQaSD",
-      "templateId": "GRrNgw6yXNBq-o_KfQaSD",
-      "isMultipleTemplate": false
-    },
-    {
       "gifUrl": "",
       "bgVideoUrl": [
         ""
