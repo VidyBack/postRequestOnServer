@@ -78055,864 +78055,6 @@
       "isMultipleTemplate": false
     }
   ],
-  "p_nauto_tip": [
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-12-07T11:57:47.311Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzp_M_1701950261216_01-tips-portrait-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-tips-portrait-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P46dX_1701950261232_01-tips-portrait-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zJzT9_1701950261230_01-tips-portrait-updated.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 1,
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id": "laWh_0_EZPT44O",
-      "templateId": "laWh_0_EZPT44O"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-07-31T12:00:52.267Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qHKWV_1690805372373_02-tips-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "02-tips-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qdFHq_1690804809673_02-tips-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tzsS7_1690804809672_02-tips-portrait.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P3dQs_1690804842188_02-tips-portrait-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zDo7U_1690804845467_02-tips-portrait-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-max-avans-5058350.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Tips for Buying a Used Car"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_feuUQ_1690804842190_02-tips-portrait-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0z_h6_1690804845469_02-tips-portrait-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-4109954.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Cooking Basics"
-          }
-        }
-      ],
-      "id": "laWh-amL7dqyJjEZPT44O",
-      "templateId": "laWh-amL7dqyJjEZPT44O"
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-31T11:19:22.515Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFP0L_1690806665265_03-tips-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "03-tips-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lj2x-_1690802318058_03-tips-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_l5ITY_1690802318057_03-tips-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PZBNk_1690802355980_03-tips-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mJLFV_1690802357344_03-tips-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Fuel Efficiency Tips"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rqM2Q_1690802356037_03-tips-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vmzyE_1690802357346_03-tips-story-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-valeria-boltneva-1860204.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Budget-Friendly Food Tips"
-          }
-        }
-      ],
-      "id": "-G-CMlcpwlEUUTjge_oJ9",
-      "templateId": "-G-CMlcpwlEUUTjge_oJ9",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-07-31T11:11:16.115Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1666868563760_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_q7l3h_1690806219416_02-tips-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "02-tips-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1b1lG_1690801825662_02-tips-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pfQsg_1690801825616_02-tips-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6dR_k_1690801868729_02-tips-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_K4IGt_1690801870757_02-tips-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Safe Driving Practices"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uzxZE_1690801868730_02-tips-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ASUgE_1690801870760_02-tips-story-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-wendy-wei-4067053.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Healthy Eating Hacks"
-          }
-        }
-      ],
-      "id": "B5cfd-7CiH1TcwQRP2Sqd",
-      "templateId": "B5cfd-7CiH1TcwQRP2Sqd",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-raising-me-higher-34.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-31T11:03:36.193Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1666868588418_16-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aDauj_1690805955495_01-tips-story.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-tips-story",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w1ODq_1690801368285_01-tips-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SvbOb_1690801368279_01-tips-story.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.3,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prFe5_1690801410113_01-tips-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YVSn2_1690801411555_01-tips-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oskar-smethurst-6036198.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Fuel Efficiency Tips"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o0Env_1690801410114_01-tips-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_i_d7z_1690801411602_01-tips-story-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-416471.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Budget-Friendly Food Tips"
-          }
-        }
-      ],
-      "id": "BrdUpGKMVUrEocEza0kh_",
-      "templateId": "BrdUpGKMVUrEocEza0kh_",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-07-14T04:45:00.826Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1669380976064_17-BrandOutro-4-5-version-1"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_p6kuV_1689309855160_01-tips-portrait.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "01-tips-portrait",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xkOUm_1689309855169_01-tips-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lt8FY_1689309855165_01-tips-portrait.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8iQ59_1689309893233_01-tips-portrait-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y98hi_1689309895404_01-tips-portrait-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-kam-pratt-3457780.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Automobile/pexels-kam-pratt-3457780.jpg"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_T7_Gj_1689309893235_01-tips-portrait-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VUo1M_1689309895406_01-tips-portrait-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-solodsha-7664107.jpg-Food-DomainImage.jpg",
-            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Food/pexels-solodsha-7664107.jpg"
-          }
-        }
-      ],
-      "id": "LMRr2JkwNy71dtl-8AYnb",
-      "templateId": "LMRr2JkwNy71dtl-8AYnb",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-05-29T06:28:07.918Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_1_qFh_1685341517840_04-tips.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "04-tips",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QO4nE_1685341517845_04-tips.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J-8QI_1685341517843_04-tips.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wsTVA_1685341680517_04-tips-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5cKOc_1685341682539_04-tips-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg"
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Z_BIl_1685341680522_04-tips-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dn73Z_1685341682542_04-tips-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-clay-elliot-5524205.jpg-Bunglow-DomainImage.jpg"
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-6iMk_1685341680525_04-tips-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VDRWl_1685341682547_04-tips-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oleksandr-pidvalnyi-2100804 (1).jpg-Travel-DomainImage.jpg"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GwLB-_1685341680528_04-tips-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LN7c3_1685341682550_04-tips-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zn’s-food&natureart-8992924.jpg-Food-DomainImage.jpg"
-          }
-        }
-      ],
-      "id": "kO-RDnaGu7RqGlTOrgnEk",
-      "templateId": "kO-RDnaGu7RqGlTOrgnEk",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 2,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Anpkn_1663650688833_mixkit-angry-bolero-1126.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-05-26T12:34:52.380Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ka6cd_1685104369033_03-automobile-tips-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "03-automobile-tips-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NpN0N_1685104369036_03-automobile-tips-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5EWoe_1685104369034_03-automobile-tips-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__1EO9_1685104484694_03-automobile-tips-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wPTC9_1685104486641_03-automobile-tips-post-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Helpful Tip"
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_t64-W_1685104484695_03-automobile-tips-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_24_gn_1685104486643_03-automobile-tips-post-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-spencer-davis-4356143 (1).jpg-Travel-DomainImage.jpg",
-            "promoHeading": "Helpful Tip"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UdGyC_1685104484696_03-automobile-tips-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZKQw0_1685104486645_03-automobile-tips-post-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mariana-kurnyk-1775043.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Helpful Tip"
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IbvPR_1685104484698_03-automobile-tips-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fvlIu_1685104486647_03-automobile-tips-post-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-164522.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": "Helpful Tip"
-          }
-        }
-      ],
-      "id": "bB0y527LHtZWGJYHYurIB",
-      "templateId": "bB0y527LHtZWGJYHYurIB",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 3,
-      "defaultImage": "https://cdn.hootout.com/vidyback/images/T7.jpg",
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-05-26T11:58:24.858Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-FfnO_1685102169913_02-tip-post.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "02-tip-post",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bKWHC_1685102169918_02-tip-post.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_czq0y_1685102169915_02-tip-post.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NcoNG_1685102296518_02-tip-post-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TvY4g_1685102298935_02-tip-post-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mike-van-schoonderwalt-5484510.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wRfXY_1685102296520_02-tip-post-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hgt-i_1685102298937_02-tip-post-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oziel-gómez-7566890 (1).jpg-Travel-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7N_lO_1685102296521_02-tip-post-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_60Jj-_1685102298941_02-tip-post-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-8599742 (1).jpg-Food-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vO7Y-_1685102296522_02-tip-post-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_InHNS_1685102298943_02-tip-post-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gianni-🎸-🇨🇭🇮🇹-9156107.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "NarAyJobqjqRRPrDfZXk8",
-      "templateId": "NarAyJobqjqRRPrDfZXk8",
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 3,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-delightful-4-_AudioTrimmer.com__1.aac",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "defaultImage": "https://cdn.hootout.com/vidyback/images/T5.jpg",
-      "pro": false,
-      "createdOn": "2023-05-26T11:29:25.814Z",
-      "extraComps": [
-        {
-          "index": 2,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_MtmK9_1685100429129_01-tip.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-tip",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_nauto_tip"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_D2WbI_1685100429132_01-tip.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QTRJv_1685100429130_01-tip.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M9Cpb_1685100558488_01-tip-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B18Bw_1685100560486_01-tip-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mike-van-schoonderwalt-5484510.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Today's Tip"
-          }
-        },
-        {
-          "Travel": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M1QUn_1685100558489_01-tip-Travel.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oHoWS_1685100560490_01-tip-Travel.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-jaime-reimer-3794920.jpg-Travel-DomainImage.jpg",
-            "promoHeading": "Today's Tip"
-          }
-        },
-        {
-          "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jIWVq_1685100558491_01-tip-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_X7EtP_1685100560492_01-tip-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3323687.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Today's Tip"
-          }
-        },
-        {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eDPrF_1685100558492_01-tip-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PFv6i_1685100560494_01-tip-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-259588 (1).jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": "Today's Tip"
-          }
-        }
-      ],
-      "id": "VOgWjcwVFw007z6rLJgES",
-      "templateId": "VOgWjcwVFw007z6rLJgES",
-      "isMultipleTemplate": false
-    }
-  ],
   "p_nauto_quote": [
     {
       "version": 2,
@@ -79920,6 +79062,864 @@
       ],
       "id": "avlpWeH2OUJFSWe8WHDQW",
       "templateId": "avlpWeH2OUJFSWe8WHDQW"
+    }
+  ],
+  "p_nauto_tip": [
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-12-07T11:57:47.311Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzp_M_1701950261216_01-tips-portrait-updated.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-tips-portrait-updated",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P46dX_1701950261232_01-tips-portrait-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zJzT9_1701950261230_01-tips-portrait-updated.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 1,
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id": "laWh_0_EZPT44O",
+      "templateId": "laWh_0_EZPT44O"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-07-31T12:00:52.267Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1667216269635_15-BrandOutro-post-4-5-New"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qHKWV_1690805372373_02-tips-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "02-tips-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qdFHq_1690804809673_02-tips-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tzsS7_1690804809672_02-tips-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P3dQs_1690804842188_02-tips-portrait-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zDo7U_1690804845467_02-tips-portrait-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-max-avans-5058350.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Tips for Buying a Used Car"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_feuUQ_1690804842190_02-tips-portrait-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0z_h6_1690804845469_02-tips-portrait-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-4109954.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Cooking Basics"
+          }
+        }
+      ],
+      "id": "laWh-amL7dqyJjEZPT44O",
+      "templateId": "laWh-amL7dqyJjEZPT44O"
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-31T11:19:22.515Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_sFP0L_1690806665265_03-tips-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "03-tips-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lj2x-_1690802318058_03-tips-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_l5ITY_1690802318057_03-tips-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PZBNk_1690802355980_03-tips-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mJLFV_1690802357344_03-tips-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Fuel Efficiency Tips"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rqM2Q_1690802356037_03-tips-story-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vmzyE_1690802357346_03-tips-story-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-valeria-boltneva-1860204.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Budget-Friendly Food Tips"
+          }
+        }
+      ],
+      "id": "-G-CMlcpwlEUUTjge_oJ9",
+      "templateId": "-G-CMlcpwlEUUTjge_oJ9",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-07-31T11:11:16.115Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868563760_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_q7l3h_1690806219416_02-tips-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "02-tips-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_1b1lG_1690801825662_02-tips-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pfQsg_1690801825616_02-tips-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6dR_k_1690801868729_02-tips-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_K4IGt_1690801870757_02-tips-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-yoshi-10394779.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Safe Driving Practices"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uzxZE_1690801868730_02-tips-story-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ASUgE_1690801870760_02-tips-story-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-wendy-wei-4067053.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Healthy Eating Hacks"
+          }
+        }
+      ],
+      "id": "B5cfd-7CiH1TcwQRP2Sqd",
+      "templateId": "B5cfd-7CiH1TcwQRP2Sqd",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-raising-me-higher-34.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-31T11:03:36.193Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1666868588418_16-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aDauj_1690805955495_01-tips-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "01-tips-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w1ODq_1690801368285_01-tips-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SvbOb_1690801368279_01-tips-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.3,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prFe5_1690801410113_01-tips-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YVSn2_1690801411555_01-tips-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oskar-smethurst-6036198.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Fuel Efficiency Tips"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o0Env_1690801410114_01-tips-story-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_i_d7z_1690801411602_01-tips-story-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-416471.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Budget-Friendly Food Tips"
+          }
+        }
+      ],
+      "id": "BrdUpGKMVUrEocEza0kh_",
+      "templateId": "BrdUpGKMVUrEocEza0kh_",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_t82p4_1674197127176_Upbeat Melodic Corporate.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-07-14T04:45:00.826Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1669380976064_17-BrandOutro-4-5-version-1"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_p6kuV_1689309855160_01-tips-portrait.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Post 4:5",
+      "name": "01-tips-portrait",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xkOUm_1689309855169_01-tips-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lt8FY_1689309855165_01-tips-portrait.jpg",
+      "imageType": "Post 4:5",
+      "outroType": null,
+      "introType": null,
+      "Height": 1350,
+      "Width": 1080,
+      "height": 1350,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8iQ59_1689309893233_01-tips-portrait-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_y98hi_1689309895404_01-tips-portrait-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-kam-pratt-3457780.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Automobile/pexels-kam-pratt-3457780.jpg"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_T7_Gj_1689309893235_01-tips-portrait-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VUo1M_1689309895406_01-tips-portrait-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-solodsha-7664107.jpg-Food-DomainImage.jpg",
+            "promoHeading": "file:///C:/Users/User/Creative Cloud Files/AfterEffects/template_images/portrait_1080x1350/Food/pexels-solodsha-7664107.jpg"
+          }
+        }
+      ],
+      "id": "LMRr2JkwNy71dtl-8AYnb",
+      "templateId": "LMRr2JkwNy71dtl-8AYnb",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9f3qr_1663650926072_mixkit-baila-mi-amor-843.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-05-29T06:28:07.918Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_1_qFh_1685341517840_04-tips.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "04-tips",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QO4nE_1685341517845_04-tips.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J-8QI_1685341517843_04-tips.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wsTVA_1685341680517_04-tips-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5cKOc_1685341682539_04-tips-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Z_BIl_1685341680522_04-tips-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dn73Z_1685341682542_04-tips-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-clay-elliot-5524205.jpg-Bunglow-DomainImage.jpg"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-6iMk_1685341680525_04-tips-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_VDRWl_1685341682547_04-tips-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oleksandr-pidvalnyi-2100804 (1).jpg-Travel-DomainImage.jpg"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GwLB-_1685341680528_04-tips-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LN7c3_1685341682550_04-tips-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-zn’s-food&natureart-8992924.jpg-Food-DomainImage.jpg"
+          }
+        }
+      ],
+      "id": "kO-RDnaGu7RqGlTOrgnEk",
+      "templateId": "kO-RDnaGu7RqGlTOrgnEk",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 2,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Anpkn_1663650688833_mixkit-angry-bolero-1126.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-05-26T12:34:52.380Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Ka6cd_1685104369033_03-automobile-tips-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "03-automobile-tips-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NpN0N_1685104369036_03-automobile-tips-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5EWoe_1685104369034_03-automobile-tips-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__1EO9_1685104484694_03-automobile-tips-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wPTC9_1685104486641_03-automobile-tips-post-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ambady-kolazhikkaran-14533602.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Helpful Tip"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_t64-W_1685104484695_03-automobile-tips-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_24_gn_1685104486643_03-automobile-tips-post-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-spencer-davis-4356143 (1).jpg-Travel-DomainImage.jpg",
+            "promoHeading": "Helpful Tip"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UdGyC_1685104484696_03-automobile-tips-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ZKQw0_1685104486645_03-automobile-tips-post-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mariana-kurnyk-1775043.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Helpful Tip"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IbvPR_1685104484698_03-automobile-tips-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_fvlIu_1685104486647_03-automobile-tips-post-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-164522.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": "Helpful Tip"
+          }
+        }
+      ],
+      "id": "bB0y527LHtZWGJYHYurIB",
+      "templateId": "bB0y527LHtZWGJYHYurIB",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 3,
+      "defaultImage": "https://cdn.hootout.com/vidyback/images/T7.jpg",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_z7KCJ_1666164835041_mixkit-classical-vibes-5-688.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2023-05-26T11:58:24.858Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_-FfnO_1685102169913_02-tip-post.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "02-tip-post",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bKWHC_1685102169918_02-tip-post.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_czq0y_1685102169915_02-tip-post.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NcoNG_1685102296518_02-tip-post-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TvY4g_1685102298935_02-tip-post-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mike-van-schoonderwalt-5484510.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wRfXY_1685102296520_02-tip-post-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hgt-i_1685102298937_02-tip-post-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oziel-gómez-7566890 (1).jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7N_lO_1685102296521_02-tip-post-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_60Jj-_1685102298941_02-tip-post-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-8599742 (1).jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vO7Y-_1685102296522_02-tip-post-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_InHNS_1685102298943_02-tip-post-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-gianni-🎸-🇨🇭🇮🇹-9156107.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        }
+      ],
+      "id": "NarAyJobqjqRRPrDfZXk8",
+      "templateId": "NarAyJobqjqRRPrDfZXk8",
+      "isMultipleTemplate": false
+    },
+    {
+      "version": 3,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-delightful-4-_AudioTrimmer.com__1.aac",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "defaultImage": "https://cdn.hootout.com/vidyback/images/T5.jpg",
+      "pro": false,
+      "createdOn": "2023-05-26T11:29:25.814Z",
+      "extraComps": [
+        {
+          "index": 2,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_MtmK9_1685100429129_01-tip.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "01-tip",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_nauto_tip"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_D2WbI_1685100429132_01-tip.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QTRJv_1685100429130_01-tip.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M9Cpb_1685100558488_01-tip-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B18Bw_1685100560486_01-tip-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-mike-van-schoonderwalt-5484510.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": "Today's Tip"
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_M1QUn_1685100558489_01-tip-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oHoWS_1685100560490_01-tip-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-jaime-reimer-3794920.jpg-Travel-DomainImage.jpg",
+            "promoHeading": "Today's Tip"
+          }
+        },
+        {
+          "Food": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_jIWVq_1685100558491_01-tip-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_X7EtP_1685100560492_01-tip-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-olena-bohovyk-3323687.jpg-Food-DomainImage.jpg",
+            "promoHeading": "Today's Tip"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eDPrF_1685100558492_01-tip-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PFv6i_1685100560494_01-tip-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-259588 (1).jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": "Today's Tip"
+          }
+        }
+      ],
+      "id": "VOgWjcwVFw007z6rLJgES",
+      "templateId": "VOgWjcwVFw007z6rLJgES",
+      "isMultipleTemplate": false
     }
   ],
   "p_forhire_job": [
