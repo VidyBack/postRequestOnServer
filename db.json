@@ -1,6 +1,223 @@
 {
   "p_occasional": [
     {
+      "id": "mlpn_8_cftyr",
+      "templateId": "mlpn_8_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": true,
+      "createdOn": "2023-11-20T13:57:44.126Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JMiJb_1700488379654_04-festive-offers-square-christmas-template.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Posts",
+      "name": "04-festive-offers-square-christmas-template",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fNBJb_1700488379664_04-festive-offers-square-christmas-template.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OS9Mo_1700488379661_04-festive-offers-square-christmas-template.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1080,
+      "height": 1080,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.4,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LarcJ_1700488653234_04-festive-offers-square-christmas-template-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xfpHr_1700488656899_04-festive-offers-square-christmas-template-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U1ucA_1700488653235_04-festive-offers-square-christmas-template-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4nA4N_1700488656900_04-festive-offers-square-christmas-template-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Oy2J6_1700488653237_04-festive-offers-square-christmas-template-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp9Bb_1700488656902_04-festive-offers-square-christmas-template-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Um5ZV_1700488653238_04-festive-offers-square-christmas-template-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YfIzx_1700488656904_04-festive-offers-square-christmas-template-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qizfL_1700488653239_04-festive-offers-square-christmas-template-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_msTnV_1700488656906_04-festive-offers-square-christmas-template-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HJ1rj_1700488653240_04-festive-offers-square-christmas-template-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LMsuX_1700488656908_04-festive-offers-square-christmas-template-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aLnCv_1700488653241_04-festive-offers-square-christmas-template-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lK6OJ_1700488656909_04-festive-offers-square-christmas-template-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bBiO__1700488653242_04-festive-offers-square-christmas-template-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jnJl__1700488656911_04-festive-offers-square-christmas-template-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QkgoB_1700488653243_04-festive-offers-square-christmas-template-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2j3pZ_1700488656913_04-festive-offers-square-christmas-template-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BQ1h6_1700488653244_04-festive-offers-square-christmas-template-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B9nx2_1700488656914_04-festive-offers-square-christmas-template-Wearables.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-12-12T12:10:26.887Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1666243385096_15-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FyHQ0_1670847008827_04-Discount in percentage x mas-11-12-22.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "04-Discount in percentage x mas-11-12-22",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Q6QBy_1670847008830_04-Discount in percentage x mas-original.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SskiB_1670847008828_04-Discount in percentage x mas-original.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "previews": [
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1mcGx_1670847013839_04-Discount in percentage x mas-foot.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZYE6_1670847015729_04-Discount in percentage x mas-foot.mp4"
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wfQGU_1670847013841_04-Discount in percentage x mas-perfume.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RHAn2_1670847015730_04-Discount in percentage x mas-perfume.mp4"
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MDLLT_1670847013842_04-Discount in percentage x mas.png",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_h5WWw_1670847015731_04-Discount in percentage x mas.mp4"
+          }
+        }
+      ],
+      "id": "mlpn_2_cftyr",
+      "templateId": "mlpn_2_cftyr",
+      "isMultipleTemplate": false
+    },
+    {
       "id": "mlpn_26_cftyrs",
       "templateId": "mlpn_26_cftyrs",
       "version": 1,
@@ -2713,87 +2930,7 @@
       "id": "mlpn_3_cftyr",
       "templateId": "mlpn_3_cftyr"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RDkpS_1663063611709_Rebecca.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-12-12T12:10:26.887Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666243385096_15-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FyHQ0_1670847008827_04-Discount in percentage x mas-11-12-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "04-Discount in percentage x mas-11-12-22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_occasional"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Q6QBy_1670847008830_04-Discount in percentage x mas-original.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SskiB_1670847008828_04-Discount in percentage x mas-original.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_1mcGx_1670847013839_04-Discount in percentage x mas-foot.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8ZYE6_1670847015729_04-Discount in percentage x mas-foot.mp4"
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wfQGU_1670847013841_04-Discount in percentage x mas-perfume.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_RHAn2_1670847015730_04-Discount in percentage x mas-perfume.mp4"
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MDLLT_1670847013842_04-Discount in percentage x mas.png",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_h5WWw_1670847015731_04-Discount in percentage x mas.mp4"
-          }
-        }
-      ],
-      "id": "mlpn_2_cftyr",
-      "templateId": "mlpn_2_cftyr",
-      "isMultipleTemplate": false
-    },
+    
     {
       "version": 1,
       "gifUrl": "",
@@ -3319,142 +3456,6 @@
           "Wearables": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JGgLn_1700644021646_05-festive-offers-square-valentines-day-template-Wearables.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dk-Yr_1700644025751_05-festive-offers-square-valentines-day-template-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ]
-    },
-    {
-      "id": "mlpn_8_cftyr",
-      "templateId": "mlpn_8_cftyr",
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Festive/mixkit-a-very-happy-christmas-897.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-11-20T13:57:44.126Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JMiJb_1700488379654_04-festive-offers-square-christmas-template.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "04-festive-offers-square-christmas-template",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_occasional"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fNBJb_1700488379664_04-festive-offers-square-christmas-template.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_OS9Mo_1700488379661_04-festive-offers-square-christmas-template.jpg",
-      "imageType": "Instagram Posts",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.4,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LarcJ_1700488653234_04-festive-offers-square-christmas-template-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xfpHr_1700488656899_04-festive-offers-square-christmas-template-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_U1ucA_1700488653235_04-festive-offers-square-christmas-template-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4nA4N_1700488656900_04-festive-offers-square-christmas-template-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Oy2J6_1700488653237_04-festive-offers-square-christmas-template-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp9Bb_1700488656902_04-festive-offers-square-christmas-template-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Um5ZV_1700488653238_04-festive-offers-square-christmas-template-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YfIzx_1700488656904_04-festive-offers-square-christmas-template-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qizfL_1700488653239_04-festive-offers-square-christmas-template-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_msTnV_1700488656906_04-festive-offers-square-christmas-template-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HJ1rj_1700488653240_04-festive-offers-square-christmas-template-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LMsuX_1700488656908_04-festive-offers-square-christmas-template-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aLnCv_1700488653241_04-festive-offers-square-christmas-template-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lK6OJ_1700488656909_04-festive-offers-square-christmas-template-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bBiO__1700488653242_04-festive-offers-square-christmas-template-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jnJl__1700488656911_04-festive-offers-square-christmas-template-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QkgoB_1700488653243_04-festive-offers-square-christmas-template-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2j3pZ_1700488656913_04-festive-offers-square-christmas-template-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BQ1h6_1700488653244_04-festive-offers-square-christmas-template-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_B9nx2_1700488656914_04-festive-offers-square-christmas-template-Wearables.mp4",
             "promoHeading": ""
           }
         }
