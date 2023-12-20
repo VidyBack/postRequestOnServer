@@ -514,11 +514,11 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-20T12:10:53.135Z",
+      "createdOn": "2023-12-20T12:44:07.082Z",
       "extraComps": [
         {
           "index": 4,
-          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
+          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
         }
       ],
       "widgetsDefinition": [
@@ -530,7 +530,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_RKxU6_1703073749116_06-festive-offer-new-year-square.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_VMqKn_1703075773181_06-festive-offer-new-year-square.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -544,8 +544,8 @@
       "category": [
         "p_occasional"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8qyjQ_1703073749165_06-festive-offer-new-year-square.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SWVwl_1703073749156_06-festive-offer-new-year-square.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vug7W_1703075773184_06-festive-offer-new-year-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4Opm8_1703075773182_06-festive-offer-new-year-square.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
@@ -562,78 +562,71 @@
       "previews": [
         {
           "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Q7ekh_1703074242782_06-festive-offer-new-year-square-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ak2Vu_1703074246678_06-festive-offer-new-year-square-Accessories.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Ynrsu_1703076239378_06-festive-offer-new-year-square-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_stm5S_1703076242133_06-festive-offer-new-year-square-Accessories.mp4",
             "promoHeading": ""
           }
         },
         {
           "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UMGpY_1703074242783_06-festive-offer-new-year-square-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9gxT5_1703074246691_06-festive-offer-new-year-square-Toys.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fC0sK_1703076239390_06-festive-offer-new-year-square-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sfWAD_1703076242137_06-festive-offer-new-year-square-Toys.mp4",
             "promoHeading": ""
           }
         },
         {
           "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RCeVA_1703074242785_06-festive-offer-new-year-square-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zTC4W_1703074246695_06-festive-offer-new-year-square-HealthFitness.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mGmUx_1703076239406_06-festive-offer-new-year-square-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I0keW_1703076242142_06-festive-offer-new-year-square-HealthFitness.mp4",
             "promoHeading": ""
           }
         },
         {
           "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OoBPt_1703074242787_06-festive-offer-new-year-square-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KZIBf_1703074246699_06-festive-offer-new-year-square-Perfumes.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cc9al_1703076239408_06-festive-offer-new-year-square-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pNjta_1703076242146_06-festive-offer-new-year-square-Perfumes.mp4",
             "promoHeading": ""
           }
         },
         {
           "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C5Zuu_1703074242946_06-festive-offer-new-year-square-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XKmPW_1703074246703_06-festive-offer-new-year-square-BagPurse.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_j0xMF_1703076239410_06-festive-offer-new-year-square-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5reAV_1703076242151_06-festive-offer-new-year-square-BagPurse.mp4",
             "promoHeading": ""
           }
         },
         {
           "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mBs8H_1703074243999_06-festive-offer-new-year-square-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_99z4Y_1703074246705_06-festive-offer-new-year-square-MobileElec.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n90tx_1703076239411_06-festive-offer-new-year-square-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_X4xuy_1703076242155_06-festive-offer-new-year-square-MobileElec.mp4",
             "promoHeading": ""
           }
         },
         {
           "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_e3ekD_1703074244024_06-festive-offer-new-year-square-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_txGlG_1703074246706_06-festive-offer-new-year-square-Clothings.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Rmh9N_1703076239412_06-festive-offer-new-year-square-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_K0mZg_1703076242156_06-festive-offer-new-year-square-Clothings.mp4",
             "promoHeading": ""
           }
         },
         {
           "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_-qBT1_1703074244058_06-festive-offer-new-year-square-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mmzmb_1703074246708_06-festive-offer-new-year-square-Footwear.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Y8KwW_1703076239413_06-festive-offer-new-year-square-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PD5kl_1703076242157_06-festive-offer-new-year-square-Footwear.mp4",
             "promoHeading": ""
           }
         },
         {
           "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qQS0__1703074244059_06-festive-offer-new-year-square-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TcVla_1703074246709_06-festive-offer-new-year-square-Jewellery.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_S84TA_1703076239414_06-festive-offer-new-year-square-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I3CyK_1703076242170_06-festive-offer-new-year-square-Jewellery.mp4",
             "promoHeading": ""
           }
         },
         {
           "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iTH69_1703074244060_06-festive-offer-new-year-square-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Ml5-X_1703074246722_06-festive-offer-new-year-square-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_I7E7l_1703074244061_06-festive-offer-new-year-square-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jOKAd_1703074246723_06-festive-offer-new-year-square-HomeDecor.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_liLPU_1703076239415_06-festive-offer-new-year-square-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_p5viS_1703076242172_06-festive-offer-new-year-square-Wearables.mp4",
             "promoHeading": ""
           }
         }
