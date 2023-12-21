@@ -3759,11 +3759,11 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-21T12:13:29.412Z",
+      "createdOn": "2023-12-21T13:16:36.312Z",
       "extraComps": [
         {
           "index": 3,
-          "compId": "1669383380037_18-BrandOutro-Square-version-1-update"
+          "compId": "1672722856307_15_BrandOutro_square_version_2_color"
         }
       ],
       "widgetsDefinition": [
@@ -3775,7 +3775,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Zhu3l_1703160805387_14-christmas-greeting-square.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DkpyG_1703164592588_14-christmas-greeting-square.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -3789,8 +3789,8 @@
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k4vKt_1703160805416_14-christmas-greeting-square.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_7Edo8_1703160805389_14-christmas-greeting-square.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Oy5gz_1703164592641_14-christmas-greeting-square.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Z5R2k_1703164592636_14-christmas-greeting-square.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
