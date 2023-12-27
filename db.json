@@ -74070,10 +74070,66 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UrCUT_1703593560562_02-news-summary-template-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MuSob_1703593564600_02-news-summary-template-story-Automobile.mp4",
+            "promoHeading": "Auto Industry"
+          }
+        },
+        {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ahlPY_1703593560563_02-news-summary-template-story-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0YG6m_1703593564602_02-news-summary-template-story-FMCG.mp4",
+            "promoHeading": "Sales Alert"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zqbRW_1703593560565_02-news-summary-template-story-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3bqd4_1703593564604_02-news-summary-template-story-NGO.mp4",
+            "promoHeading": "NGO Impact"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yK9fg_1703593560566_02-news-summary-template-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vj8po_1703593564606_02-news-summary-template-story-Legal.mp4",
+            "promoHeading": "Case Highlights"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TmaEl_1703593560586_02-news-summary-template-story-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0Y_UF_1703593564608_02-news-summary-template-story-Education.mp4",
+            "promoHeading": "STEM Insights"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_phxCd_1703593560588_02-news-summary-template-story-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qVlnV_1703593564609_02-news-summary-template-story-Politics.mp4",
+            "promoHeading": "Election News"
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4p2T9_1703593560589_02-news-summary-template-story-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gYv6F_1703593564611_02-news-summary-template-story-Sports.mp4",
+            "promoHeading": "Begin Competing"
+          }
+        },
+        {
           "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dFfN8_1690546582682_02-news-summary-template-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cpCvj_1690546585123_02-news-summary-template-story-Bunglow.mp4",
-            "promoHeading": ""
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MH8xI_1703593560599_02-news-summary-template-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jFdhw_1703593564613_02-news-summary-template-story-Bunglow.mp4",
+            "promoHeading": "Rental Insights"
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2u3IQ_1703593560609_02-news-summary-template-story-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ow29J_1703593564615_02-news-summary-template-story-Jobs.mp4",
+            "promoHeading": "Hiring News"
           }
         },
         {
@@ -74101,13 +74157,6 @@
           "Technology": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h6bGB_1690546582690_02-news-summary-template-story-Technology.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qoXei_1690546585136_02-news-summary-template-story-Technology.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_nDWHd_1690546582691_02-news-summary-template-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N0HXM_1690546585139_02-news-summary-template-story-Automobile.mp4",
             "promoHeading": ""
           }
         },
