@@ -72419,16 +72419,51 @@
       "previews": [
         {
           "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DZtav_1690968479207_04-news-summary-template-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_g3LoO_1690968482899_04-news-summary-template-story-Automobile.mp4",
-            "promoHeading": "Auto Industry"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UEwZr_1703658531747_04-news-summary-template-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kG061_1703658535253_04-news-summary-template-story-Automobile.mp4",
+            "promoHeading": "Future Mobility"
+          }
+        },
+        {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c76V-_1703658531749_04-news-summary-template-story-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uF3vz_1703658535256_04-news-summary-template-story-FMCG.mp4",
+            "promoHeading": "Retail Tech"
           }
         },
         {
           "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_al2kX_1690968479209_04-news-summary-template-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AJpIB_1690968482901_04-news-summary-template-story-Bunglow.mp4",
-            "promoHeading": "Home Trends"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2U5Mj_1703661709849_04-news-summary-template-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rqDrr_1703661711161_04-news-summary-template-story-Bunglow.mp4",
+            "promoHeading": "Rental Insights"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_DwYfs_1703658531767_04-news-summary-template-story-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_H54ZC_1703658535270_04-news-summary-template-story-Education.mp4",
+            "promoHeading": "Learning Trends"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LgZkT_1703658531772_04-news-summary-template-story-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HGcsn_1703658535271_04-news-summary-template-story-NGO.mp4",
+            "promoHeading": "NGO Updates"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_H6aIC_1703658531773_04-news-summary-template-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iDOIm_1703658535274_04-news-summary-template-story-Legal.mp4",
+            "promoHeading": "Legal Advice"
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3AUKn_1703658531775_04-news-summary-template-story-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_r9sE__1703658535276_04-news-summary-template-story-Jobs.mp4",
+            "promoHeading": "Hiring News"
           }
         },
         {
@@ -72471,13 +72506,6 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_by4S1_1690968479401_04-news-summary-template-story-Politics.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2Y1_i_1690968482916_04-news-summary-template-story-Politics.mp4",
             "promoHeading": "Global Politics"
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n51qG_1690968479402_04-news-summary-template-story-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7q23-_1690968482931_04-news-summary-template-story-Jobs.mp4",
-            "promoHeading": "Workforce News"
           }
         },
         {
@@ -73266,13 +73294,6 @@
           }
         },
         {
-          "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_kFBru_1690542938570_03-news-summary-template-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2AHOu_1690542941107_03-news-summary-template-story-Automobile.mp4",
-            "promoHeading": "Auto Industry"
-          }
-        },
-        {
           "Travel": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u3VwU_1690542938572_03-news-summary-template-story-Travel.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_U2V2f_1690542941109_03-news-summary-template-story-Travel.mp4",
@@ -73294,13 +73315,6 @@
           }
         },
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qwm0k_1690542938578_03-news-summary-template-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_849l6_1690542941115_03-news-summary-template-story-Bunglow.mp4",
-            "promoHeading": "Market Updates"
-          }
-        },
-        {
           "Pharma": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6GuOV_1702622927451_03-news-summary-template-story-Pharma.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1jFOu_1702622928684_03-news-summary-template-story-Pharma.mp4",
@@ -73312,6 +73326,69 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vRObv_1702629917250_03-news-summary-template-story-Healthcare.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3INBO_1702629918492_03-news-summary-template-story-Healthcare.mp4",
             "promoHeading": "Disease Updates"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wCkrD_1703659530604_03-news-summary-template-story-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JFz7i_1703659534495_03-news-summary-template-story-Politics.mp4",
+            "promoHeading": "Policy Debates"
+          }
+        },
+        {
+          "Automobile": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_95XHv_1703659530605_03-news-summary-template-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iH79m_1703659534496_03-news-summary-template-story-Automobile.mp4",
+            "promoHeading": "Future Mobility"
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qgTVs_1703659530607_03-news-summary-template-story-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Yq4da_1703659534497_03-news-summary-template-story-Sports.mp4",
+            "promoHeading": "Begin Competing"
+          }
+        },
+        {
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4LYdP_1703659530608_03-news-summary-template-story-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7GREA_1703659534499_03-news-summary-template-story-Entertainment.mp4",
+            "promoHeading": "Red Carpet"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Bv-UE_1703659530609_03-news-summary-template-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Xq7bB_1703659534501_03-news-summary-template-story-Bunglow.mp4",
+            "promoHeading": "Market Updates"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pbfNV_1703659530610_03-news-summary-template-story-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zW1Xy_1703659534502_03-news-summary-template-story-Education.mp4",
+            "promoHeading": "Edu Updates"
+          }
+        },
+        {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GeNN4_1703659530612_03-news-summary-template-story-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qzvTP_1703659534504_03-news-summary-template-story-FMCG.mp4",
+            "promoHeading": "Store Closures"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_E_NgQ_1703659530613_03-news-summary-template-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tmwGi_1703659534506_03-news-summary-template-story-Legal.mp4",
+            "promoHeading": "Legal Trends"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_z2lCq_1703659530614_03-news-summary-template-story-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xy4wv_1703659534507_03-news-summary-template-story-NGO.mp4",
+            "promoHeading": "Social Impact"
           }
         }
       ],
@@ -73626,13 +73703,6 @@
       "isMultipleTemplate": false,
       "previews": [
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FH1re_1703234602583_09-news-summary-template-story-updated-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jensM_1703234610002_09-news-summary-template-story-updated-Bunglow.mp4",
-            "promoHeading": "Rental Insights"
-          }
-        },
-        {
           "FMCG": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mX-bA_1703234602590_09-news-summary-template-story-updated-FMCG.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CVeBg_1703234610010_09-news-summary-template-story-updated-FMCG.mp4",
@@ -73644,13 +73714,6 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3Zat5_1703234602596_09-news-summary-template-story-updated-Education.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SUWgu_1703234610034_09-news-summary-template-story-updated-Education.mp4",
             "promoHeading": "School News"
-          }
-        },
-        {
-          "Entertainment": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_R8Kk7_1703234602603_09-news-summary-template-story-updated-Entertainment.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_u-kaS_1703234610047_09-news-summary-template-story-updated-Entertainment.mp4",
-            "promoHeading": "Showbiz Scoop"
           }
         },
         {
@@ -73696,13 +73759,6 @@
           }
         },
         {
-          "Politics": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c1oFF_1703234602645_09-news-summary-template-story-updated-Politics.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vX79n_1703234610127_09-news-summary-template-story-updated-Politics.mp4",
-            "promoHeading": "Policy Updates"
-          }
-        },
-        {
           "Pharma": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zvZYE_1703240622156_09-news-summary-template-story-updated-Pharma.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SJX_o_1703240623456_09-news-summary-template-story-updated-Pharma.mp4",
@@ -73735,6 +73791,27 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HIZlK_1703234602673_09-news-summary-template-story-updated-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_t4G1j_1703234610165_09-news-summary-template-story-updated-Automobile.mp4",
             "promoHeading": "Car Trends"
+          }
+        },
+        {
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5APp8_1703663243962_09-news-summary-template-story-updated-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ncVdp_1703663245188_09-news-summary-template-story-updated-Entertainment.mp4",
+            "promoHeading": "Celebrity Buzz"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_JikJs_1703662504413_09-news-summary-template-story-updated-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_30hvs_1703662507299_09-news-summary-template-story-updated-Politics.mp4",
+            "promoHeading": "Election News"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8Xz70_1703662504414_09-news-summary-template-story-updated-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cV4hh_1703662507301_09-news-summary-template-story-updated-Bunglow.mp4",
+            "promoHeading": "Home Trends"
           }
         }
       ],
@@ -74242,6 +74319,62 @@
       "volume": 0.4,
       "previews": [
         {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ONfMs_1703656286795_01-breaking-news-portrait-updated-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5Dt5-_1703656290530_01-breaking-news-portrait-updated-FMCG.mp4",
+            "promoHeading": "Shop Updates"
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_I6Lnj_1703656286797_01-breaking-news-portrait-updated-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CHoBW_1703656290535_01-breaking-news-portrait-updated-Bunglow.mp4",
+            "promoHeading": "Market Updates"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sBx7P_1703656286799_01-breaking-news-portrait-updated-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NmvSV_1703656290537_01-breaking-news-portrait-updated-NGO.mp4",
+            "promoHeading": "Charity Updates"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_SqQml_1703656286801_01-breaking-news-portrait-updated-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__Bt_S_1703656290539_01-breaking-news-portrait-updated-Politics.mp4",
+            "promoHeading": "Election News"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_fLhF4_1703656286842_01-breaking-news-portrait-updated-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2uOB0_1703656290541_01-breaking-news-portrait-updated-Legal.mp4",
+            "promoHeading": "Legal Updates"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2gHsh_1703656286846_01-breaking-news-portrait-updated-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TjJ97_1703656290542_01-breaking-news-portrait-updated-Education.mp4",
+            "promoHeading": "Learning Trends"
+          }
+        },
+        {
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_H5z-l_1703656286848_01-breaking-news-portrait-updated-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-vttD_1703656290544_01-breaking-news-portrait-updated-Entertainment.mp4",
+            "promoHeading": "Red Carpet"
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Mv3IP_1703656286850_01-breaking-news-portrait-updated-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yYVMV_1703656290545_01-breaking-news-portrait-updated-Jobs.mp4",
+            "promoHeading": "Job Market"
+          }
+        },
+        {
           "Healthcare": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0I2nc_1702638692587_01-breaking-news-portrait-updated-Healthcare.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Y4yN6_1702638693924_01-breaking-news-portrait-updated-Healthcare.mp4",
@@ -74291,31 +74424,10 @@
           }
         },
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3vWyQ_1690787569889_01-breaking-news-portrait-updated-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_4bQmi_1690787575453_01-breaking-news-portrait-updated-Bunglow.mp4",
-            "promoHeading": "Market Updates"
-          }
-        },
-        {
           "Sports": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bS86C_1690787569891_01-breaking-news-portrait-updated-Sports.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CM20U_1690787575454_01-breaking-news-portrait-updated-Sports.mp4",
             "promoHeading": "Thrilling Wins"
-          }
-        },
-        {
-          "Politics": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yVnah_1690787569891_01-breaking-news-portrait-updated-Politics.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_9h85F_1690787575456_01-breaking-news-portrait-updated-Politics.mp4",
-            "promoHeading": "Policy Updates"
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2806v_1690787569892_01-breaking-news-portrait-updated-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_lfpvI_1690787575458_01-breaking-news-portrait-updated-Jobs.mp4",
-            "promoHeading": "Job Fairs"
           }
         },
         {
@@ -75102,6 +75214,13 @@
       "AddId": "",
       "volume": 0.4,
       "previews": [
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_i9BGr_1703660741820_02-breaking-news-square-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_psXad_1703660743093_02-breaking-news-square-Sports.mp4",
+            "promoHeading": "Begin Competing"
+          }
+        },
         {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7zTzl_1690779697654_02-breaking-news-square-Automobile.jpg",
