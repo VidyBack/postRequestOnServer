@@ -73806,6 +73806,48 @@
       "templateId": "u-vyUDw24ALAg_r7J21Xqw12",
       "previews": [
         {
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_E-Z6h_1703742303159_01-news-summary-template-square-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TRCSQ_1703742305922_01-news-summary-template-square-FMCG.mp4",
+            "promoHeading": "Retail Tech"
+          }
+        },
+        {
+          "NGO": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_CRIqR_1703742303160_01-news-summary-template-square-NGO.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6EZUk_1703742305924_01-news-summary-template-square-NGO.mp4",
+            "promoHeading": "Charity Updates"
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dM6RR_1703742303161_01-news-summary-template-square-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hC3qd_1703742305925_01-news-summary-template-square-Education.mp4",
+            "promoHeading": "Edu Updates"
+          }
+        },
+        {
+          "Entertainment": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_LxbtN_1703742303162_01-news-summary-template-square-Entertainment.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LbOwH_1703742305926_01-news-summary-template-square-Entertainment.mp4",
+            "promoHeading": "Celebrity Buzz"
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yaz-F_1703742303164_01-news-summary-template-square-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xvQyc_1703742305928_01-news-summary-template-square-Legal.mp4",
+            "promoHeading": "Legal Trends"
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_RqPtC_1703742303165_01-news-summary-template-square-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hfE8c_1703742305930_01-news-summary-template-square-Politics.mp4",
+            "promoHeading": "Power Struggles"
+          }
+        },
+        {
           "Finance": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_PqpsE_1702556876742_01-news-summary-template-square-Finance.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jsP5M_1702556878096_01-news-summary-template-square-Finance.mp4",
@@ -74371,6 +74413,13 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_A609Q_1703745992492_02-news-summary-template-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vFPRG_1703745993912_02-news-summary-template-story-Legal.mp4",
+            "promoHeading": "Legal Trends"
+          }
+        },
+        {
           "Politics": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_K8ErC_1703674794847_02-news-summary-template-story-Politics.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GFFA2_1703674796472_02-news-summary-template-story-Politics.mp4",
@@ -74410,13 +74459,6 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zqbRW_1703593560565_02-news-summary-template-story-NGO.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3bqd4_1703593564604_02-news-summary-template-story-NGO.mp4",
             "promoHeading": "NGO Impact"
-          }
-        },
-        {
-          "Legal": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yK9fg_1703593560566_02-news-summary-template-story-Legal.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_vj8po_1703593564606_02-news-summary-template-story-Legal.mp4",
-            "promoHeading": "Case Highlights"
           }
         },
         {
