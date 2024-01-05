@@ -84483,7 +84483,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-01-02T11:34:58.836Z",
+      "createdOn": "2024-01-05T12:43:33.321Z",
       "extraComps": [
         {
           "index": 2,
@@ -84499,7 +84499,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_OJxm2_1704195293852_01-finance-all-multi-portrait-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dhP6u_1704458610770_01-finance-all-multi-portrait-updated-new.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -84507,14 +84507,14 @@
         }
       ],
       "type": "Post 4:5",
-      "name": "01-finance-all-multi-portrait-updated",
+      "name": "01-finance-all-multi-portrait-updated-new",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ve16D_1704195293860_01-finance-all-multi-portrait-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_O-XOA_1704195293856_01-finance-all-multi-portrait-updated.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QLfJg_1704458610776_01-finance-all-multi-portrait-updated-new.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JBYEe_1704458610773_01-finance-all-multi-portrait-updated-new.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -84526,7 +84526,7 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 1,
+      "volume": 0.5,
       "isMultipleTemplate": true,
       "previews": []
     },
