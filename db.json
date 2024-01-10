@@ -85263,7 +85263,7 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-01-01T10:20:38.877Z",
+      "createdOn": "2024-01-10T10:50:17.539Z",
       "extraComps": [
         {
           "index": 2,
@@ -85279,7 +85279,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_p7Z8b_1704104434233_03-finance-all-story-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rcGt8_1704883813917_03-finance-all-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -85293,8 +85293,8 @@
       "category": [
         "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_P1_Vb_1704104434279_03-finance-all-story-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_QuX9S_1704104434272_03-finance-all-story-updated.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-gGAT_1704883813920_03-finance-all-story-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8t4JB_1704883813918_03-finance-all-story-updated.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -85306,7 +85306,7 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 1,
+      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": []
     },
