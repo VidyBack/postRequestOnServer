@@ -80603,6 +80603,14 @@
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-6419742.jpg-Food-DomainImage.jpg",
             "promoHeading": ""
           }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_F7u7J_1704956308858_02-portrait_1080x1350-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_3Guwi_1704956310145_02-portrait_1080x1350-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-53621.jpg-Finance-DomainImage.jpg",
+            "promoHeading": ""
+          }
         }
       ],
       "id": "nf48f7fdhe839w2d",
@@ -81719,6 +81727,14 @@
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Sfbsv_1704957628924_02-tips-portrait-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PQlhQ_1704957630949_02-tips-portrait-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-221024.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": "Renting Tips for Tenants"
+          }
+        },
+        {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P3dQs_1690804842188_02-tips-portrait-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zDo7U_1690804845467_02-tips-portrait-Automobile.mp4",
@@ -81898,6 +81914,14 @@
       "volume": 0.3,
       "previews": [
         {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_QCjvF_1704956668128_02-tips-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_7aK5L_1704956670032_02-tips-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ja-norlin-photography-2491640.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": "Home Inspection Checklist"
+          }
+        },
+        {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6dR_k_1690801868729_02-tips-story-Automobile.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_K4IGt_1690801870757_02-tips-story-Automobile.mp4",
@@ -81987,6 +82011,14 @@
       "AddId": "",
       "volume": 0.3,
       "previews": [
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0_0Gx_1704957232945_01-tips-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe___vGc_1704957234808_01-tips-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-christa-grover-2121121.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": "Renting Tips for Tenants"
+          }
+        },
         {
           "Automobile": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prFe5_1690801410113_01-tips-story-Automobile.jpg",
@@ -85511,50 +85543,50 @@
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
-        ""
+          ""
       ],
       "fontUrl": [
-        ""
+          ""
       ],
       "bgImageUrl": [
-        ""
+          ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-12-28T12:54:49.854Z",
+      "createdOn": "2024-01-11T05:50:07.176Z",
       "extraComps": [
-        {
-          "index": 2,
-          "compId": "1703761709340_01- finance -post-1080x1080-brand-outro"
-        }
+          {
+              "index": 2,
+              "compId": "1703761709340_01- finance -post-1080x1080-brand-outro"
+          }
       ],
       "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_l6DAg_1703768087600_02-template-for-all-post-updated.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
+          {
+              "mappingKeyMandatory": false,
+              "Height": "100%",
+              "Width": "100%",
+              "StartTime": 0,
+              "EndTime": -1,
+              "URLS": [],
+              "mappingKeyValue": "",
+              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rtQpE_1704952202740_02-template-for-all-post-updated-2.json",
+              "X": "0.0%",
+              "Y": "0.0%",
+              "type": "SVG_SINGLE",
+              "duration": 10
+          }
       ],
       "type": "Instagram Posts",
-      "name": "02-template-for-all-post-updated",
+      "name": "02-template-for-all-post-updated-2",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-        "p_financeGeneric"
+          "p_financeGeneric"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CyfTq_1703768087603_02-template-for-all-post-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UvPse_1703768087601_02-template-for-all-post-updated.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LBtuF_1704952202760_02-template-for-all-post-updated-2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U0B_b_1704952202742_02-template-for-all-post-updated-2.jpg",
       "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
@@ -85566,9 +85598,9 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.4,
+      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": []
-    }
+  }
   ]
 }
