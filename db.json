@@ -81679,11 +81679,11 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-07-31T12:00:52.267Z",
+      "pro": false,
+      "createdOn": "2024-01-11T10:27:02.168Z",
       "extraComps": [
         {
-          "index": 3,
+          "index": 2,
           "compId": "1667216269635_15-BrandOutro-post-4-5-New"
         }
       ],
@@ -81696,7 +81696,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qHKWV_1690805372373_02-tips-portrait.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_yyq27_1704968506392_02-tips-portrait.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -81710,8 +81710,8 @@
       "category": [
         "p_nauto_tip"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qdFHq_1690804809673_02-tips-portrait.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tzsS7_1690804809672_02-tips-portrait.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XKpNO_1704968506395_02-tips-portrait.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ubGj7_1704968506393_02-tips-portrait.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -81723,38 +81723,118 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.3,
+      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Sfbsv_1704957628924_02-tips-portrait-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PQlhQ_1704957630949_02-tips-portrait-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-221024.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": "Renting Tips for Tenants"
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5DDD6_1704968803940_02-tips-portrait-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_H4-g1_1704968809736_02-tips-portrait-FMCG.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-nana-lapushkina-12070248.jpg-FMCG-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_P3dQs_1690804842188_02-tips-portrait-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zDo7U_1690804845467_02-tips-portrait-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-max-avans-5058350.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Tips for Buying a Used Car"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sz_T1_1704968803942_02-tips-portrait-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IgEe8_1704968809738_02-tips-portrait-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-auto-records-11191239.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8ofHf_1704968803943_02-tips-portrait-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XxoLH_1704968809740_02-tips-portrait-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-julia-m-cameron-4144230.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_R3RyB_1704968803945_02-tips-portrait-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qHiJh_1704968809741_02-tips-portrait-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oziel-gómez-7566890.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_feuUQ_1690804842190_02-tips-portrait-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_0z_h6_1690804845469_02-tips-portrait-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-4109954.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Cooking Basics"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xGpW7_1704968803946_02-tips-portrait-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Dd2jD_1704968809743_02-tips-portrait-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-polina-tankilevitch-6419742.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eCyL4_1704968803948_02-tips-portrait-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-wirk_1704968809745_02-tips-portrait-Technology.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-cottonbro-studio-6153738.jpg-Technology-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_q6kh3_1704968803949_02-tips-portrait-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_uzqnb_1704968809747_02-tips-portrait-Healthcare.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-antoni-shkraba-5215013.jpg-Healthcare-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8xfwq_1704968803950_02-tips-portrait-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Uewau_1704968809749_02-tips-portrait-Pharma.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-karolina-grabowska-4047074.jpg-Pharma-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cgs6M_1704968803951_02-tips-portrait-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ogYuv_1704968809751_02-tips-portrait-Legal.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-karolina-grabowska-5387261.jpg-Legal-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_XnOF7_1704968803952_02-tips-portrait-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_L3f2g_1704968809752_02-tips-portrait-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-jonathan-borba-3316925.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bLXaX_1702971060716_02-tips-portrait-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HWXTP_1702971061936_02-tips-portrait-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/finance-images/portrait/pexels-pixabay-53621.jpg",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sxgaw_1704968803953_02-tips-portrait-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2pfWP_1704968809753_02-tips-portrait-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-tima-miroshnichenko-7567482.jpg-Finance-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yEwAI_1704968803954_02-tips-portrait-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_HnRPk_1704968809756_02-tips-portrait-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ron-lach-8346055.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_adi67_1704968803955_02-tips-portrait-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oV6dZ_1704968809757_02-tips-portrait-Sports.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-shvets-production-8007420.jpg-Sports-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_60CYJ_1704968803957_02-tips-portrait-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MMsL0_1704968809758_02-tips-portrait-Politics.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-august-de-richelieu-4427615.jpg-Politics-DomainImage.jpg",
             "promoHeading": ""
           }
         }
@@ -81962,15 +82042,15 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Exciting/mixkit-raising-me-higher-34.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/behtarads/music/predefined/mixkit-raising-me-higher-34-[AudioTrimmer.com].aac",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2023-07-31T11:03:36.193Z",
+      "createdOn": "2024-01-11T10:47:24.754Z",
       "extraComps": [
         {
           "index": 2,
-          "compId": "1666868588418_16-BrandOutro-Story"
+          "compId": "1666868607828_17-BrandOutro-Story"
         }
       ],
       "widgetsDefinition": [
@@ -81982,7 +82062,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_aDauj_1690805955495_01-tips-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_e5tqc_1704969753954_01-tips-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -81996,8 +82076,8 @@
       "category": [
         "p_nauto_tip"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_w1ODq_1690801368285_01-tips-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_SvbOb_1690801368279_01-tips-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_c_TTJ_1704969753963_01-tips-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_38iSj_1704969753961_01-tips-story.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -82009,44 +82089,124 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.3,
+      "volume": 0.4,
+      "isMultipleTemplate": false,
       "previews": [
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0_0Gx_1704957232945_01-tips-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe___vGc_1704957234808_01-tips-story-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-christa-grover-2121121.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": "Renting Tips for Tenants"
+          "FMCG": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_hmZzQ_1704970018981_01-tips-story-FMCG.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v8TqC_1704970028503_01-tips-story-FMCG.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-hong-son-6176577.jpg-FMCG-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Automobile": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_prFe5_1690801410113_01-tips-story-Automobile.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_YVSn2_1690801411555_01-tips-story-Automobile.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oskar-smethurst-6036198.jpg-Automobile-DomainImage.jpg",
-            "promoHeading": "Fuel Efficiency Tips"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vbcuq_1704970018982_01-tips-story-Automobile.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LE9nw_1704970028504_01-tips-story-Automobile.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-alexander-pollinger-10807446.jpg-Automobile-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Education": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_aCL9p_1704970018984_01-tips-story-Education.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_zJ4H4_1704970028506_01-tips-story-Education.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlada-karpovich-4050319.jpg-Education-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Travel": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_uwQTy_1704970018985_01-tips-story-Travel.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_viYVK_1704970028507_01-tips-story-Travel.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-oleksandr-pidvalnyi-2166559.jpg-Travel-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Food": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_o0Env_1690801410114_01-tips-story-Food.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_i_d7z_1690801411602_01-tips-story-Food.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-pixabay-416471.jpg-Food-DomainImage.jpg",
-            "promoHeading": "Budget-Friendly Food Tips"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZDEW9_1704970018986_01-tips-story-Food.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xdz-e_1704970028509_01-tips-story-Food.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-valeria-boltneva-1860204.jpg-Food-DomainImage.jpg",
+            "promoHeading": ""
           }
         },
         {
           "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_c4__m_1702967526353_01-tips-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_c5Eu-_1702967528052_01-tips-story-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/finance-images/story/pexels-burak-the-weekender-187041.jpg",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_08Rj9_1704970018988_01-tips-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tKXzr_1704970028510_01-tips-story-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-karolina-grabowska-7681097.jpg-Finance-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Technology": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YuQG2_1704970018989_01-tips-story-Technology.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nWZSH_1704970028513_01-tips-story-Technology.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-marek-339379.jpg-Technology-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Healthcare": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OJzU8_1704970018990_01-tips-story-Healthcare.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Raa_Z_1704970028514_01-tips-story-Healthcare.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-artem-podrez-8532851.jpg-Healthcare-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Pharma": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_UW1TK_1704970018991_01-tips-story-Pharma.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yKEzk_1704970028516_01-tips-story-Pharma.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-correxiko-collagen-6475101.jpg-Pharma-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Legal": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7i2no_1704970018992_01-tips-story-Legal.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BddGg_1704970028518_01-tips-story-Legal.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-sora-shimazaki-5669602.jpg-Legal-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Jp7dn_1704970018993_01-tips-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hlYAl_1704970028519_01-tips-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-christa-grover-2121121.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMgz__1704970018994_01-tips-story-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Rk_5a_1704970028522_01-tips-story-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ron-lach-8346055.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Politics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mS69A_1704970018995_01-tips-story-Politics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GIH4P_1704970028524_01-tips-story-Politics.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-august-de-richelieu-4427541.jpg-Politics-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Sports": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AsBcG_1704970018997_01-tips-story-Sports.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6oDW__1704970028525_01-tips-story-Sports.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-tima-miroshnichenko-6847590.jpg-Sports-DomainImage.jpg",
             "promoHeading": ""
           }
         }
       ],
       "id": "BrdUpGKMVUrEocEza0kh_",
-      "templateId": "BrdUpGKMVUrEocEza0kh_",
-      "isMultipleTemplate": false
+      "templateId": "BrdUpGKMVUrEocEza0kh_"
     },
     {
       "version": 2,
@@ -85543,13 +85703,13 @@
       "version": 2,
       "gifUrl": "",
       "bgVideoUrl": [
-          ""
+        ""
       ],
       "fontUrl": [
-          ""
+        ""
       ],
       "bgImageUrl": [
-          ""
+        ""
       ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_T5cyO_1698064554265_forever-love.mp3",
       "fillEnabled": true,
@@ -85557,33 +85717,33 @@
       "pro": false,
       "createdOn": "2024-01-11T05:50:07.176Z",
       "extraComps": [
-          {
-              "index": 2,
-              "compId": "1703761709340_01- finance -post-1080x1080-brand-outro"
-          }
+        {
+          "index": 2,
+          "compId": "1703761709340_01- finance -post-1080x1080-brand-outro"
+        }
       ],
       "widgetsDefinition": [
-          {
-              "mappingKeyMandatory": false,
-              "Height": "100%",
-              "Width": "100%",
-              "StartTime": 0,
-              "EndTime": -1,
-              "URLS": [],
-              "mappingKeyValue": "",
-              "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rtQpE_1704952202740_02-template-for-all-post-updated-2.json",
-              "X": "0.0%",
-              "Y": "0.0%",
-              "type": "SVG_SINGLE",
-              "duration": 10
-          }
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_rtQpE_1704952202740_02-template-for-all-post-updated-2.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
       ],
       "type": "Instagram Posts",
       "name": "02-template-for-all-post-updated-2",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
-          "p_financeGeneric"
+        "p_financeGeneric"
       ],
       "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LBtuF_1704952202760_02-template-for-all-post-updated-2.mp4",
       "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_U0B_b_1704952202742_02-template-for-all-post-updated-2.jpg",
@@ -85601,6 +85761,6 @@
       "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": []
-  }
+    }
   ]
 }
