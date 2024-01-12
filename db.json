@@ -82301,14 +82301,6 @@
           }
         },
         {
-          "Finance": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_08Rj9_1704970018988_01-tips-story-Finance.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tKXzr_1704970028510_01-tips-story-Finance.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-karolina-grabowska-7681097.jpg-Finance-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
           "Technology": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_YuQG2_1704970018989_01-tips-story-Technology.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_nWZSH_1704970028513_01-tips-story-Technology.mp4",
@@ -82341,22 +82333,6 @@
           }
         },
         {
-          "Bunglow": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Jp7dn_1704970018993_01-tips-story-Bunglow.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_hlYAl_1704970028519_01-tips-story-Bunglow.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-christa-grover-2121121.jpg-Bunglow-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jobs": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZMgz__1704970018994_01-tips-story-Jobs.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Rk_5a_1704970028522_01-tips-story-Jobs.mp4",
-            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-ron-lach-8346055.jpg-Jobs-DomainImage.jpg",
-            "promoHeading": ""
-          }
-        },
-        {
           "Politics": {
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mS69A_1704970018995_01-tips-story-Politics.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_GIH4P_1704970028524_01-tips-story-Politics.mp4",
@@ -82369,6 +82345,30 @@
             "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AsBcG_1704970018997_01-tips-story-Sports.jpg",
             "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6oDW__1704970028525_01-tips-story-Sports.mp4",
             "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-tima-miroshnichenko-6847590.jpg-Sports-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jobs": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_danX6_1705038571200_01-tips-story-Jobs.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_unXh9_1705038572625_01-tips-story-Jobs.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-thirdman-8485714.jpg-Jobs-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Bunglow": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__lqf4_1705038571202_01-tips-story-Bunglow.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1GQKR_1705038572639_01-tips-story-Bunglow.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-vlad-bagacian-1212053.jpg-Bunglow-DomainImage.jpg",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Finance": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Amxkn_1705038571203_01-tips-story-Finance.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_clM5Y_1705038572641_01-tips-story-Finance.mp4",
+            "imgUrl": "https://cdn.hootout.com/VidyBack-videos/pexels-tiger-lily-7108077.jpg-Finance-DomainImage.jpg",
             "promoHeading": ""
           }
         }
