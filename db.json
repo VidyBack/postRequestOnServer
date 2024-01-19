@@ -4035,6 +4035,71 @@
   ],
   "p_fest": [
     {
+      "id": "mlpn_28_cftyr",
+      "templateId": "mlpn_28_cftyr",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E4J94_1705390556622_you-185.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-01-19T06:48:26.767Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1666868543799_14-BrandOutro-Story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lOSad_1705646903845_29-international-womens-day-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "29-international-womens-day-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_8lI3R_1705646903849_29-international-womens-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9XsMX_1705646903846_29-international-womens-day-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.6,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
       "id": "mlpn_27_cftyr",
       "templateId": "mlpn_27_cftyr",
       "version": 1,
@@ -6391,69 +6456,6 @@
       "previews": [],
       "id": "Zg9Vl9BUpz6Y2CSVdv-tY",
       "templateId": "Zg9Vl9BUpz6Y2CSVdv-tY",
-      "priorityNumber": false,
-      "isMultipleTemplate": false
-    },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_kxKOH_1666165483564_mixkit-when-in-love-44.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-02-17T09:40:35.338Z",
-      "extraComps": [
-        {
-          "index": 7,
-          "compId": "1666243176902_18-BrandOutro-Story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DotZS_1676626830595_29-international-womens-day-16-02-23.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "29-international-womens-day-16-02-23",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_fest"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_J5YVR_1676626830600_29-international-womens-day-16-02-23.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FDocL_1676626830598_29-international-womens-day-16-02-23.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "previews": [],
-      "id": "VOCYdTJqyc38YlLATjCKE",
-      "templateId": "VOCYdTJqyc38YlLATjCKE",
       "priorityNumber": false,
       "isMultipleTemplate": false
     },
