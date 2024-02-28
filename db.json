@@ -62682,6 +62682,7 @@
       "templateId": "Tjqx_ophhYnGyvlRsVnuF"
     },
     {
+      "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
         ""
@@ -62696,8 +62697,13 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2022-09-21T06:00:25.841Z",
-      "extraComps": [],
+      "createdOn": "2024-02-28T09:15:17.796Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705577690242_22-outro-post"
+        }
+      ],
       "widgetsDefinition": [
         {
           "mappingKeyMandatory": false,
@@ -62707,7 +62713,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Pgp7T_1663740022242_04-newarrival-updated-21-09-2022.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_44YnO_1709111454051_04-newarrival-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -62715,14 +62721,15 @@
         }
       ],
       "type": "Instagram Posts",
-      "name": "04-new arrival",
+      "name": "04-newarrival-updated",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_na"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rqo3B_1663740022247_04-newarrival-updated_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KPrt5_1663740022245_04-newarrival-updated.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VORQQ_1709111454057_04-newarrival-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Fn0jz_1709111454054_04-newarrival-updated.jpg",
+      "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
       "Height": 1080,
@@ -62732,16 +62739,92 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
-      "id": "26Vjr14lB7Q-MazlWIhad",
-      "templateId": "26Vjr14lB7Q-MazlWIhad",
-      "musicName": "Showcase Me",
-      "classes": [
-        "HealthBeauty"
+      "AddId": "",
+      "volume": 0.7,
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZZQ_C_1709111709509_04-newarrival-updated-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__PAMV_1709111713609_04-newarrival-updated-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_TrlBG_1709111709511_04-newarrival-updated-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QDbqx_1709111713611_04-newarrival-updated-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WNpS9_1709111709513_04-newarrival-updated-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_xwVTa_1709111713613_04-newarrival-updated-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eAokF_1709111709514_04-newarrival-updated-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QyrBj_1709111713615_04-newarrival-updated-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HAK-s_1709111709516_04-newarrival-updated-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_dLXWc_1709111713617_04-newarrival-updated-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe__O3SN_1709111709517_04-newarrival-updated-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SleaN_1709111713618_04-newarrival-updated-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_T6Lxv_1709111709518_04-newarrival-updated-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_R6DHt_1709111713620_04-newarrival-updated-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FDVu1_1709111709519_04-newarrival-updated-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CfGNW_1709111713621_04-newarrival-updated-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Electronics": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZmTOx_1709111709520_04-newarrival-updated-Electronics.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_I38l7_1709111713623_04-newarrival-updated-Electronics.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_2kP1L_1709111709521_04-newarrival-updated-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_L8ldQ_1709111713625_04-newarrival-updated-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_I9hCa_1709111709522_04-newarrival-updated-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_1qgfL_1709111713633_04-newarrival-updated-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
       ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": true
+      "id": "yk7yqk8OoPgMRkcbqmqyj",
+      "templateId": "yk7yqk8OoPgMRkcbqmqyj"
     },
+
     {
       "version": 1,
       "gifUrl": "",
