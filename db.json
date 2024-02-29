@@ -29503,71 +29503,7 @@
       ],
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-10-20T08:51:19.995Z",
-      "extraComps": [
-        {
-          "index": 3,
-          "compId": "1666244855005_15-BrandOutro-post-square"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_F4ke-_1666255876619_03-discount-percentage.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "03 discount percentage",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ErAum_1666255876622_discount-percentage-03_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iwdMa_1666255876620_discount-percentage-03.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "m9nKCp2db6cU1t3i6xWm3",
-      "templateId": "m9nKCp2db6cU1t3i6xWm3",
-      "classes": [
-        "Accessories"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
@@ -29629,67 +29565,7 @@
       "version": 1,
       "isMultipleTemplate": false
     },
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-10-06T10:36:59.475Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_U6tBS_1665052616417_01-discount-in-percentage-06-10-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01-Discount in percentage",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_dpercentage"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5vnC9_1665052616429_discount-percentage-01_small_updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_VTA4B_1665052616428_discount-percentage-01.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "dyhqB8QIOw-GWC_mQDWBn",
-      "templateId": "dyhqB8QIOw-GWC_mQDWBn",
-      "musicName": "Mixkit No Violence",
-      "classes": [
-        "Clothings"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+   
    
     {
       "version": 1,
@@ -44038,84 +43914,7 @@
       "id": "giY5QhWby2xI8Fq20Ccxu",
       "templateId": "giY5QhWby2xI8Fq20Ccxu"
     },  
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": true,
-      "createdOn": "2022-11-29T06:29:49.785Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1666246916791_13-BrandOutro-post-4-5"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_829y5_1669703385071_04-Most-popular-29-11-22.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "04-Most-popular-29-11-22",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_mp"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_9kx-w_1669703385073_04-Most-popular-1080x1350_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_B9LVV_1669703385072_04-Most-popular-1080x1350.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "FEudQaGObeQhStdVsk22I",
-      "templateId": "FEudQaGObeQhStdVsk22I",
-      "classes": [
-        "Accessories"
-      ],
-      "previews": [
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/bags-purses/03-bags-purses-1080x1350.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/bags-purses/03-bags-purses-1080x1350.mp4"
-          }
-        },
-        {
-          "ToyHobbie": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/toys-hobbies/03-toys-hobbies-1080x1350.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/1080x1350/toys-hobbies/03-toys-hobbies-1080x1350.mp4"
-          }
-        }
-      ],
-      "isMultipleTemplate": false
-    },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
