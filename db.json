@@ -33878,11 +33878,11 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2022-11-29T05:36:48.446Z",
+      "createdOn": "2024-03-04T12:38:49.644Z",
       "extraComps": [
         {
-          "index": 3,
-          "compId": "1666245014480_17-BrandOutro-post-square"
+          "index": 4,
+          "compId": "1705396573738_20-brand-outro-post-design 2"
         }
       ],
       "widgetsDefinition": [
@@ -33894,7 +33894,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lJCVd_1669700204442_01-todayspecial-28-11-22.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_DQNn0_1709555667412_01-todays-special-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -33902,14 +33902,15 @@
         }
       ],
       "type": "Instagram Posts",
-      "name": "01-todayspecial-28-11-22",
+      "name": "01-todays-special-updated",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_ts"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_sa4Un_1669700204445_01 Today's special 14_09_2022.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ytvqL_1669700204443_01 Today's special 14_09_2022.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_blknt_1709555667518_01-todays-special-updated.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_84cXH_1709555667514_01-todays-special-updated.jpg",
+      "imageType": "Instagram Posts",
       "outroType": null,
       "introType": null,
       "Height": 1080,
@@ -33919,28 +33920,99 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
-      "id": "f9kkR9hIKgBfeOWsvTg_J",
-      "templateId": "f9kkR9hIKgBfeOWsvTg_J",
-      "classes": [
-        "Clothings"
-      ],
+      "AddId": "",
+      "volume": 0.9,
+      "isMultipleTemplate": false,
       "previews": [
         {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/post/bags-purses/01-bags-purses-post.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/post/bags-purses/01-bags-purses-post.mp4"
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ZDqyj_1709555917199_01-todays-special-updated-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__kI7d_1709555920805_01-todays-special-updated-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vi-wy_1709555917201_01-todays-special-updated-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NBavi_1709555920806_01-todays-special-updated-Toys.mp4",
+            "promoHeading": ""
           }
         },
         {
           "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/vidyback-thumbnail/post/health-fitness/health-fitness-post2.jpg",
-            "preview": "https://cdn.hootout.com/vidyback-thumbnail/post/health-fitness/health-fitness-post2.mp4"
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_WOOQe_1709555917202_01-todays-special-updated-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BXP58_1709555920808_01-todays-special-updated-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mkYR8_1709555917227_01-todays-special-updated-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2nHNK_1709555920809_01-todays-special-updated-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3g3ez_1709555917228_01-todays-special-updated-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Bu6EZ_1709555920811_01-todays-special-updated-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_HozOo_1709555917229_01-todays-special-updated-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_BW6pb_1709555920812_01-todays-special-updated-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zouB5_1709555917230_01-todays-special-updated-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_PVks-_1709555920815_01-todays-special-updated-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Clothings": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mfbpb_1709555917231_01-todays-special-updated-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_KSsbT_1709555920816_01-todays-special-updated-Clothings.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OsdQ7_1709555917248_01-todays-special-updated-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8pU8j_1709555920818_01-todays-special-updated-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_dz5Rb_1709555917249_01-todays-special-updated-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__dGE__1709555920819_01-todays-special-updated-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_pwcWE_1709555917250_01-todays-special-updated-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_jatmm_1709555920830_01-todays-special-updated-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_h6KR7_1709555917251_01-todays-special-updated-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_QZLNO_1709555920832_01-todays-special-updated-HomeDecor.mp4",
+            "promoHeading": ""
           }
         }
       ],
-      "brandDisabled": true,
-      "isMultipleTemplate": false
+      "id": "9sIAWwvauhjd54Ky6QvcO",
+      "templateId": "9sIAWwvauhjd54Ky6QvcO"
     },
+
     {
       "gifUrl": "",
       "bgVideoUrl": [
@@ -63200,67 +63272,7 @@
       "id": "fPFf_w8e_zbzqVviIhwou",
       "templateId": "fPFf_w8e_zbzqVviIhwou"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rWYxR_1666164681968_mixkit-a-sexy-assassin-1086.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-11-17T06:49:00.922Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1667805119456_14-Brand-Outro-youtube"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0gJVV_1668667736687_04-Multiple Products- 1920x1080.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Youtube Videos",
-      "name": "04 Multiple Products",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Nn_jr_1668667736690_04-multiple-products.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b7EpY_1668667736689_04-multiple-productsl.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1920,
-      "height": 1080,
-      "width": 1920,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "4Ce7vI9g2sAhJX7Dxh_Fp",
-      "templateId": "4Ce7vI9g2sAhJX7Dxh_Fp",
-      "isMultipleTemplate": false
-    },
+   
     {
       "version": 1,
       "gifUrl": "",
@@ -74274,68 +74286,6 @@
       "templateId": "JOJrtsUP0wcGXm394ue8K"
     },
    
-   
-    {
-      "version": 1,
-      "gifUrl": "",
-      "isMultipleTemplate": true,
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rWYxR_1666164681968_mixkit-a-sexy-assassin-1086.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-11-17T06:49:00.922Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1667805119456_14-Brand-Outro-youtube"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0gJVV_1668667736687_04-Multiple Products- 1920x1080.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Youtube Videos",
-      "name": "04 Multiple Products",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Nn_jr_1668667736690_04-multiple-products.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b7EpY_1668667736689_04-multiple-productsl.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1920,
-      "height": 1080,
-      "width": 1920,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "4Ce7vI9g2sAhJX7Dxh_Fp",
-      "templateId": "4Ce7vI9g2sAhJX7Dxh_Fp"
-    },
     {
       "version": 1,
       "gifUrl": "",
@@ -75031,6 +74981,128 @@
       ],
       "id": "QjqmDsnEfFa65kzQJoYeq",
       "templateId": "QjqmDsnEfFa65kzQJoYeq"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "isMultipleTemplate": true,
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rWYxR_1666164681968_mixkit-a-sexy-assassin-1086.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-11-17T06:49:00.922Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667805119456_14-Brand-Outro-youtube"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0gJVV_1668667736687_04-Multiple Products- 1920x1080.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Youtube Videos",
+      "name": "04 Multiple Products",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_na"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Nn_jr_1668667736690_04-multiple-products.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b7EpY_1668667736689_04-multiple-productsl.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "id": "4Ce7vI9g2sAhJX7Dxh_Fp",
+      "templateId": "4Ce7vI9g2sAhJX7Dxh_Fp"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rWYxR_1666164681968_mixkit-a-sexy-assassin-1086.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2022-11-17T06:49:00.922Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1667805119456_14-Brand-Outro-youtube"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_0gJVV_1668667736687_04-Multiple Products- 1920x1080.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Youtube Videos",
+      "name": "04 Multiple Products",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_na"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Nn_jr_1668667736690_04-multiple-products.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_b7EpY_1668667736689_04-multiple-productsl.jpg",
+      "outroType": null,
+      "introType": null,
+      "Height": 1080,
+      "Width": 1920,
+      "height": 1080,
+      "width": 1920,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "id": "4Ce7vI9g2sAhJX7Dxh_Fp",
+      "templateId": "4Ce7vI9g2sAhJX7Dxh_Fp",
+      "isMultipleTemplate": false
     }
   ],
   "p_nauto_event": [
