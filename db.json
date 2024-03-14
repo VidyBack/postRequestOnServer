@@ -35253,8 +35253,8 @@
         },
         {
           "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lf-I3_1709639338048_03-todaysSpecial-updated-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_cBYay_1709639343979_03-todaysSpecial-updated-Clothings.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EZ09E_1709892385141_03-todaysSpecial-updated-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rjtS7_1709892386364_03-todaysSpecial-updated-Clothings.mp4",
             "promoHeading": ""
           }
         },
@@ -51210,12 +51210,11 @@
             "promoHeading": ""
           }
         },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tqQI5_1698651496717_01-display-ads-1080x1350-updated-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kKIqm_1698651501309_01-display-ads-1080x1350-updated-Clothings.mp4",
-            "promoHeading": ""
-          }
+        {"Clothings": {
+          "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_EZ09E_1709892385141_03-todaysSpecial-updated-Clothings.jpg",
+          "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rjtS7_1709892386364_03-todaysSpecial-updated-Clothings.mp4",
+          "promoHeading": ""
+        }
         },
         {
           "Footwear": {
