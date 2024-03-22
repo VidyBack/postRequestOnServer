@@ -16875,7 +16875,7 @@
     {
       "id": "OihSAf2mHo5boov1vK7SN",
       "templateId": "OihSAf2mHo5boov1vK7SN",
-      "noBlur":true,
+     
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -27955,6 +27955,7 @@
       "isMultipleTemplate": false,
       "id": "EXVOES13",
       "templateId": "EXVOES13",
+      "noBlur":true,
       "previews": [
         {
           "Accessories": {
@@ -28271,7 +28272,8 @@
         }
       ],
       "id": "EXVOES11",
-      "templateId": "EXVOES11"
+      "templateId": "EXVOES11",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -52423,7 +52425,8 @@
         }
       ],
       "id": "gihkPw9_3_k6yI2",
-      "templateId": "gihkPw9_3_k6yI2"
+      "templateId": "gihkPw9_3_k6yI2",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -65165,7 +65168,7 @@
           }
         }
       ],
-      "noBlur":true,
+      
       "id": "wW3z3Pk7AL_a6_7C1RJPi_1",
       "templateId": "wW3z3Pk7AL_a6_7C1RJPi_1"
     },
@@ -65309,6 +65312,7 @@
           }
         }
       ],
+      "noBlur":true,
       "id": "wW3z3Pk7AL_a6_7C1RJPi_1",
       "templateId": "wW3z3Pk7AL_a6_7C1RJPi_1"
     },
