@@ -16873,9 +16873,6 @@
       ]
     },
     {
-      "id": "OihSAf2mHo5boov1vK7SN",
-      "templateId": "OihSAf2mHo5boov1vK7SN",
-     
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -16890,12 +16887,12 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
-      "createdOn": "2023-09-06T07:36:57.327Z",
+      "pro": false,
+      "createdOn": "2024-03-22T12:21:15.753Z",
       "extraComps": [
         {
           "index": 4,
-          "compId": "1666868563760_15-BrandOutro-Story"
+          "compId": "1705396727541_20-brand-outro-story-design 2"
         }
       ],
       "widgetsDefinition": [
@@ -16907,7 +16904,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_wefYZ_1693985327612_05-discount-in-prices-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSGZJ_1711109731149_05-discount-in-prices-story-v2.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -16915,14 +16912,14 @@
         }
       ],
       "type": "Instagram Stories",
-      "name": "05-discount-in-prices-story",
+      "name": "05-discount-in-prices-story-v2",
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
         "p_dPr"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4VVqX_1693985327616_05-discount-in-prices-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_j3sNh_1693985327614_05-discount-in-prices-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_vAJPs_1711109731225_05-discount-in-prices-story-v2.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe__YBLY_1711109731221_05-discount-in-prices-story-v2.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -16934,81 +16931,91 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 0.3,
+      "volume": 0.5,
       "isMultipleTemplate": false,
       "previews": [
         {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u29Q4_1711110059480_05-discount-in-prices-story-v2-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_tPZjH_1711110063971_05-discount-in-prices-story-v2-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
           "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3z5Vn_1693985805544_05-discount-in-prices-story-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_sy4sz_1693985809973_05-discount-in-prices-story-Toys.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_D0a9T_1711110059482_05-discount-in-prices-story-v2-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_CcOw3_1711110063973_05-discount-in-prices-story-v2-Toys.mp4",
             "promoHeading": ""
           }
         },
         {
           "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_L51Oy_1693985805546_05-discount-in-prices-story-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_SMUzd_1693985810148_05-discount-in-prices-story-HealthFitness.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_KFLij_1711110059483_05-discount-in-prices-story-v2-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FX-du_1711110063975_05-discount-in-prices-story-v2-HealthFitness.mp4",
             "promoHeading": ""
           }
         },
         {
           "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rtKEm_1693985805550_05-discount-in-prices-story-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AvUgD_1693985810150_05-discount-in-prices-story-Perfumes.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bh2Bp_1711110059484_05-discount-in-prices-story-v2-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_i9nzN_1711110063977_05-discount-in-prices-story-v2-Perfumes.mp4",
             "promoHeading": ""
           }
         },
         {
           "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_iK7aP_1693985805552_05-discount-in-prices-story-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kSpCt_1693985810153_05-discount-in-prices-story-BagPurse.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_J-DLD_1711110059485_05-discount-in-prices-story-v2-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_FGKBX_1711110063978_05-discount-in-prices-story-v2-BagPurse.mp4",
             "promoHeading": ""
           }
         },
         {
           "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_6K2M4_1693985805570_05-discount-in-prices-story-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_JMJkf_1693985810154_05-discount-in-prices-story-HealthBeauty.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tWJK9_1711110059519_05-discount-in-prices-story-v2-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pu9Xn_1711110063980_05-discount-in-prices-story-v2-HealthBeauty.mp4",
             "promoHeading": ""
           }
         },
         {
           "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AzsZW_1693985805572_05-discount-in-prices-story-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_pPs9O_1693985810156_05-discount-in-prices-story-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4Xe0M_1693985805573_05-discount-in-prices-story-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_WUv6d_1693985810158_05-discount-in-prices-story-Clothings.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_clmda_1711110059521_05-discount-in-prices-story-v2-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_v8cdV_1711110063982_05-discount-in-prices-story-v2-MobileElec.mp4",
             "promoHeading": ""
           }
         },
         {
           "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vhx0n_1693985805574_05-discount-in-prices-story-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_UlS92_1693985810161_05-discount-in-prices-story-Footwear.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Vig___1711110059522_05-discount-in-prices-story-v2-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ebrjW_1711110063984_05-discount-in-prices-story-v2-Footwear.mp4",
             "promoHeading": ""
           }
         },
         {
           "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3rIeW_1693985805576_05-discount-in-prices-story-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eYV1v_1693985810163_05-discount-in-prices-story-Jewellery.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IxmHi_1711110059523_05-discount-in-prices-story-v2-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_trt4__1711110063986_05-discount-in-prices-story-v2-Jewellery.mp4",
             "promoHeading": ""
           }
         },
         {
           "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_cldS1_1693985805577_05-discount-in-prices-story-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_AhoXt_1693985810165_05-discount-in-prices-story-Wearables.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rnfnS_1711110059524_05-discount-in-prices-story-v2-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_McOrp_1711110063987_05-discount-in-prices-story-v2-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_qsg0r_1711110059525_05-discount-in-prices-story-v2-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_DgxUb_1711110063989_05-discount-in-prices-story-v2-HomeDecor.mp4",
             "promoHeading": ""
           }
         }
-      ]
+      ],
+      "id": "Qgd76Y3_Te9I5JSpp9iSO",
+      "templateId": "Qgd76Y3_Te9I5JSpp9iSO"
     },
+   
     {
       "gifUrl": "",
       "bgVideoUrl": [
