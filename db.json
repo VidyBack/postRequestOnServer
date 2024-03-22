@@ -32845,7 +32845,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YOx54_1711002962505_04-todays-special-story-15-02-23.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_YOx54_1711002962505_04-todays-special-story-15-02-23-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -32955,6 +32955,7 @@
       ],
       "id": "v32-NlINrHfykslyqrbfs",
       "templateId": "v32-NlINrHfykslyqrbfs"
+      
     },
 
 
@@ -45560,7 +45561,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zx48f_1669295870580_09-most-popular.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_zx48f_1669295870580_09-most-popular-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -45587,6 +45588,7 @@
       "isTransparent": false,
       "id": "jNOR_eC-v2XWe4oCIVflN",
       "templateId": "jNOR_eC-v2XWe4oCIVflN",
+      "noBlur":true,
       "classes": [
         "Wearables"
       ],
@@ -52174,7 +52176,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -52284,6 +52286,7 @@
       ],
       "id": "gihkPw9_3_k6yI2",
       "templateId": "gihkPw9_3_k6yI2"
+      
     },
     {
       "version": 1,
@@ -52317,7 +52320,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_pSb-d_1699272337881_14-display-ads-story-thanksgiving-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -66057,7 +66060,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lcFTA_1701156294793_15-basic-template-story-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lcFTA_1701156294793_15-basic-template-story-updated-n1.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -66084,6 +66087,7 @@
       "outroId": null,
       "id": "asd_dbsjfkhsj",
       "templateId": "asd_dbsjfkhsj",
+      "noBlur":true,
       "isTransparent": false,
       "AddId": "",
       "volume": 0.3,
