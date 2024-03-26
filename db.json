@@ -72415,6 +72415,7 @@
       "isTransparent": false,
       "id": "WbpjRHIVJywX9oPNjG9kl",
       "templateId": "WbpjRHIVJywX9oPNjG9kl",
+      "noBlur":true,
       "version": 1,
       "classes": [
         "Accessories"
