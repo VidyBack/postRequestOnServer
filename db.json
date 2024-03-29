@@ -38113,7 +38113,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_llfJY_1697093346039_08-Most-popular-full-screen-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_llfJY_1697093346039_08-Most-popular-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -38208,7 +38208,8 @@
         }
       ],
       "id": "lW_XfXrF_D12_",
-      "templateId": "lW_XfXrF_D12_"
+      "templateId": "lW_XfXrF_D12_",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -38349,6 +38350,7 @@
     {
       "id": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
       "templateId": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
+      "noBlur":true,
       "isDevOnly": true,
       "version": 1,
       "gifUrl": "",
@@ -38381,7 +38383,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mFAR7_1696924017620_04-beats-story-static.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mFAR7_1696924017620_04-beats-story-static-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -39161,7 +39163,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ryQ5O_1709124908431_01-most-popular-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ryQ5O_1709124908431_01-most-popular-updated-n.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -39270,7 +39272,8 @@
         }
       ],
       "id": "hNtmh3RYNaUR6bkrfgXUY",
-      "templateId": "hNtmh3RYNaUR6bkrfgXUY"
+      "templateId": "hNtmh3RYNaUR6bkrfgXUY",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -42519,7 +42522,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D6N-8_1696933199501_09-Most-popular-full-screen-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D6N-8_1696933199501_09-Most-popular-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -42550,6 +42553,7 @@
       "isMultipleTemplate": true,
       "id": "lW_XfXrF_D",
       "templateId": "lW_XfXrF_D",
+      "noBlur":true,
       "previews": [
         {
           "Toys": {
@@ -42648,7 +42652,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D6N-8_1696933199501_09-Most-popular-full-screen-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_D6N-8_1696933199501_09-Most-popular-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -42679,6 +42683,7 @@
       "isMultipleTemplate": false,
       "id": "lW_XfXrF_D",
       "templateId": "lW_XfXrF_D",
+      "noBlur":true,
       "previews": [
         {
           "Toys": {
@@ -50140,6 +50145,7 @@
     {
       "id": "lW_XfXrF_D12_",
       "templateId": "lW_XfXrF_D12_",
+      "noBlur":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -50171,7 +50177,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ryypY_1697029091939_01-multiple-template-youtube.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_llfJY_1697093346039_08-Most-popular-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -50276,6 +50282,7 @@
     {
       "id": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
       "templateId": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
+      "noBlur":true,
       "isDevOnly": true,
       "version": 1,
       "gifUrl": "",
@@ -50308,7 +50315,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mFAR7_1696924017620_04-beats-story-static.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_mFAR7_1696924017620_04-beats-story-static-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
