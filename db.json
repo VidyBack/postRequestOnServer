@@ -4088,7 +4088,7 @@
       ],
       "id": "mlpn_3_cftyr",
       "templateId": "mlpn_3_cftyr",
-      "month":"march"
+      "month":"marchapril"
     },
     {
       "version": 1,
@@ -4626,6 +4626,138 @@
     }
   ],
   "p_fest": [
+    {
+      "version": 1,
+      "id": "mlpn_101_cftyr",
+      "templateId": "mlpn_101_cftyr",
+      "month":"march",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZzyCr_1706012158932_a-fathers-magic-1017.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-03-29T10:26:43.795Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705403061437_21-brandoutro-story-Design 3"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_TRL63_1711708000814_43-good-friday-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "43-good-friday-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_pu2ib_1711708000818_43-good-friday-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-UfRi_1711708000816_43-good-friday-festive-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
+    {
+      "id": "mlpn_100_cftyr",
+      "templateId": "mlpn_100_cftyr",
+      "month":"march",
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-03-29T10:21:58.508Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705575891091_22-outro-story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_c2gCg_1711707712493_44-easter-festive-greeting-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "44-easter-festive-greeting-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RGdk4_1711707712506_44-easter-festive-greeting-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_q-f2f_1711707712505_44-easter-festive-greeting-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "isMultipleTemplate": false,
+      "previews": []
+    },
     {
       "id": "mlpn_28_cftyr",
       "templateId": "mlpn_28_cftyr",
@@ -6324,7 +6456,7 @@
       "previews": [],
       "id": "PgJFpw3w5d4ow3s5gwRfs",
       "templateId": "PgJFpw3w5d4ow3s5gwRfs",
-      "month":"march",
+      "month":"marchapril",
       "isMultipleTemplate": false
     },
     {
@@ -6388,7 +6520,7 @@
       "previews": [],
       "id": "5eSQvWHmkeyRnl_kQnYg7",
       "templateId": "5eSQvWHmkeyRnl_kQnYg7",
-      "month":"march",
+      "month":"marchapril",
       "isMultipleTemplate": false
     },
     {
@@ -6452,7 +6584,7 @@
       "previews": [],
       "id": "mNjf2Q0HrPPG_c3KKgm9j",
       "templateId": "mNjf2Q0HrPPG_c3KKgm9j",
-      "month":"march",
+      "month":"marchapril",
       "isMultipleTemplate": false
     },
     {
