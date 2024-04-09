@@ -34727,7 +34727,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Rh-QU_1696857242370_07-todays-special-full-screen-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Rh-QU_1696857242370_07-todays-special-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -34756,6 +34756,7 @@
       "AddId": "",
       "id": "lWX_fXrFD",
       "templateId": "lWX_fXrFD",
+      "noBlur":true,
       "volume": 1,
       "isMultipleTemplate": false,
       "previews": [
@@ -35192,7 +35193,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_357s1_1692778978598_01-Todays-special-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_Rh-QU_1696857242370_07-todays-special-full-screen-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -35294,7 +35295,8 @@
         }
       ],
       "id": "JB85WW7Z26aRikJDjpVBS",
-      "templateId": "JB85WW7Z26aRikJDjpVBS"
+      "templateId": "JB85WW7Z26aRikJDjpVBS",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -36294,7 +36296,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lqY6s_1709896694013_08-todays-special-updated.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lqY6s_1709896694013_08-todays-special-updated-n.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -36403,7 +36405,8 @@
         }
       ],
       "id": "BW0Nrm_R533VzrhcYGXXd",
-      "templateId": "BW0Nrm_R533VzrhcYGXXd"
+      "templateId": "BW0Nrm_R533VzrhcYGXXd",
+      "noBlur":true
     },
 
     {
@@ -54001,135 +54004,7 @@
       "id": "2SO2ogihkPw9_1_Y43Dk6yI2",
       "templateId": "2SO2ogihkPw9_1_Y43Dk6yI2"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2023-10-27T08:52:26.436Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1667216241221_14-BrandOutro-post-4-5-New"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_tdJDG_1698396315052_06-display-ads.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Post 4:5",
-      "name": "06-display-ads",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_ps"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JLB2D_1698396315063_06-display-ads.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_FyuQe_1698396315061_06-display-ads.jpg",
-      "imageType": "Post 4:5",
-      "outroType": null,
-      "introType": null,
-      "Height": 1350,
-      "Width": 1080,
-      "height": 1350,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.6,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4YXg-_1698396735654_06-display-ads-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-blkk_1698396739243_06-display-ads-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OHaNe_1698396735656_06-display-ads-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_eVLUd_1698396739245_06-display-ads-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_wmuM1_1698396735659_06-display-ads-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_C-4Y6_1698396739247_06-display-ads-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_FGuOs_1698396735660_06-display-ads-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LIRMk_1698396739249_06-display-ads-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lmkk__1698396735661_06-display-ads-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Jz-Mb_1698396739250_06-display-ads-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_y0Xt2_1698396735663_06-display-ads-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_V6yFc_1698396739253_06-display-ads-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_Dcglu_1698396735664_06-display-ads-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IWIhR_1698396739255_06-display-ads-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8YmQ4_1698396735665_06-display-ads-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_TDT0q_1698396739258_06-display-ads-Wearables.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0z-M6_1698396735667_06-display-ads-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_LQpZg_1698396739260_06-display-ads-HomeDecor.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "2SO2ogihkPw9_2_Y43Dk6yI2",
-      "templateId": "2SO2ogihkPw9_2_Y43Dk6yI2"
-    },
+   
     {
       "version": 1,
       "gifUrl": "",
@@ -54829,7 +54704,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qgyua_1696839530884_11-display-ads-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_qgyua_1696839530884_11-display-ads-story-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -54859,6 +54734,7 @@
       "volume": 1,
       "id": "lWXfXrFD",
       "templateId": "lWXfXrFD",
+      "noBlur":true,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -54965,7 +54841,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_y98A0_1696595666102_10-display-ads-story-v-4.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xFeoJ_1697801897158_10-display-ads-story-v-4-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -54996,6 +54872,7 @@
       "isMultipleTemplate": true,
       "id": "_er3434",
       "templateId": "_er3434",
+      "noBlur":true,
       "previews": [
         {
           "Accessories": {
@@ -55101,7 +54978,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xFeoJ_1697801897158_10-display-ads-story-v-4.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_xFeoJ_1697801897158_10-display-ads-story-v-4-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -55189,7 +55066,8 @@
         }
       ],
       "id": "_er3434",
-      "templateId": "_er3434"
+      "templateId": "_er3434",
+      "noBlur":true
     },
     {
       "version": 1,
@@ -63092,7 +62970,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bzy9n_1671103062856_05_Display_ads_automobile15_12_2022.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bzy9n_1671103062856_05_Display_ads_automobile15_12_2022-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -63139,6 +63017,7 @@
       ],
       "id": "rl7CYul-vZUrVx-vEkYh6",
       "templateId": "rl7CYul-vZUrVx-vEkYh6",
+      "noBlur":true,
       "isMultipleTemplate": true
     },
     {
@@ -63173,7 +63052,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bzy9n_1671103062856_05_Display_ads_automobile15_12_2022.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_bzy9n_1671103062856_05_Display_ads_automobile15_12_2022-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -63219,6 +63098,7 @@
         }
       ],
       "id": "rl7CYul-vZUrVx-vEkYh6",
+      "noBlur":true,
       "templateId": "rl7CYul-vZUrVx-vEkYh6",
       "isMultipleTemplate": false
     },
@@ -63700,7 +63580,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzOqc_1669277604697_10-display-products.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_dzOqc_1669277604697_10-display-products-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -63727,6 +63607,7 @@
       "isTransparent": false,
       "id": "3ykfJBNHlq39Kl-UzsvVC",
       "templateId": "3ykfJBNHlq39Kl-UzsvVC",
+      "noBlur":true,
       "classes": [
         "Accessories"
       ],
@@ -63917,7 +63798,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_C3wQV_1709551073542_07-display-products.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_C3wQV_1709551073542_07-display-products-updated.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -64033,7 +63914,8 @@
         }
       ],
       "id": "u2IWXvF4SY4oNsD4E6jPl",
-      "templateId": "u2IWXvF4SY4oNsD4E6jPl"
+      "templateId": "u2IWXvF4SY4oNsD4E6jPl",
+      "noBlur":true
     },
     {
       "gifUrl": "",
