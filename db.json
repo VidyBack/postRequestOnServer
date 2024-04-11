@@ -51570,7 +51570,7 @@
       "volume": 0.7,
       "noBlur": false,
       "month": "january",
-      "isMultipleTemplate": false,
+      "isMultipleTemplate": true,
       "previews": [
         {
           "Accessories": {
