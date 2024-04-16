@@ -1,5 +1,6 @@
 {
   "p_occasional": [
+   
     {
       "version": 1,
       "gifUrl": "",
@@ -4925,6 +4926,72 @@
     }
   ],
   "p_fest": [
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bRaoQ_1705389742089_goals-are-ahead-146.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-15T12:57:29.534Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705396727541_20-brand-outro-story-design 2"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_nAnUp_1713185845207_47-ram-navmi-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "47-ram-navmi-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_gUJZG_1713185845215_47-ram-navmi-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_tSmOy_1713185845214_47-ram-navmi-festive-greeting.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "april",
+      "isMultipleTemplate": false,
+      "id":"mlpn_312_cftyrs","templateId":"mlpn_312_cftyrs",
+      "previews": []
+    },
    
     {
       "version": 1,
@@ -67044,6 +67111,7 @@
     }
   ],
   "p_na": [
+    
     {
       "version": 1,
       "gifUrl": "",
