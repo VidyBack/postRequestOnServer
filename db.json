@@ -1,5 +1,149 @@
 {
   "p_occasional": [
+    {
+      "version": 1,
+      "id":"mlpn_320_cftyrs","templateId":"mlpn_320_cftyrs",
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yR4Zv_1697449864692_Outside.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-30T08:52:16.903Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_8WjFT_1714466858389_12-festive-offers-memorial-day-story.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "12-festive-offers-memorial-day-story",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_occasional"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_-XQ1X_1714466859479_12-festive-offers-memorial-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lAk-B_1714466859334_12-festive-offers-memorial-day-story.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.8,
+      "noBlur": true,
+      "month": "may",
+      "isMultipleTemplate": false,
+      "previews": [
+        {
+          "Accessories": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_GduLZ_1714467126039_12-festive-offers-memorial-day-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_8VvgN_1714467130302_12-festive-offers-memorial-day-story-Accessories.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Toys": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_d7Mg9_1714467126040_12-festive-offers-memorial-day-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_MSEFN_1714467130303_12-festive-offers-memorial-day-story-Toys.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthFitness": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_yFfua_1714467126041_12-festive-offers-memorial-day-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_M_mXt_1714467130330_12-festive-offers-memorial-day-story-HealthFitness.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Perfumes": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_u4Fkq_1714467126042_12-festive-offers-memorial-day-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N0_oY_1714467130332_12-festive-offers-memorial-day-story-Perfumes.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "BagPurse": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_rsMIs_1714467126056_12-festive-offers-memorial-day-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Zd-Rs_1714467130334_12-festive-offers-memorial-day-story-BagPurse.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HealthBeauty": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_C9oZ2_1714467126057_12-festive-offers-memorial-day-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_6-5YZ_1714467130336_12-festive-offers-memorial-day-story-HealthBeauty.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "MobileElec": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_4Zfns_1714467126132_12-festive-offers-memorial-day-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-IOP8_1714467130338_12-festive-offers-memorial-day-story-MobileElec.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Footwear": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_E9W7P_1714467126144_12-festive-offers-memorial-day-story-Footwear.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_w7Yet_1714467130339_12-festive-offers-memorial-day-story-Footwear.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Jewellery": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_752TP_1714467126165_12-festive-offers-memorial-day-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Rwqd5_1714467130391_12-festive-offers-memorial-day-story-Jewellery.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "Wearables": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_3tU2S_1714467126254_12-festive-offers-memorial-day-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_z25aS_1714467130392_12-festive-offers-memorial-day-story-Wearables.mp4",
+            "promoHeading": ""
+          }
+        },
+        {
+          "HomeDecor": {
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_a4u5K_1714467126265_12-festive-offers-memorial-day-story-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5ispB_1714467130394_12-festive-offers-memorial-day-story-HomeDecor.mp4",
+            "promoHeading": ""
+          }
+        }
+      ]
+    },
    
     {
       "version": 1,
@@ -4928,8 +5072,8 @@
   "p_fest": [
     {
       "version": 1,
+      "id":"mlpn_411_cftyr","templateId":"mlpn_411_cftyr",
       "gifUrl": "",
-      "id":"mlpn_400_cftyrs","templateId":"mlpn_400_cftyrs",
       "bgVideoUrl": [
         ""
       ],
@@ -4943,11 +5087,11 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-04-29T08:46:55.811Z",
+      "createdOn": "2024-04-30T08:28:30.633Z",
       "extraComps": [
         {
           "index": 3,
-          "compId": "1705320145920_19-brnad Outro-with elements"
+          "compId": "1705575891091_22-outro-story"
         }
       ],
       "widgetsDefinition": [
@@ -4959,7 +5103,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_NsbOF_1714380409900_50-memorial-day-festive-greeting.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_k66NS_1714465698646_50-memorial-day-festive-greeting.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -4973,8 +5117,8 @@
       "category": [
         "p_fest"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uOWbt_1714380410010_50-memorial-day-festive-greeting.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_PbcUh_1714380410008_50-memorial-day-festive-greeting.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_cLVNC_1714465698823_50-memorial-day-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_MpmCR_1714465698821_50-memorial-day-festive-greeting.jpg",
       "imageType": "Instagram Stories",
       "outroType": null,
       "introType": null,
@@ -4992,7 +5136,72 @@
       "isMultipleTemplate": false,
       "previews": []
     },
-   
+  {
+      "version": 1,
+      "gifUrl": "",
+      "id":"mlpn_315_cftyrs","templateId":"mlpn_315_cftyrs",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rQa3v_1706013571827_classical-vibes-4-684.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-04-22T11:19:50.343Z",
+      "extraComps": [
+        {
+          "index": 3,
+          "compId": "1705320145920_19-brnad Outro-with elements"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_z9tDW_1713784784600_49-earth-day-festive-greeting.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "49-earth-day-festive-greeting",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_fest"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_JeGTn_1713784784618_49-earth-day-festive-greeting.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_5AgzZ_1713784784612_49-earth-day-festive-greeting.jpg",
+      "imageType": "Instagram Posts",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.7,
+      "noBlur": false,
+      "month": "april",
+      "isMultipleTemplate": false,
+      "previews": []
+    },   
     {
       "version": 1,
       "gifUrl": "",
