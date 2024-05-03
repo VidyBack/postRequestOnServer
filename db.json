@@ -2,8 +2,8 @@
   "p_occasional": [
     {
       "version": 1,
+      "id":"mlpn_318_cftyrs","templateId":"mlpn_318_cftyrs",
       "gifUrl": "",
-      "id":"mlpn_316_cftyrs","templateId":"mlpn_316_cftyrs",
       "bgVideoUrl": [
         ""
       ],
@@ -17,11 +17,11 @@
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
-      "createdOn": "2024-05-03T08:40:47.162Z",
+      "createdOn": "2024-05-03T12:24:30.640Z",
       "extraComps": [
         {
           "index": 4,
-          "compId": "1705403061437_21-brandoutro-story-Design 3"
+          "compId": "1705575891091_22-outro-story"
         }
       ],
       "widgetsDefinition": [
@@ -33,7 +33,7 @@
           "EndTime": -1,
           "URLS": [],
           "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_nV3Kc_1714725386147_15-festive-offers-indian-independence-day-story.json",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_FFL_E_1714738762064_15-festive-offers-indian-independence-day-story.json",
           "X": "0.0%",
           "Y": "0.0%",
           "type": "SVG_SINGLE",
@@ -47,8 +47,8 @@
       "category": [
         "p_occasional"
       ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_deOYp_1714725386150_15-festive-offers-indian-independence-day-story.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_m9NbR_1714725386148_15-festive-offers-indian-independence-day-story.jpg",
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_NKKDq_1714738762090_15-festive-offers-indian-independence-day-story.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_nkGYx_1714738762087_15-festive-offers-indian-independence-day-story.jpg",
       "imageType": "Post 4:5",
       "outroType": null,
       "introType": null,
@@ -67,78 +67,78 @@
       "previews": [
         {
           "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_ITx3m_1714725632431_15-festive-offers-indian-independence-day-story-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-lfv5_1714725638964_15-festive-offers-indian-independence-day-story-Accessories.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_sUVez_1714739056217_15-festive-offers-indian-independence-day-story-Accessories.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_EAv6l_1714739064978_15-festive-offers-indian-independence-day-story-Accessories.mp4",
             "promoHeading": ""
           }
         },
         {
           "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_lsQ6n_1714725632432_15-festive-offers-indian-independence-day-story-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5bqL-_1714725638966_15-festive-offers-indian-independence-day-story-Toys.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_MM_3p_1714739056218_15-festive-offers-indian-independence-day-story-Toys.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe___TYf_1714739064980_15-festive-offers-indian-independence-day-story-Toys.mp4",
             "promoHeading": ""
           }
         },
         {
           "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_vGHCc_1714725632434_15-festive-offers-indian-independence-day-story-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_yX8-D_1714725638968_15-festive-offers-indian-independence-day-story-HealthFitness.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5YWPJ_1714739056220_15-festive-offers-indian-independence-day-story-HealthFitness.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_upLOm_1714739064982_15-festive-offers-indian-independence-day-story-HealthFitness.mp4",
             "promoHeading": ""
           }
         },
         {
           "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_7FXGx_1714725632436_15-festive-offers-indian-independence-day-story-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2BYUv_1714725638969_15-festive-offers-indian-independence-day-story-Perfumes.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_g0WAR_1714739056221_15-festive-offers-indian-independence-day-story-Perfumes.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_o8GUK_1714739064984_15-festive-offers-indian-independence-day-story-Perfumes.mp4",
             "promoHeading": ""
           }
         },
         {
           "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_OjeD8_1714725632437_15-festive-offers-indian-independence-day-story-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_5hBZK_1714725638971_15-festive-offers-indian-independence-day-story-BagPurse.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eyJwZ_1714739056263_15-festive-offers-indian-independence-day-story-BagPurse.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_26QG-_1714739064986_15-festive-offers-indian-independence-day-story-BagPurse.mp4",
             "promoHeading": ""
           }
         },
         {
           "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_INt7e_1714725632438_15-festive-offers-indian-independence-day-story-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_IrrF2_1714725638972_15-festive-offers-indian-independence-day-story-HealthBeauty.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_tHPBZ_1714739056264_15-festive-offers-indian-independence-day-story-HealthBeauty.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_Oz-zL_1714739064987_15-festive-offers-indian-independence-day-story-HealthBeauty.mp4",
             "promoHeading": ""
           }
         },
         {
           "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_zH1J-_1714725632439_15-festive-offers-indian-independence-day-story-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XtoBr_1714725638974_15-festive-offers-indian-independence-day-story-MobileElec.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_b_W8T_1714739056266_15-festive-offers-indian-independence-day-story-MobileElec.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_gzzb-_1714739064989_15-festive-offers-indian-independence-day-story-MobileElec.mp4",
             "promoHeading": ""
           }
         },
         {
           "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_T1eSe_1714725632440_15-festive-offers-indian-independence-day-story-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_-xNH5_1714725638976_15-festive-offers-indian-independence-day-story-Clothings.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_mfJXv_1714739056267_15-festive-offers-indian-independence-day-story-Clothings.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_kU8jh_1714739064990_15-festive-offers-indian-independence-day-story-Clothings.mp4",
             "promoHeading": ""
           }
         },
         {
           "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_0Vl_R_1714725632441_15-festive-offers-indian-independence-day-story-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rwJeg_1714725638978_15-festive-offers-indian-independence-day-story-Jewellery.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_AL34b_1714739056268_15-festive-offers-indian-independence-day-story-Jewellery.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_2zDoH_1714739064992_15-festive-offers-indian-independence-day-story-Jewellery.mp4",
             "promoHeading": ""
           }
         },
         {
           "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_bTTcp_1714725632442_15-festive-offers-indian-independence-day-story-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_ERvlo_1714725638980_15-festive-offers-indian-independence-day-story-Wearables.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_5ELNX_1714739056269_15-festive-offers-indian-independence-day-story-Wearables.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_oCxrQ_1714739064993_15-festive-offers-indian-independence-day-story-Wearables.mp4",
             "promoHeading": ""
           }
         },
         {
           "HomeDecor": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_r_oN4_1714725632443_15-festive-offers-indian-independence-day-story-HomeDecor.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_XvoTW_1714725638981_15-festive-offers-indian-independence-day-story-HomeDecor.mp4",
+            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_NLIVM_1714739056305_15-festive-offers-indian-independence-day-story-HomeDecor.jpg",
+            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_aHCPD_1714739064995_15-festive-offers-indian-independence-day-story-HomeDecor.mp4",
             "promoHeading": ""
           }
         }
