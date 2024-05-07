@@ -3,6 +3,7 @@
     {
       "version": 1,
       "id":"mlpn_318_cftyrs","templateId":"mlpn_318_cftyrs",
+      "isAllRecommendSupported": true, 
       "gifUrl": "",
       "bgVideoUrl": [
         ""
@@ -148,7 +149,7 @@
       "version": 1,
       "gifUrl": "",
       "id":"mlpn_313_cftyrs","templateId":"mlpn_313_cftyrs",
-      
+      "isAllRecommendSupported":true,
       "bgVideoUrl": [
         ""
       ],
@@ -436,6 +437,7 @@
     {
       "version": 1,
       "id":"mlpn_320_cftyrs","templateId":"mlpn_320_cftyrs",
+      "isAllRecommendSupported":true,
       "gifUrl": "",
       "bgVideoUrl": [
         ""
@@ -40556,6 +40558,8 @@
           }
         }
       ],
+      "isAllRecommendSupported": true, 
+
       "id": "j9hXr0dyNZBkWGWK94PF5",
       "templateId": "j9hXr0dyNZBkWGWK94PF5"
     },
@@ -40708,6 +40712,7 @@
           }
         }
       ],
+      "isAllRecommendSupported":true,
       "id": "Py1OfYM8TbKttRvtUxZTk",
       "templateId": "Py1OfYM8TbKttRvtUxZTk"
     },
@@ -41345,6 +41350,7 @@
       "version": 1,
       "id":"2Zc3lz_EJMLbRKcqITdml-",
       "templateId":"2Zc3lz_EJMLbRKcqITdml-",
+      "isAllRecommendSupported":true,
       "noBlur":true,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -41850,6 +41856,7 @@
       ],
       "id": "lW_XfXrF_D12_",
       "templateId": "lW_XfXrF_D12_",
+      "isAllRecommendSupported":true,
       "noBlur":true
     },
     {
@@ -54559,6 +54566,7 @@
           }
         }
       ],
+      "isAllRecommendSupported":true,
       "id": "XqtFYl4a_c9VMS4Ot3qxu",
       "templateId": "XqtFYl4a_c9VMS4Ot3qxu"
     },
@@ -54711,6 +54719,7 @@
           }
         }
       ],
+      "isAllRecommendSupported":true,
       "id": "faYs6RV38lhei5aRucVwT",
       "templateId": "faYs6RV38lhei5aRucVwT"
     },
@@ -54870,6 +54879,7 @@
           }
         }
       ],
+      "isAllRecommendSupported":true,
       "id": "PCIRGwHQvbXIEfeUkXFzS",
       "templateId": "PCIRGwHQvbXIEfeUkXFzS"
     },
@@ -55976,6 +55986,8 @@
           }
         }
       ],
+      "isAllRecommendSupported": true, 
+
       "id": "2w3TjaHGqMQ3s7e-UFbxJD",
       "templateId": "2w3TjaHGqMQ3s7e-UFbxJD",
       "noBlur":true
@@ -73038,7 +73050,8 @@
           }
         }
       ],
-      
+      "isAllRecommendSupported": true, 
+      "noBlur":true,
       "id": "wW3z3Pk7AL_a6_7C1RJPi_1",
       "templateId": "wW3z3Pk7AL_a6_7C1RJPi_1"
     },
@@ -73183,6 +73196,7 @@
         }
       ],
       "noBlur":true,
+      "isAllRecommendSupported": true, 
       "id": "wW3z3Pk7AL_a6_7C1RJPi_1",
       "templateId": "wW3z3Pk7AL_a6_7C1RJPi_1"
     },
