@@ -73462,6 +73462,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "Kq7zz96B10I-ZYw7zRLVu",
       "templateId": "Kq7zz96B10I-ZYw7zRLVu"
     },
@@ -73752,6 +73753,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "8UgKE_xlDuaAwG8JjAuPw",
       "templateId": "8UgKE_xlDuaAwG8JjAuPw"
     },
@@ -74049,6 +74051,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "rt2pS2zuayU-RHyGck_MU",
       "templateId": "rt2pS2zuayU-RHyGck_MU"
     },
@@ -74346,6 +74349,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "A1c0P0fla65sAUqtcQMSj",
       "templateId": "A1c0P0fla65sAUqtcQMSj"
     },
@@ -74795,6 +74799,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "MBHNCeKU8BivsXCyu3wKg1",
       "templateId": "MBHNCeKU8BivsXCyu3wKg1"
     },
@@ -75085,6 +75090,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "jKMz8wNR4eGkYSk9zIGYh1",
       "templateId": "jKMz8wNR4eGkYSk9zIGYh1"
     },
@@ -75244,6 +75250,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "2iF9WuO_GyI2BJIBXpc651",
       "templateId": "2iF9WuO_GyI2BJIBXpc651"
     },
@@ -76092,6 +76099,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "wW3z3Pk1RKhAJPi_1",
       "templateId": "wW3z3Pk1RKhAJPi_1"
     },
@@ -76563,6 +76571,7 @@
       "volume": 1,
       "id": "ghghgh12_11",
       "templateId": "ghghgh12_11",
+      "speedX":true,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -76920,6 +76929,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "s9XcJ-ODuNmZtOtZggq2g",
       "templateId": "s9XcJ-ODuNmZtOtZggq2g"
     },
