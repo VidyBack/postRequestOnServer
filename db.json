@@ -59241,6 +59241,7 @@
       "AddId": "",
       "volume": 1,
       "isMultipleTemplate": false,
+      "speedX":true,
       "id": "gihkPw9_10_k6yI2",
       "templateId": "gihkPw9_10_k6yI2",
       "previews": [
@@ -73901,6 +73902,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "8UgKE_xlDuaAwG8JjAuPw",
       "templateId": "8UgKE_xlDuaAwG8JjAuPw"
     },
@@ -74498,6 +74500,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "A1c0P0fla65sAUqtcQMSj",
       "templateId": "A1c0P0fla65sAUqtcQMSj"
     },
@@ -76718,6 +76721,7 @@
       "volume": 1,
       "id": "ghghgh12_11",
       "templateId": "ghghgh12_11",
+      "speedX":true,
       "isMultipleTemplate": true,
       "previews": [
         {
