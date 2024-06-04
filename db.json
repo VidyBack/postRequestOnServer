@@ -42786,6 +42786,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "lW_XfXrF_S16_XyZ2",
       "templateId": "lW_XfXrF_S16_XyZ2"
     },
@@ -42902,6 +42903,7 @@
     {
       "id": "A5Pznt_PqHW2qgLbTipUF",
       "templateId": "A5Pznt_PqHW2qgLbTipUF",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -43442,6 +43444,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "9G-xiy86iE7mtr-9dgPcO",
       "templateId": "9G-xiy86iE7mtr-9dgPcO"
     },
@@ -57520,6 +57523,7 @@
       "noBlur": false,
       "month": "january",
       "isMultipleTemplate": false,
+      "speedX":true,
       "previews": [
         {
           "Accessories": {
@@ -59810,6 +59814,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "gihkPw9_9_k6yI2",
       "templateId": "gihkPw9_9_k6yI2"
     },
@@ -60211,6 +60216,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "5yrGS1T4vDDVwv5nQRH6l",
       "templateId": "5yrGS1T4vDDVwv5nQRH6l"
     },
@@ -60354,6 +60360,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "gihkPw9_8_k6yI2",
       "templateId": "gihkPw9_8_k6yI2"
     },
@@ -72556,6 +72563,7 @@
       "isMultipleTemplate": true,
       "id": "gihkPw9_10_k6yI2",
       "templateId": "gihkPw9_10_k6yI2",
+      "speedX":true,
       "previews": [
         {
           "Perfumes": {
