@@ -43316,7 +43316,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zR_A__1713349387870_mixkit-getting-ready-46.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -55233,6 +55233,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "piErQKFbtrVNj8cQFKtoN",
       "templateId": "piErQKFbtrVNj8cQFKtoN"
     },
@@ -76568,7 +76569,6 @@
       "outroId": null,
       "isTransparent": false,
       "AddId": "",
-      "volume": 1,
       "id": "ghghgh12_11",
       "templateId": "ghghgh12_11",
       "speedX":true,
