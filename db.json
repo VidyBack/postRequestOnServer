@@ -41505,7 +41505,7 @@
         }
       ],
       "isAllRecommendSupported": true, 
-
+      "speedX":true,
       "id": "j9hXr0dyNZBkWGWK94PF5",
       "templateId": "j9hXr0dyNZBkWGWK94PF5"
     },
@@ -41652,6 +41652,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "snGu8dnjPzF-ZZp41_6jW",
       "templateId": "snGu8dnjPzF-ZZp41_6jW"
     },
@@ -42519,6 +42520,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "a_jdaOz_KuW_LQ1",
       "templateId": "a_jdaOz_KuW_LQ1"
     },
@@ -43589,6 +43591,7 @@
         }
       ],
       "id": "hNtmh3RYNaUR6bkrfgXUY",
+      "speedX":true,
       "templateId": "hNtmh3RYNaUR6bkrfgXUY",
       "noBlur":true
     },
@@ -43725,6 +43728,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "nmEmYLxeQsh0upk2fhR91",
       "templateId": "nmEmYLxeQsh0upk2fhR91"
     },
@@ -45028,6 +45032,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "lW_XfXrF_A19_XyZ2",
       "templateId": "lW_XfXrF_A19_XyZ2"
     },
@@ -45164,6 +45169,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "lW_XfXrF_A19_XyZ2",
       "templateId": "lW_XfXrF_A19_XyZ2"
     },
@@ -47608,6 +47614,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "DpPY0Pf64_1MnbDBfjk1x1",
       "templateId": "DpPY0Pf64_1MnbDBfjk1x1"
     },
@@ -47752,6 +47759,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "DpPY0Pf64_1MnbDBfdaa_1",
       "templateId": "DpPY0Pf64_1MnbDBfdaa_1"
     },
@@ -47895,6 +47903,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "DpPY0Pf64_1MnbDBfdaa_1",
       "templateId": "DpPY0Pf64_1MnbDBfdaa_1"
     },
@@ -48141,6 +48150,7 @@
       ],
       "id": "7UkZTNFk2WLlyc-sqqKt0",
       "templateId": "7UkZTNFk2WLlyc-sqqKt0",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -48223,6 +48233,7 @@
       ],
       "id": "7UkZTNFk2WLlyc-sqqKt0",
       "templateId": "7UkZTNFk2WLlyc-sqqKt0",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -48305,6 +48316,7 @@
       ],
       "id": "7c265TeJUz1UTP0ZNkUrP",
       "templateId": "7c265TeJUz1UTP0ZNkUrP",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -48387,6 +48399,7 @@
       ],
       "id": "7c265TeJUz1UTP0ZNkUrP",
       "templateId": "7c265TeJUz1UTP0ZNkUrP",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -48469,6 +48482,7 @@
       ],
       "id": "9ZwuTYePyEOQblRdgDNaS",
       "templateId": "9ZwuTYePyEOQblRdgDNaS",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -48551,6 +48565,7 @@
       ],
       "id": "9ZwuTYePyEOQblRdgDNaS",
       "templateId": "9ZwuTYePyEOQblRdgDNaS",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -48633,6 +48648,7 @@
       ],
       "id": "L7RUVT_ARxu_I1xus_BZH",
       "templateId": "L7RUVT_ARxu_I1xus_BZH",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -48715,6 +48731,7 @@
       ],
       "id": "L7RUVT_ARxu_I1xus_BZH",
       "templateId": "L7RUVT_ARxu_I1xus_BZH",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -49622,6 +49639,7 @@
       ],
       "id": "SRdViBfyNXuzuol6lpOd9",
       "templateId": "SRdViBfyNXuzuol6lpOd9",
+      "speedX":true,
       "isMultipleTemplate": true
     },
     {
@@ -49708,6 +49726,7 @@
     {
       "id": "xI2Kl8a5vlAnsEzs-jssU",
       "templateId": "xI2Kl8a5vlAnsEzs-jssU",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -50168,6 +50187,7 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
+      "speedX":true,
       "id": "jNOR_eC-v2XWe4oCIVflN",
       "templateId": "jNOR_eC-v2XWe4oCIVflN",
       "noBlur":true,
@@ -51502,6 +51522,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "DpPY0Pf64_1MnbDBfjk1x",
       "templateId": "DpPY0Pf64_1MnbDBfjk1x"
     },
@@ -52203,6 +52224,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "aFHwzA70jT61WTHj2KQOq",
       "templateId": "aFHwzA70jT61WTHj2KQOq"
     },
@@ -54543,6 +54565,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "a_jdaOz_KuW_LQ1",
       "templateId": "a_jdaOz_KuW_LQ1"
     },
