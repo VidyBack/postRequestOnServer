@@ -41360,7 +41360,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WyLtZ_1714048769205_mixkit-walk-the-cat-59.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WyLtZ_1714048769205_mixkitMYIjd0TTu5N9UBx3TcU75-walk-the-cat-59.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -62690,6 +62690,7 @@
     {
       "id": "DpPY0Pf64_1M12aa12",
       "templateId": "DpPY0Pf64_1M12aa12",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -75941,6 +75942,7 @@
       "noBlur": false,
       "month": "january",
       "isMultipleTemplate": true,
+      "speedX":true,
       "previews": [
         {
           "Accessories": {
@@ -76013,6 +76015,7 @@
           }
         }
       ],
+      
       "id": "MYIjd0TTu5N9UBx3TcU75",
       "templateId": "MYIjd0TTu5N9UBx3TcU75"
     },
@@ -79924,6 +79927,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "ghghgh12_5",
       "templateId": "ghghgh12_5"
     },
@@ -81426,6 +81430,7 @@
       "isMultipleTemplate": false,
       "id": "_ervcES",
       "templateId": "_ervcES",
+      "speedX":true,
       "previews": [
         {
           "Toys": {
@@ -82605,6 +82610,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "166eOH4XD4lf5pjuiRKTs",
       "templateId": "166eOH4XD4lf5pjuiRKTs"
     },
@@ -83099,6 +83105,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "q1hHjhZTKYfYvg6SjoYSR",
       "templateId": "q1hHjhZTKYfYvg6SjoYSR",
       "isMultipleTemplate": false
@@ -83191,6 +83198,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "8YAmE1EKxaUPYyinYgOlM",
       "templateId": "8YAmE1EKxaUPYyinYgOlM",
       "isMultipleTemplate": false
@@ -84502,6 +84510,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "qdC7A0YlRik5XyzeqeBg4",
       "templateId": "qdC7A0YlRik5XyzeqeBg4"
     },
@@ -84767,6 +84776,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "ojTsfcHkqTf5jBjTJMesI",
       "templateId": "ojTsfcHkqTf5jBjTJMesI"
     },
@@ -85046,6 +85056,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "0HiMS8RrIUG8o5PJ4qWr4",
       "templateId": "0HiMS8RrIUG8o5PJ4qWr4"
     },
@@ -85959,6 +85970,7 @@
         }
       ],
       "id": "b8XuQ9siWODNumstfhyNT",
+      "speedX":true,
       "templateId": "b8XuQ9siWODNumstfhyNT"
     },
     {
@@ -86087,6 +86099,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "b8XuQ9siWODNumstfhyNT",
       "templateId": "b8XuQ9siWODNumstfhyNT"
     },
@@ -86151,6 +86164,7 @@
       "AddId": "",
       "volume": 0.3,
       "isMultipleTemplate": false,
+      "speedX":true,
       "id": "DpPY0Pf64_1MxxBfdaa",
       "templateId": "DpPY0Pf64_1MxxBfdaa",
       "previews": [
@@ -86352,6 +86366,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "j4s48HRMAix__jecl9GYB",
       "templateId": "j4s48HRMAix__jecl9GYB"
     },
