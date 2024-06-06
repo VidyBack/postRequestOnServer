@@ -80064,6 +80064,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "ghghgh12_5",
       "templateId": "ghghgh12_5"
     },
@@ -82323,6 +82324,7 @@
     {
       "id": "DpPY0Pf64_1MnbDBfdaa",
       "templateId": "DpPY0Pf64_1MnbDBfdaa",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -82883,6 +82885,7 @@
     {
       "id": "DpPY0Pf64_1M12aa",
       "templateId": "DpPY0Pf64_1M12aa",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -87113,6 +87116,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "mUYpsJO-wccqZARXh1K2j",
       "templateId": "mUYpsJO-wccqZARXh1K2j"
     },
