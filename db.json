@@ -49211,6 +49211,7 @@
       "isTransparent": false,
       "id": "mZhnp5S1Y0SC31S_G7AUG",
       "templateId": "mZhnp5S1Y0SC31S_G7AUG",
+      "speedX":true,
       "isMultipleTemplate": true
     },
     {
@@ -49365,6 +49366,7 @@
       ],
       "id": "mZhnp5S1Y0SC31S_G7AUG",
       "templateId": "mZhnp5S1Y0SC31S_G7AUG",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -49747,6 +49749,7 @@
       ],
       "id": "SRdViBfyNXuzuol6lpOd9",
       "templateId": "SRdViBfyNXuzuol6lpOd9",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -49764,7 +49767,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_k2EL5_1666165144591_mixkit-my-last-mojito-814.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LFAJW_1700033472083_mixkit-getting-ready-46.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
