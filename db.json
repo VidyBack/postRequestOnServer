@@ -25641,6 +25641,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "OjwnCsJWWknly4xqUk5AE",
       "templateId": "OjwnCsJWWknly4xqUk5AE"
     },
@@ -27122,6 +27123,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "mn4BcOgg1hl69c3dlUf9v",
       "templateId": "mn4BcOgg1hl69c3dlUf9v"
     },
@@ -27551,6 +27553,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "pl02XxxGi4vzroV8yK5fb",
       "templateId": "pl02XxxGi4vzroV8yK5fb"
     },
@@ -27842,6 +27845,7 @@
     },
     {
       "id": "EXVOES42",
+      "speedX":true,
       "templateId": "EXVOES42",
       "version": 1,
       "gifUrl": "",
@@ -29564,6 +29568,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "EXVOES30",
       "templateId": "EXVOES30"
     },
@@ -32054,6 +32059,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "EXVOES11",
       "templateId": "EXVOES11",
       "noBlur":true
@@ -32177,6 +32183,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "EXVOES11",
       "templateId": "EXVOES11",
       "noBlur":true
@@ -32429,6 +32436,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "EXVOES2",
       "templateId": "EXVOES2"
     },
@@ -32752,6 +32760,7 @@
       "volume": 0.3,
       "isMultipleTemplate": false,
       "id": "VOervcES",
+      "speedX":true,
       "templateId": "VOervcES",
       "previews": [
         {
@@ -34160,6 +34169,7 @@
       ],
       "id": "bNQIZym2R50wFIq5EUXYl",
       "templateId": "bNQIZym2R50wFIq5EUXYl",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -34301,6 +34311,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "g1ZMoedhKNbKZBCDDYRso",
+      "speedX":true,
       "templateId": "g1ZMoedhKNbKZBCDDYRso",
       "classes": [
         "HomeDecor"
@@ -34365,6 +34376,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "FLJEpS1Ss4DByCdWaV2J9",
+      "speedX":true,
       "templateId": "FLJEpS1Ss4DByCdWaV2J9",
       "classes": [
         "Accessories"
@@ -36796,6 +36808,7 @@
         }
       ],
       "id": "EXVOES12",
+      "speedX":true,
       "templateId": "EXVOES12"
     }
   ],
@@ -75890,7 +75903,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E4J94_1705390556622_you-185.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -82335,7 +82348,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_3Ey0E_1697606292701_mixkit-love-and-trust-1034.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": true,
@@ -83124,7 +83137,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Dll4J_1697456631840_mixkit-babe-783.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
