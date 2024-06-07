@@ -18950,6 +18950,7 @@
     {
       "id": "LwrJOKE_Wjjbp",
       "templateId": "LwrJOKE_Wjjbp",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -19418,6 +19419,7 @@
       "height": 1080,
       "width": 1080,
       "introId": null,
+      "speedX":true,
       "id": "HxnKQ_x3isR_kAqwvhhuPu0qwYg",
       "templateId": "HxnKQ_x3isR_kAqwvhhuPu0qwYg",
       "outroId": null,
@@ -20002,6 +20004,7 @@
       "isMultipleTemplate": false,
       "id": "asjhda23432kj523",
       "templateId": "asjhda23432kj523",
+      "speedX":true,
       "previews": [
         {
           "Toys": {
@@ -21096,6 +21099,7 @@
       "AddId": "",
       "volume": 0.3,
       "id": "s123h43u545b",
+      "speedX":true,
       "templateId": "s123h43u545b",
       "isMultipleTemplate": false,
       "previews": [
@@ -21650,6 +21654,7 @@
         }
       ],
       "id": "em8huU3X0sWm9a9f08yAk",
+      "speedX":true,
       "templateId": "em8huU3X0sWm9a9f08yAk",
       "isMultipleTemplate": false
     },
@@ -21784,6 +21789,7 @@
       "isTransparent": false,
       "id": "-uSxrTJ55RfBkiBh3v336",
       "templateId": "-uSxrTJ55RfBkiBh3v336",
+      "speedX":true,
       "classes": [
         "HomeDecor"
       ],
@@ -21855,6 +21861,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "oEngTV4X5d1gW6egDpo0n",
+      "speedX":true,
       "templateId": "oEngTV4X5d1gW6egDpo0n",
       "classes": [
         "Footwear"
@@ -21927,6 +21934,7 @@
       "isTransparent": false,
       "id": "E1GYSPvCCuBqBNK3mU_h_",
       "templateId": "E1GYSPvCCuBqBNK3mU_h_",
+      "speedX":true,
       "version": 1,
       "classes": [
         "Wearables"
@@ -21951,6 +21959,7 @@
       "forWebsites": [],
       "pro": false,
       "createdOn": "2024-03-01T06:56:14.942Z",
+      
       "extraComps": [
         {
           "index": 3,
@@ -22217,6 +22226,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "DpPY0Pf64_1MnbDBfdaa1xqq11",
       "templateId": "DpPY0Pf64_1MnbDBfdaa1xqq11"
     },
@@ -22418,6 +22428,7 @@
       "volume": 0.3,
       "isMultipleTemplate": false,
       "id": "zxcvbnm123",
+      "speedX":true,
       "templateId": "zxcvbnm123",
       "previews": [
         {
@@ -22561,6 +22572,7 @@
       "AddId": "",
       "volume": 0.3,
       "isMultipleTemplate": false,
+      "speedX":true,
       "id": "qwewrewretret123",
       "templateId": "qwewrewretret123",
       "previews": [
@@ -24651,6 +24663,7 @@
       "volume": 0.3,
       "isMultipleTemplate": false,
       "id": "qwe123wrew123retret123",
+      "speedX":true,
       "templateId": "qwe123wrew123retret123",
       "previews": [
         {
@@ -24880,6 +24893,7 @@
         }
       ],
       "id": "yOasgcwvjUPYfjX7ObgCJ",
+      "speedX":true,
       "templateId": "yOasgcwvjUPYfjX7ObgCJ"
     }
   ],
