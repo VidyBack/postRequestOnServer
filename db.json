@@ -32329,8 +32329,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
-      "fillEnabled": true,
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
       "forWebsites": [],
       "pro": true,
       "createdOn": "2023-11-02T11:12:52.859Z",
@@ -34344,7 +34343,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RfE2E_1666165360262_mixkit-tears-of-joy-839.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_LGDAs_1696590307751_mixkit-danger-alley-1171.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": true,
@@ -56767,7 +56766,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qD8oC_1702275443569_mixkit-hip-hop-01-737-updated.mp3.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -59113,7 +59112,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_L0aUj_1713875814695_mixkit-cant-get-you-off-my-mind-1210.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -59747,7 +59746,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_i0Zdy_1696856512061_mixkit-hooligans-998.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -60163,7 +60162,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_iK4AD_1717754319976_mixkit-me-and-you-851.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -70487,6 +70486,7 @@
       "id": "rl7CYul-vZUrVx-vEkYh6",
       "noBlur":true,
       "templateId": "rl7CYul-vZUrVx-vEkYh6",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -70995,6 +70995,7 @@
       "isTransparent": false,
       "id": "3ykfJBNHlq39Kl-UzsvVC",
       "templateId": "3ykfJBNHlq39Kl-UzsvVC",
+      "speedX":true,
       "noBlur":true,
       "classes": [
         "Accessories"
@@ -72430,7 +72431,8 @@
         }
       ],
       "id": "Q6mHsZvJP0OHxzA5-cSIT",
-      "templateId": "Q6mHsZvJP0OHxzA5-cSIT"
+      "templateId": "Q6mHsZvJP0OHxzA5-cSIT",
+      "speedX":true
     },
     {
       "version": 1,
@@ -76088,7 +76090,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_jgUYu_1697183557252_old-old-love.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_CX233_1716460167614_adone-635.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": true,
@@ -76611,7 +76613,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_bcvYj_1682746724327_mixkit-within-a-dream-894.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -77531,6 +77533,7 @@
         }
       ],
       "id": "_jCaVfr5KkKw0ZtdirKAD",
+      "speedX":true,
       "templateId": "_jCaVfr5KkKw0ZtdirKAD",
       "isMultipleTemplate": false
     },
@@ -78162,6 +78165,7 @@
         }
       ],
       "id": "fPFf_w8e_zbzqVviIhwou",
+      "speedX":true,
       "templateId": "fPFf_w8e_zbzqVviIhwou"
     },
     {
@@ -78482,6 +78486,7 @@
       ],
       "id": "U8kvFGVO2z5sfgICk2Qd6",
       "templateId": "U8kvFGVO2z5sfgICk2Qd6",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -78868,6 +78873,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "yk7yqk8OoPgMRkcbqmqyj",
       "templateId": "yk7yqk8OoPgMRkcbqmqyj"
     },
@@ -79025,6 +79031,7 @@
       ],
       "id": "ghghgh12aasss_10",
       "templateId": "ghghgh12aasss_10",
+      "speedX":true,
       "bgImageUrl": [
         ""
       ],
@@ -82936,6 +82943,7 @@
         }
       ],
       "id": "Jzq_RsKTgTs41uFlC8Nyg",
+      "speedX":true,
       "templateId": "Jzq_RsKTgTs41uFlC8Nyg",
       "isMultipleTemplate": false
     },
@@ -83564,6 +83572,7 @@
       "imageType": "Post 4:5",
       "id": "OOlMSAFlePaBoY7HWqvb8",
       "templateId": "OOlMSAFlePaBoY7HWqvb8",
+      "speedX":true,
       "outroType": null,
       "introType": null,
       "Height": 1920,
@@ -83712,6 +83721,7 @@
       "isMultipleTemplate": false,
       "id": "On0NlID6r4U538BEoPzVn",
       "templateId": "On0NlID6r4U538BEoPzVn",
+      "speedX":true,
       "previews": [
         {
           "Toys": {
@@ -83836,6 +83846,7 @@
       "isTransparent": false,
       "id": "WbpjRHIVJywX9oPNjG9kl",
       "templateId": "WbpjRHIVJywX9oPNjG9kl",
+      "speedX":true,
       "noBlur":true,
       "version": 1,
       "classes": [
@@ -84174,6 +84185,7 @@
       "name": "01-new-arrival-portrait-update",
       "id": "XDPWjPXpPFY_sSWHPktKm",
       "templateId": "XDPWjPXpPFY_sSWHPktKm",
+      "speedX":true,
       "brandEnabled": false,
       "brandType": "X1",
       "category": [
@@ -84327,6 +84339,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "g56qgXIunCUjfh20zq6NJ",
+      "speedX":true,
       "templateId": "g56qgXIunCUjfh20zq6NJ",
       "musicName": "Mixkit Showcase Me",
       "classes": [
@@ -84456,7 +84469,8 @@
         }
       ],
       "id": "N2_8gFG8_3YxIzucOPQw0",
-      "templateId": "N2_8gFG8_3YxIzucOPQw0"
+      "templateId": "N2_8gFG8_3YxIzucOPQw0",
+      "speedX":true
     },
     {
       "version": 1,
@@ -85247,7 +85261,8 @@
         }
       ],
       "id": "BDAuPJO2HLHZYwY4I2Bej",
-      "templateId": "BDAuPJO2HLHZYwY4I2Bej"
+      "templateId": "BDAuPJO2HLHZYwY4I2Bej",
+      "speedX":true
     },
     {
       "version": 1,
@@ -85391,6 +85406,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "_4HTDxyI_Q7OvhjjsqwOU1",
       "templateId": "_4HTDxyI_Q7OvhjjsqwOU1"
     },
@@ -85520,6 +85536,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "o5j__MljWomG0sqPrF9P1",
       "templateId": "o5j__MljWomG0sqPrF9P1"
     },
@@ -85900,6 +85917,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "-qRDV8Jc8BJ5G6ZY8Ocz9",
       "templateId": "-qRDV8Jc8BJ5G6ZY8Ocz9"
     },
@@ -86921,6 +86939,7 @@
     {
       "id": "DluHtD3hvUM_0_3W82K",
       "templateId": "DluHtD3hvUM_0_3W82K",
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -87594,6 +87613,7 @@
       ],
       "id": "-ppbFndL_1LZtS6hps99s",
       "templateId": "-ppbFndL_1LZtS6hps99s",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
