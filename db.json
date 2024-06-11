@@ -19232,6 +19232,7 @@
         }
       ],
       "id": "BiHf6WOh1iIAdRuWIykqC",
+      "speedX":true,
       "templateId": "BiHf6WOh1iIAdRuWIykqC"
     },
     {
@@ -19295,6 +19296,7 @@
       "AddId": "",
       "volume": 0.3,
       "id": "asjhda23432kdsfhjhfjdsj523",
+      "speedX":true,
       "templateId": "asjhda23432kdsfhjhfjdsj523",
       "isMultipleTemplate": false,
       "previews": [
@@ -19641,6 +19643,7 @@
         }
       ],
       "id": "Qgd76Y3_Te9I5JSpp9iSO",
+      "speedX":true,
       "templateId": "Qgd76Y3_Te9I5JSpp9iSO"
     },
    
@@ -19702,6 +19705,7 @@
       "isTransparent": false,
       "id": "4Cq4FS32rKfNrljNXljol",
       "templateId": "4Cq4FS32rKfNrljNXljol",
+      "speedX":true,
       "version": 1,
       "classes": [
         "Clothings"
@@ -19857,6 +19861,7 @@
         }
       ],
       "id": "M6JMnmdV-kjdbuegPv1x1",
+      "speedX":true,
       "templateId": "M6JMnmdV-kjdbuegPv1x1"
     },
     {
@@ -19938,6 +19943,7 @@
       ],
       "id": "NlzHNmaUp70jF4fuNLnBQ",
       "templateId": "NlzHNmaUp70jF4fuNLnBQ",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -20132,6 +20138,7 @@
       "AddId": "",
       "volume": 0.3,
       "id": "dhagdhsj234156",
+      "speedX":true,
       "templateId": "dhagdhsj234156",
       "isMultipleTemplate": false,
       "previews": [
@@ -20620,6 +20627,7 @@
         }
       ],
       "id": "DpPY0Pf64_2_1MnbDB",
+      "speedX":true,
       "templateId": "DpPY0Pf64_2_1MnbDB"
     },
     {
@@ -20957,6 +20965,7 @@
       "volume": 0.3,
       "id": "as_89jahc1223jsah",
       "templateId": "as_89jahc1223jsah",
+      "speedX":true,
       "isMultipleTemplate": false,
       "previews": [
         {
@@ -21254,6 +21263,7 @@
       ],
       "id": "P0gAR1rtCq2cqm-FuwjcI",
       "templateId": "P0gAR1rtCq2cqm-FuwjcI",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -21334,6 +21344,7 @@
         }
       ],
       "id": "iDzA-dYzoF7jS8zQBrNff",
+      "speedX":true,
       "templateId": "iDzA-dYzoF7jS8zQBrNff",
       "priorityNumber": true,
       "isMultipleTemplate": false
@@ -21416,6 +21427,7 @@
         }
       ],
       "id": "F3I7sl0tgr_hckx-OOfn-",
+      "speedX":true,
       "templateId": "F3I7sl0tgr_hckx-OOfn-",
       "priorityNumber": true,
       "isMultipleTemplate": false
@@ -21499,6 +21511,7 @@
       ],
       "id": "-uS0-Olsabe3IIf0LvIOS",
       "templateId": "-uS0-Olsabe3IIf0LvIOS",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -21579,6 +21592,7 @@
         }
       ],
       "id": "ufiWbIZGZ6W9kTnyXmpYI",
+      "speedX":true,
       "templateId": "ufiWbIZGZ6W9kTnyXmpYI",
       "isMultipleTemplate": false
     },
@@ -21716,6 +21730,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "fygpmMqd0mi7tfqCdyZVT",
+      "speedX":true,
       "templateId": "fygpmMqd0mi7tfqCdyZVT",
       "classes": [
         "Clothings"
@@ -22084,6 +22099,7 @@
         }
       ],
       "id": "quztihgvqH1lzsFfgu7xW",
+      "speedX":true,
       "templateId": "quztihgvqH1lzsFfgu7xW"
     },
     {
@@ -22795,6 +22811,7 @@
         }
       ],
       "id": "hqhRzHWm_V85LRMOkj7cc",
+      "speedX":true,
       "templateId": "hqhRzHWm_V85LRMOkj7cc"
     },
     {
@@ -22938,6 +22955,7 @@
         }
       ],
       "id": "DpPY0Pf64_3_1MnbDB",
+      "speedX":true,
       "templateId": "DpPY0Pf64_3_1MnbDB"
     },
     {
@@ -23095,6 +23113,7 @@
         }
       ],
       "id": "uffTdlJ8qm9qPCPgBMVZM",
+      "speedX":true,
       "templateId": "uffTdlJ8qm9qPCPgBMVZM"
     },
     {
@@ -24333,6 +24352,7 @@
         }
       ],
       "id": "C6tQu6z2GM6etGmp7_2lf",
+      "speedX":true,
       "templateId": "C6tQu6z2GM6etGmp7_2lf"
     },
     {
@@ -24462,6 +24482,7 @@
         }
       ],
       "id": "53OJ0Zl8uqS7pQ_JAtqgM",
+      "speedX":true,
       "templateId": "53OJ0Zl8uqS7pQ_JAtqgM"
     },
     {
@@ -24598,6 +24619,7 @@
         }
       ],
       "id": "aPlBKHGf7JhlCLBypFzF5",
+      "speedX":true,
       "templateId": "aPlBKHGf7JhlCLBypFzF5"
     },
     {
@@ -47422,6 +47444,7 @@
       "isTransparent": false,
       "id": "qwas_89jahc1223jsah",
       "templateId": "qwas_89jahc1223jsah",
+      "speedX":true,
       "AddId": "",
       "volume": 0.3,
       "isMultipleTemplate": true,
@@ -52455,6 +52478,7 @@
       "height": 1080,
       "width": 1080,
       "id": "BiHf6WOh1iIAdRuWIykqCmost",
+
       "templateId": "BiHf6WOh1iIAdRuWIykqCmost",
       "introId": null,
       "outroId": null,
@@ -80830,6 +80854,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "ghghgh12_2",
       "templateId": "ghghgh12_2"
     },
@@ -82392,6 +82417,7 @@
         }
       ],
       "id": "Nrwxn6NDe0uWl7wwO8s8n",
+      "speedX":true,
       "templateId": "Nrwxn6NDe0uWl7wwO8s8n"
     },
     {
@@ -84299,68 +84325,7 @@
       ]
     },
    
-    {
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TaRUb_1663652193500_mixkit-showcase-me-61.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2022-09-20T16:25:32.256Z",
-      "extraComps": [],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_lSVPj_1663691128484_01 New arrival 20_09_2022.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Posts",
-      "name": "01 New arrival 20_09_2022",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_na"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_xgZWa_1663691128487_01-new-arrival_small.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_rjqhY_1663691128485_01-new-arrival.jpg",
-      "outroType": null,
-      "introType": null,
-      "Height": 1080,
-      "Width": 1080,
-      "height": 1080,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "id": "g56qgXIunCUjfh20zq6NJ",
-      "speedX":true,
-      "templateId": "g56qgXIunCUjfh20zq6NJ",
-      "musicName": "Mixkit Showcase Me",
-      "classes": [
-        "Footwear"
-      ],
-      "brandDisabled": true,
-      "version": 1,
-      "isMultipleTemplate": false
-    },
+ 
     {
       "version": 1,
       "gifUrl": "",
@@ -85810,6 +85775,7 @@
         }
       ],
       "id": "bvcKMqXhtiVDDwx3WIhYg",
+      "speedX":true,
       "templateId": "bvcKMqXhtiVDDwx3WIhYg"
     },
     {
@@ -86705,6 +86671,7 @@
         }
       ],
       "id": "VjErP2GU2MUaS6WWuAqaS",
+      "speedX":true,
       "templateId": "VjErP2GU2MUaS6WWuAqaS"
     },
     {
