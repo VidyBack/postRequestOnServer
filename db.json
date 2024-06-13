@@ -19517,7 +19517,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-03-22T12:21:15.753Z",
       "extraComps": [
         {
@@ -19962,7 +19962,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ttyHi_1717754185790_mixkit-house-vibes-129.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-09-23T13:23:24.701Z",
       "extraComps": [
         {
@@ -25005,7 +25005,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Dns9X_1705389881974_sensual-pop-289.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-04-17T13:05:20.411Z",
       "extraComps": [
         {
@@ -25311,7 +25311,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Dns9X_1705389881974_sensual-pop-289.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-04-17T13:05:20.411Z",
       "extraComps": [
         {
@@ -26531,7 +26531,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-01-18T07:08:32.087Z",
       "extraComps": [
         {
@@ -26595,6 +26595,7 @@
       ],
       "id": "kxNdD4c2to9pUwRz3Vaqi",
       "templateId": "kxNdD4c2to9pUwRz3Vaqi",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -27240,7 +27241,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Vkuvn_1663651998875_mixkit-no-violence-337.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-02-28T05:21:38.481Z",
       "extraComps": [
         {
@@ -30198,7 +30199,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KqD3Y_1697692800473_mixkit-marcus-850.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-11-17T09:18:57.265Z",
       "extraComps": [
         {
@@ -30310,6 +30311,7 @@
         }
       ],
       "id": "EXVOES20",
+      "speedX":true,
       "templateId": "EXVOES20"
     },
     {
@@ -30327,7 +30329,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_KqD3Y_1697692800473_mixkit-marcus-850.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-11-17T09:18:57.265Z",
       "extraComps": [
         {
@@ -30439,6 +30441,7 @@
         }
       ],
       "id": "EXVOES20",
+      "speedX":true,
       "templateId": "EXVOES20"
     },
     {
@@ -33109,7 +33112,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ZEHdG_1666165457869_mixkit-this-is-what-im-fighting-for-917.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-03-14T07:35:01.922Z",
       "extraComps": [
         {
@@ -33355,7 +33358,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0lsrw_1666165333415_mixkit-spanish-heart-974.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-03-02T13:29:02.042Z",
       "extraComps": [
         {
@@ -33923,7 +33926,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_RfE2E_1666165360262_mixkit-tears-of-joy-839.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-01-04T12:24:04.910Z",
       "extraComps": [
         {
@@ -33987,6 +33990,7 @@
       ],
       "id": "1eXXj3HjZZr0b_YLU1HD_",
       "templateId": "1eXXj3HjZZr0b_YLU1HD_",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -34646,7 +34650,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_uzDst_1663651596033_mixkit-india-205.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-02-29T10:44:51.804Z",
       "extraComps": [
         {
@@ -37089,7 +37093,8 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XCsOe_1666164921547_mixkit-easy-times-20.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
+      "speedX":true,
       "createdOn": "2023-08-22T11:38:49.007Z",
       "extraComps": [
         {
@@ -40487,7 +40492,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/vidyback/music/Soft/mixkit-zanarkand-forest-169.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-08-21T12:59:44.738Z",
       "extraComps": [
         {
@@ -40616,7 +40621,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_i0Zdy_1696856512061_mixkit-hooligans-998.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-09T13:19:29.216Z",
       "extraComps": [
         {
@@ -41128,7 +41133,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6BKYF_1713876711262_mixkit-cant-get-you-off-my-mind-1210.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-05-31T07:59:19.294Z",
       "extraComps": [
         {
@@ -41178,6 +41183,7 @@
       "isMultipleTemplate": false,
       "previews": [],
       "id": "piErQKFbtrVNj8cQFKtoNlmorlm",
+      "speedX":true,
       "templateId": "piErQKFbtrVNj8cQFKtoNlmorlm"
     },
     {
@@ -41354,7 +41360,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WyLtZ_1714048769205_mixkitMYIjd0TTu5N9UBx3TcU75-walk-the-cat-59.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-04-26T10:51:06.385Z",
       "extraComps": [
         {
@@ -41399,6 +41405,7 @@
       "isTransparent": false,
       "AddId": "",
       "volume": 1,
+      
       "noBlur": true,
       "month": "january",
       "isMultipleTemplate": false,
@@ -42135,6 +42142,7 @@
     {
       "version": 1,
       "id":"2Zc3lz_EJMLbRKcqITdml-",
+      "speedX":true,
       "templateId":"2Zc3lz_EJMLbRKcqITdml-",
       "isAllRecommendSupported":true,
       "noBlur":true,
@@ -42390,6 +42398,7 @@
         }
       ],
       "id": "CN5IvGWIbfjmcDIZcPLdK",
+      "speedX":true,
       "templateId": "CN5IvGWIbfjmcDIZcPLdK"
     },
     {
@@ -42802,7 +42811,8 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
+      "speedX":true,
       "createdOn": "2023-10-10T07:50:03.990Z",
       "extraComps": [
         {
@@ -43441,150 +43451,7 @@
       "id": "9G-xiy86iE7mtr-9dgPcO",
       "templateId": "9G-xiy86iE7mtr-9dgPcO"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XEFrW_1663651653306_mixkit-its-love-834.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-02-28T12:58:54.263Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705575891091_22-outro-story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_ryQ5O_1709124908431_01-most-popular-updated-n.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "01-most-popular-updated",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_mp"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YZvRj_1709124908732_01-most-popular-updated.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_4aHeA_1709124908726_01-most-popular-updated.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.7,
-      "isMultipleTemplate": false,
-      "previews": [
-        {
-          "Accessories": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_n_lyj_1709125119955_01-most-popular-updated-Accessories.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NFSpV_1709125123572_01-most-popular-updated-Accessories.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Toys": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_IcbUp_1709125119957_01-most-popular-updated-Toys.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_N9geO_1709125123574_01-most-popular-updated-Toys.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthFitness": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_BzdWW_1709125119958_01-most-popular-updated-HealthFitness.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_rUaA__1709125123575_01-most-popular-updated-HealthFitness.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Perfumes": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eZSnE_1709125119959_01-most-popular-updated-Perfumes.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_qYu8u_1709125123578_01-most-popular-updated-Perfumes.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "BagPurse": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_G96ch_1709125119961_01-most-popular-updated-BagPurse.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe__YUxw_1709125123580_01-most-popular-updated-BagPurse.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "HealthBeauty": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_chlQf_1709125119962_01-most-popular-updated-HealthBeauty.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_itOqL_1709125123581_01-most-popular-updated-HealthBeauty.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "MobileElec": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_8XWe6_1709125119973_01-most-popular-updated-MobileElec.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_mHP3m_1709125123583_01-most-popular-updated-MobileElec.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Clothings": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_xVjMw_1709125119974_01-most-popular-updated-Clothings.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_g-w-n_1709125123584_01-most-popular-updated-Clothings.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Footwear": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eMHIQ_1709125119975_01-most-popular-updated-Footwear.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_wap74_1709125123586_01-most-popular-updated-Footwear.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Jewellery": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_r0MwG_1709125119976_01-most-popular-updated-Jewellery.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_NWQt7_1709125123587_01-most-popular-updated-Jewellery.mp4",
-            "promoHeading": ""
-          }
-        },
-        {
-          "Wearables": {
-            "thumbnail": "https://cdn.hootout.com/VidyBack-videos/vbe_eTX4f_1709125119977_01-most-popular-updated-Wearables.jpg",
-            "preview": "https://cdn.hootout.com/VidyBack-videos/vbe_iVGZQ_1709125123589_01-most-popular-updated-Wearables.mp4",
-            "promoHeading": ""
-          }
-        }
-      ],
-      "id": "hNtmh3RYNaUR6bkrfgXUY",
-      "templateId": "hNtmh3RYNaUR6bkrfgXUY",
-      "noBlur":true
-    },
+    
     {
       "version": 1,
       "gifUrl": "",
@@ -43997,7 +43864,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-31T07:07:43.128Z",
       "extraComps": [
         {
@@ -44116,6 +43983,7 @@
         }
       ],
       "id": "lW_XfXrF_A17_XyZ2",
+      "speedX":true,
       "templateId": "lW_XfXrF_A17_XyZ2"
     },
     {
@@ -44687,7 +44555,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-23T11:13:49.408Z",
       "extraComps": [
         {
@@ -44778,6 +44646,7 @@
         }
       ],
       "id": "lW_XfXrF_S14_XyZ2",
+      "speedX":true,
       "templateId": "lW_XfXrF_S14_XyZ2"
     },
     {
@@ -44795,7 +44664,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-23T11:13:49.408Z",
       "extraComps": [
         {
@@ -44886,6 +44755,7 @@
         }
       ],
       "id": "lW_XfXrF_S14_XyZ2",
+      "speedX":true,
       "templateId": "lW_XfXrF_S14_XyZ2"
     },
     
@@ -45315,7 +45185,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_YFAPO_1666165105506_mixkit-just-keep-walking-963.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-31T07:07:43.128Z",
       "extraComps": [
         {
@@ -45434,6 +45304,7 @@
         }
       ],
       "id": "lW_XfXrF_A17_XyZ2",
+      "speedX":true,
       "templateId": "lW_XfXrF_A17_XyZ2"
     },
     {
@@ -48871,6 +48742,7 @@
       ],
       "id": "aCUr59qo-vr0KJXPktEyS",
       "templateId": "aCUr59qo-vr0KJXPktEyS",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -49019,6 +48891,7 @@
       ],
       "id": "aCUr59qo-vr0KJXPktEyS",
       "templateId": "aCUr59qo-vr0KJXPktEyS",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
@@ -49039,7 +48912,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_g1hO7_1666165379253_mixkit-the-duel-817.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-01-04T11:34:32.644Z",
       "extraComps": [
         {
@@ -49980,6 +49853,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "H_tThJyEm2KjnHiG3cIBR",
+      "speedX":true,
       "templateId": "H_tThJyEm2KjnHiG3cIBR",
       "classes": [
         "HealthBeauty"
@@ -50121,6 +49995,7 @@
         }
       ],
       "id": "lW_XfXrF_A18_XyZ2",
+      "speedX":true,
       "templateId": "lW_XfXrF_A18_XyZ2"
     },
    
@@ -50544,6 +50419,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "C_qo-AkQ39QZmOFyZ3Ckk",
+      "speedX":true,
       "templateId": "C_qo-AkQ39QZmOFyZ3Ckk",
       "classes": [
         "HealthBeauty"
@@ -54456,7 +54332,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fT8Vt_1697804337367_edited-follow-me-home-350.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-20T12:53:27.466Z",
       "extraComps": [
         {
@@ -54561,6 +54437,7 @@
         }
       ],
       "speedX":true,
+      
       "id": "a_jdaOz_KuW_LQ1",
       "templateId": "a_jdaOz_KuW_LQ1"
     },
@@ -54706,6 +54583,7 @@
       "templateId": "llx_1fqPasv6_0SX3w-7BWdDxN_1",
       "noBlur":true,
       "isDevOnly": true,
+      "speedX":true,
       "version": 1,
       "gifUrl": "",
       "bgVideoUrl": [
@@ -54720,7 +54598,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-10T07:50:03.990Z",
       "extraComps": [
         {
@@ -54971,7 +54849,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_zR_A__1713349387870_mixkit-getting-ready-46.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-05-31T10:48:10.793Z",
       "extraComps": [
         {
@@ -55106,6 +54984,7 @@
         }
       ],
       "id": "piErQKFbtrVNj8cQFKtoNlm",
+      "speedX":true,
       "templateId": "piErQKFbtrVNj8cQFKtoNlm"
     },
    
@@ -55124,7 +55003,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6BKYF_1713876711262_mixkit-cant-get-you-off-my-mind-1210.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-05-24T12:14:44.541Z",
       "extraComps": [
         {
@@ -55560,7 +55439,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_0eelu_1716460298654_beating-break-174.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-05-24T06:06:24.523Z",
       "extraComps": [
         {
@@ -55687,6 +55566,7 @@
           }
         }
       ],
+      "speedX":true,
       "id": "BOVCJpNa_XK31OmCuqr7b",
       "templateId": "BOVCJpNa_XK31OmCuqr7b"
     },
@@ -56736,7 +56616,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_qD8oC_1702275443569_mixkit-hip-hop-01-737-updated.mp3.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2024-04-26T12:51:54.338Z",
       "extraComps": [
         {
@@ -59485,7 +59365,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_f_ZA-_1696839215520_mixkit-city-of-sins-986.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-20T08:23:13.215Z",
       "extraComps": [
         {
@@ -61635,7 +61515,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x1Lwf_1663651461553_mixkit-hip-hop-02-738.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-27T06:38:48.496Z",
       "extraComps": [
         {
@@ -61747,6 +61627,7 @@
         }
       ],
       "id": "2SO2ogihkPw9_1_Y43Dk6yI2",
+      "speedX":true,
       "templateId": "2SO2ogihkPw9_1_Y43Dk6yI2"
     },
     {
@@ -61764,7 +61645,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x1Lwf_1663651461553_mixkit-hip-hop-02-738.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": false,
+      "pro": true,
       "createdOn": "2023-10-27T06:38:48.496Z",
       "extraComps": [
         {
@@ -61876,6 +61757,7 @@
         }
       ],
       "id": "2SO2ogihkPw9_1_Y43Dk6yI2",
+      "speedX":true,
       "templateId": "2SO2ogihkPw9_1_Y43Dk6yI2"
     },
    
