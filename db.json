@@ -19876,7 +19876,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ewW6a_1666164968190_mixkit-fight-till-the-end-81.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x_He4_1718099379186_we-all-need-a-fix-1123.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -21362,7 +21362,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6PfGw_1674197085363_Summer Uplifting Dance (Full).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x_He4_1718099379186_we-all-need-a-fix-1123.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -21444,7 +21444,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_IkuA4_1718105998087_this-our-year-happy-new-year-927.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -22744,7 +22744,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_TgQmu_1663651535557_mixkit-i-do-1001.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -22888,7 +22888,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_hFqJ0_1674196945439_mixkit-its-april-847 (mp3cut.net).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_ttyHi_1717754185790_mixkit-house-vibes-129.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": true,
@@ -24285,7 +24285,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_E41TS_1663651414476_mixkit-hiding-under-707.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_AJXRT_1718105419993_g-eazy-nba-type-403.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -25293,6 +25293,7 @@
         }
       ],
       "id": "gvr50wnJ5EQtvYwwaeb57",
+      "speedX":true,
       "templateId": "gvr50wnJ5EQtvYwwaeb57"
     },
     {
@@ -26527,7 +26528,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_XOjKh_1666165272362_mixkit-pop-track-01-727.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wi7PC_1697196412429_mixkit-infectious-groove-142.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -28229,7 +28230,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_x_He4_1718099379186_we-all-need-a-fix-1123.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -32961,7 +32962,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_Lp29f_1674196853177_mixkit-dance-02-762 (mp3cut (mp3cut.net).mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_lJpPT_1718105538572_its-a-cool-thing-1164.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -33500,6 +33501,7 @@
       ],
       "id": "XOGbn5bsZBGEL9ESw-ri1",
       "templateId": "XOGbn5bsZBGEL9ESw-ri1",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -33514,7 +33516,7 @@
       "bgImageUrl": [
         ""
       ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_C8pkI_1663651826811_mixkit-molly-260.mp3",
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WyLtZ_1714048769205_mixkit-walk-the-cat-59.mp3",
       "fillEnabled": true,
       "forWebsites": [],
       "pro": false,
@@ -33663,6 +33665,7 @@
       ],
       "id": "3MsfC2D1kkadMe7z5PNy4",
       "templateId": "3MsfC2D1kkadMe7z5PNy4",
+      "speedX":true,
       "isMultipleTemplate": false
     },
     {
@@ -75610,6 +75613,7 @@
         }
       ],
       "id": "sOkbHvlYD-FudzEhxpxdx1",
+      "speedX":true,
       "templateId": "sOkbHvlYD-FudzEhxpxdx1"
     },
     {
