@@ -41361,7 +41361,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_WyLtZ_1714048769205_mixkitMYIjd0TTu5N9UBx3TcU75-walk-the-cat-59.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2024-04-26T10:51:06.385Z",
       "extraComps": [
         {
@@ -42812,7 +42812,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "speedX":true,
       "createdOn": "2023-10-10T07:50:03.990Z",
       "extraComps": [
@@ -44556,7 +44556,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_N9oox_1698055633372_high-on-love.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-10-23T11:13:49.408Z",
       "extraComps": [
         {
@@ -54599,7 +54599,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_wp_7__1696921955310_how-can-i-love-you-249-60secs.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2023-10-10T07:50:03.990Z",
       "extraComps": [
         {
@@ -55004,7 +55004,7 @@
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_6BKYF_1713876711262_mixkit-cant-get-you-off-my-mind-1210.mp3",
       "fillEnabled": true,
       "forWebsites": [],
-      "pro": true,
+      "pro": false,
       "createdOn": "2024-05-24T12:14:44.541Z",
       "extraComps": [
         {
@@ -74885,6 +74885,7 @@
         }
       ],
       "id": "jKMz8wNR4eGkYSk9zIGYh",
+      "speedX":true,
       "templateId": "jKMz8wNR4eGkYSk9zIGYh"
     },
     {
@@ -75350,6 +75351,7 @@
         }
       ],
       "id": "2iF9WuO_GyI2BJIBXpc65",
+      "speedX":true,
       "templateId": "2iF9WuO_GyI2BJIBXpc65"
     },
    
@@ -75642,6 +75644,7 @@
         }
       ],
       "id": "_4HTDxyI_Q7OvhjjsqwOU",
+      "speedX":true,
       "templateId": "_4HTDxyI_Q7OvhjjsqwOU"
     },
     {
@@ -75787,6 +75790,7 @@
         }
       ],
       "id": "sOkbHvlYD-FudzEhxpxdx",
+      "speedX":true,
       "templateId": "sOkbHvlYD-FudzEhxpxdx"
     },
     {
