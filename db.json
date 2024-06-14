@@ -58650,6 +58650,7 @@
       ],
       "speedX":true,
       "id": "OK8zKHqWLF3vlRGCevEcm",
+    
       "templateId": "OK8zKHqWLF3vlRGCevEcm"
     },
     {
@@ -58795,6 +58796,7 @@
         }
       ],
       "id": "OK8zKHqWLF3vlRGCevEcm",
+      "speedX":true,
       "templateId": "OK8zKHqWLF3vlRGCevEcm"
     },
    
@@ -59116,6 +59118,7 @@
         }
       ],
       "id": "3gtBPH5HPrej1xxIfMDiw",
+      "speedX":true,
       "templateId": "3gtBPH5HPrej1xxIfMDiw"
     },
     {
@@ -59275,6 +59278,7 @@
         }
       ],
       "id": "cbvcgu3Q7QD0j3p_qePM4",
+      "speedX":true,
       "templateId": "cbvcgu3Q7QD0j3p_qePM4"
     },
     {
@@ -59607,6 +59611,7 @@
         }
       ],
       "id": "dkap-f73SdmJdXIrEm4nx",
+      "speedX":true,
       "templateId": "dkap-f73SdmJdXIrEm4nx"
     },
     {
@@ -59759,6 +59764,7 @@
         }
       ],
       "id": "oIvJx7zBiEu3rZEhmbus8",
+      "speedX":true,
       "templateId": "oIvJx7zBiEu3rZEhmbus8"
     },
     {
@@ -60651,6 +60657,7 @@
     },
     {
       "id": "2SO2ogihkPw9_0_Y43Dk6yI2",
+      "speedX":true,
       "templateId": "2SO2ogihkPw9_0_Y43Dk6yI2",
       "version": 1,
       "gifUrl": "",
@@ -62248,6 +62255,7 @@
         }
       ],
       "id": "gihkPw9_3_k6yI2",
+      "speedX":true,
       "templateId": "gihkPw9_3_k6yI2"
       
     },
@@ -66090,6 +66098,7 @@
         }
       ],
       "id": "5E-LXKROEZ5-t7Fyj7OQK",
+      "speedX":true,
       "templateId": "5E-LXKROEZ5-t7Fyj7OQK"
     },
     {
@@ -66171,6 +66180,7 @@
         }
       ],
       "id": "81BNPbQ1HutdmyRVn7vc_",
+      "speedX":true,
       "templateId": "81BNPbQ1HutdmyRVn7vc_"
     },
     {
@@ -66334,6 +66344,7 @@
       ],
       "id": "egRxzYPbgbGKgS6HiypdB",
       "templateId": "egRxzYPbgbGKgS6HiypdB",
+      "speedX":true,
       "priorityNumber": false
     },
     {
@@ -66706,6 +66717,7 @@
         }
       ],
       "id": "o74HetjYfTAQdEwj4qUOF",
+      "speedX":true,
       "templateId": "o74HetjYfTAQdEwj4qUOF"
     },
     {
@@ -66835,6 +66847,7 @@
       "introId": null,
       "outroId": null,
       "isTransparent": false,
+      "speedX":true,
       "id": "X-o0i9mhI4nhlYiEOESPC",
       "templateId": "X-o0i9mhI4nhlYiEOESPC",
       "previews": [
@@ -66967,6 +66980,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "o1k9E1iJTvGbvYe98KLpJ",
+      "speedX":true,
       "templateId": "o1k9E1iJTvGbvYe98KLpJ",
       "brandDisabled": true
     },
@@ -67028,6 +67042,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "RyBG9PYL7USLN30K4kvq8",
+      "speedX":true,
       "templateId": "RyBG9PYL7USLN30K4kvq8",
       "version": 1
     },
@@ -67261,6 +67276,7 @@
       "isTransparent": false,
       "id": "LRIJXNJJliOWPwMS4AgvB",
       "templateId": "LRIJXNJJliOWPwMS4AgvB",
+      "speedX":true,
       "brandDisabled": true,
       "version": 1
     },
@@ -67429,6 +67445,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "MTp0BXVORCrvzinwp77eV",
+      "speedX":true,
       "templateId": "MTp0BXVORCrvzinwp77eV",
       "brandDisabled": true,
       "version": 1
@@ -70558,6 +70575,7 @@
       ],
       "id": "dOzo_eK9nZdYbKPnEdWiD",
       "templateId": "dOzo_eK9nZdYbKPnEdWiD",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": true
     },
@@ -72417,6 +72435,7 @@
       "outroId": null,
       "isTransparent": false,
       "id": "UHvHkFj_REA5GFzcsZasN",
+      "speedX":true,
       "templateId": "UHvHkFj_REA5GFzcsZasN",
       "classes": [
         "Accessories"
@@ -80564,6 +80583,7 @@
         }
       ],
       "id": "ghghgh12_9",
+      "speedX":true,
       "templateId": "ghghgh12_9"
     },
     {
