@@ -62400,6 +62400,7 @@
         }
       ],
       "id": "gihkPw9_3_k6yI2",
+      "speedX":true,
       "templateId": "gihkPw9_3_k6yI2"
       
     },
@@ -70658,6 +70659,7 @@
       ],
       "id": "dOzo_eK9nZdYbKPnEdWiD",
       "templateId": "dOzo_eK9nZdYbKPnEdWiD",
+      "speedX":true,
       "priorityNumber": true,
       "isMultipleTemplate": false
     },
