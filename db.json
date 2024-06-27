@@ -41152,6 +41152,73 @@
       "bgImageUrl": [
         ""
       ],
+      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fgadu_1718369213979_ranch.mp3",
+      "fillEnabled": true,
+      "forWebsites": [],
+      "pro": false,
+      "createdOn": "2024-06-27T13:25:37.076Z",
+      "extraComps": [
+        {
+          "index": 4,
+          "compId": "1705575891091_22-outro-story"
+        }
+      ],
+      "widgetsDefinition": [
+        {
+          "mappingKeyMandatory": false,
+          "Height": "100%",
+          "Width": "100%",
+          "StartTime": 0,
+          "EndTime": -1,
+          "URLS": [],
+          "mappingKeyValue": "",
+          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_JcXK__1719494732716_17-most-popular-story-24.json",
+          "X": "0.0%",
+          "Y": "0.0%",
+          "type": "SVG_SINGLE",
+          "duration": 10
+        }
+      ],
+      "type": "Instagram Stories",
+      "name": "17-most-popular-story-24",
+      "brandEnabled": false,
+      "brandType": "X1",
+      "category": [
+        "p_mp"
+      ],
+      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_I2MHU_1719494732721_17-most-popular-story-24.mp4",
+      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_2aNGK_1719494732720_17-most-popular-story-24.jpg",
+      "imageType": "Instagram Stories",
+      "outroType": null,
+      "introType": null,
+      "Height": 1920,
+      "Width": 1080,
+      "height": 1920,
+      "width": 1080,
+      "introId": null,
+      "outroId": null,
+      "isTransparent": false,
+      "AddId": "",
+      "volume": 0.5,
+      "noBlur": true,
+      "month": "january",
+      "isMultipleTemplate": false,
+      "previews": [],
+      "id":"879-G-CMlcpwlEUUTjge_oJ9",
+      "templateId":"879-G-CMlcpwlEUUTjge_oJ9"
+    },
+    {
+      "version": 1,
+      "gifUrl": "",
+      "bgVideoUrl": [
+        ""
+      ],
+      "fontUrl": [
+        ""
+      ],
+      "bgImageUrl": [
+        ""
+      ],
       "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_yR4Zv_1697449864692_Outside.mp3",
       "fillEnabled": true,
       "forWebsites": [],
@@ -41430,73 +41497,7 @@
       "id":"22-G-CMlcpwlEUUTjge_oJ9",
       "templateId":"22-G-CMlcpwlEUUTjge_oJ9"
     },
-    {
-      "version": 1,
-      "gifUrl": "",
-      "bgVideoUrl": [
-        ""
-      ],
-      "fontUrl": [
-        ""
-      ],
-      "bgImageUrl": [
-        ""
-      ],
-      "bgMusicUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fgadu_1718369213979_ranch.mp3",
-      "fillEnabled": true,
-      "forWebsites": [],
-      "pro": false,
-      "createdOn": "2024-06-27T12:57:14.793Z",
-      "extraComps": [
-        {
-          "index": 4,
-          "compId": "1705575891091_22-outro-story"
-        }
-      ],
-      "widgetsDefinition": [
-        {
-          "mappingKeyMandatory": false,
-          "Height": "100%",
-          "Width": "100%",
-          "StartTime": 0,
-          "EndTime": -1,
-          "URLS": [],
-          "mappingKeyValue": "",
-          "URL": "https://cdn.hootout.com/VidyBack-videos/vbe_j-N1Y_1719493031260_17-most-popular-story-24.json",
-          "X": "0.0%",
-          "Y": "0.0%",
-          "type": "SVG_SINGLE",
-          "duration": 10
-        }
-      ],
-      "type": "Instagram Stories",
-      "name": "17-most-popular-story-24",
-      "brandEnabled": false,
-      "brandType": "X1",
-      "category": [
-        "p_mp"
-      ],
-      "vidUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_fraSH_1719493031264_17-most-popular-story-24.mp4",
-      "thumbUrl": "https://cdn.hootout.com/VidyBack-videos/vbe_UPlky_1719493031262_17-most-popular-story-24.jpg",
-      "imageType": "Instagram Stories",
-      "outroType": null,
-      "introType": null,
-      "Height": 1920,
-      "Width": 1080,
-      "height": 1920,
-      "width": 1080,
-      "introId": null,
-      "outroId": null,
-      "isTransparent": false,
-      "AddId": "",
-      "volume": 0.5,
-      "noBlur": true,
-      "month": "january",
-      "isMultipleTemplate": false,
-      "previews": [],
-      "id":"1eXXj3HjZZr0b_YLU1HD_",
-      "templateId":"1eXXj3HjZZr0b_YLU1HD_"
-    },
+    
     {
       "version": 1,
       "gifUrl": "",
