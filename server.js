@@ -30,17 +30,11 @@ const updateRecordsWithKeyValue = (ids, key, value, purpose) => {
       .write(); // Write the changes to the db
   });
 };
-updateRecordsWithKeyValue([
-  "2SO2ogihkPw9_6_Y43Dk6yI2",
-  "0EbjMEu9EUoyPFYuNqyKo",
-  "p65LnWZuyAnXQYUoiJcwb",
-  "3axwGvJ0wP64FO9TT4Hp8",
-  
-  
-  
-  ],
-"speedX",true,
-"p_ps");
+// updateRecordsWithKeyValue([
+
+//   ],
+// "speedX",true,
+// "p_ts");
 
 server.post("/:purpose", (req, res) => {
   // Process the request body and add/update data in db.json using lowdb
