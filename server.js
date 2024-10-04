@@ -31,20 +31,20 @@ const updateRecordsWithKeyValue = (ids, key, value, purpose) => {
   });
 };
 // updateRecordsWithKeyValue([
-// "oI-B5iEHnIvAfPBupftaO",
-// "ErpCsWA73EBGR0a5I86a7",
-// "tyEL2Q7f2J9IeM-GoexFa",
-// "sOkbHvlYD-FudzEhxpxdx",
-// "ghghgh12_9",
-// "YdSQlesSbJxwM5M8Hqnaj",
-// "_UXXSxY0D5WNd_BR5iCls",
-// "wW3z3Pk1RKhAJPi_1",
-// "wW3z3Pk7AL_a6_7C1RJPi_21",
-// "bvcKMqXhtiVDDwx3WIhYg"
+// "gihkPw9_2_k6yI2",
+// "8F9l5dNZOmrI2ouKPyFGV",
+// "DpPY0Pf64_1M12aa12",
+// "v8Vh78ODY9AWaww-zYIqX",
+// "IgmexWTsLls7ffJ2OEMMe",
+// "gihkPw9_4_k6yI2",
+// "JdxfFVs8c9LhrVBzF5CJy",
+// "0iHBAf5uOM60EHSaTCPcq",
+// "_Dmc0ORMcRVr-4JwjS4qZ",
+// "3wg-CFuwOH3O6SgD9zj7w"
 //   ],
-// "speedX",2.5,
-// // "speedXfortwoImage",1.4,
-// "p_na");
+// // "speedX",2,
+// "speedXfortwoImage",1.25,
+// "p_ps");
 
 server.post("/:purpose", (req, res) => {
   // Process the request body and add/update data in db.json using lowdb
