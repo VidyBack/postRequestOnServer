@@ -31,10 +31,20 @@ const updateRecordsWithKeyValue = (ids, key, value, purpose) => {
   });
 };
 // updateRecordsWithKeyValue([
-
+// "oI-B5iEHnIvAfPBupftaO",
+// "ErpCsWA73EBGR0a5I86a7",
+// "tyEL2Q7f2J9IeM-GoexFa",
+// "sOkbHvlYD-FudzEhxpxdx",
+// "ghghgh12_9",
+// "YdSQlesSbJxwM5M8Hqnaj",
+// "_UXXSxY0D5WNd_BR5iCls",
+// "wW3z3Pk1RKhAJPi_1",
+// "wW3z3Pk7AL_a6_7C1RJPi_21",
+// "bvcKMqXhtiVDDwx3WIhYg"
 //   ],
-// "speedX",true,
-// "p_ts");
+// "speedX",2.5,
+// // "speedXfortwoImage",1.4,
+// "p_na");
 
 server.post("/:purpose", (req, res) => {
   // Process the request body and add/update data in db.json using lowdb
