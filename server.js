@@ -31,20 +31,16 @@ const updateRecordsWithKeyValue = (ids, key, value, purpose) => {
   });
 };
 // updateRecordsWithKeyValue([
-// "gihkPw9_2_k6yI2",
-// "8F9l5dNZOmrI2ouKPyFGV",
-// "DpPY0Pf64_1M12aa12",
-// "v8Vh78ODY9AWaww-zYIqX",
-// "IgmexWTsLls7ffJ2OEMMe",
-// "gihkPw9_4_k6yI2",
-// "JdxfFVs8c9LhrVBzF5CJy",
-// "0iHBAf5uOM60EHSaTCPcq",
-// "_Dmc0ORMcRVr-4JwjS4qZ",
-// "3wg-CFuwOH3O6SgD9zj7w"
+//  "EnpJHBtYkJfDYqXnrCwAy",
+//   "DllEsKk2MmKI6r6BGQADr",
+//   "p_ldmUruoBdmA95ooOAhH",
+//   "mlpn_24_cftyr",
+//   "mlpn_17_cftyr"
+  
 //   ],
 // // "speedX",2,
-// "speedXfortwoImage",1.25,
-// "p_ps");
+// "pro",false,
+// "p_occasional");
 
 server.post("/:purpose", (req, res) => {
   // Process the request body and add/update data in db.json using lowdb
